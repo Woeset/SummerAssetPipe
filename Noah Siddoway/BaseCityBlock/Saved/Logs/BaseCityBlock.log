@@ -833,3 +833,225 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.18-17.21.54:463][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
 [2019.06.18-17.21.54:780][642]LogSavePackage: Moving '../../../../../../Users/u0845122/Documents/GitHub/SummerAssetPipe/Noah Siddoway/BaseCityBlock/Saved/StreetSceneLarge7980AD0A4EE610ABE35A6B89E68F71BF.tmp' to '../../../../../../Users/u0845122/Documents/GitHub/SummerAssetPipe/Noah Siddoway/BaseCityBlock/Content/StreetSceneLarge.umap'
 [2019.06.18-17.21.54:860][642]LogSavePackage: Moving '../../../../../../Users/u0845122/Documents/GitHub/SummerAssetPipe/Noah Siddoway/BaseCityBlock/Saved/StreetSceneLarge_BuiltData19E6777D45414C8A41ACD3811F78F7DD.tmp' to '../../../../../../Users/u0845122/Documents/GitHub/SummerAssetPipe/Noah Siddoway/BaseCityBlock/Content/StreetSceneLarge_BuiltData.uasset'
+[2019.06.18-17.22.29:035][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle56)
+[2019.06.18-17.22.30:722][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle57)
+[2019.06.18-17.22.42:830][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle57)
+[2019.06.18-17.22.46:128][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle58)
+[2019.06.18-17.22.48:463][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle56)
+[2019.06.18-17.22.51:562][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle58)
+[2019.06.18-17.22.55:726][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-17.23.08:964][540]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (cylinder25)
+[2019.06.18-17.23.18:181][827]Cmd: TRANSACTION UNDO
+[2019.06.18-17.23.18:181][827]LogEditorTransaction: Undo Scale Actors
+[2019.06.18-17.23.19:313][945]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.18-17.23.27:086][294]Cmd: TRANSACTION UNDO
+[2019.06.18-17.23.27:086][294]LogEditorTransaction: Undo Scale Actors
+[2019.06.18-17.23.28:758][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle59)
+[2019.06.18-17.23.47:666][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle61)
+[2019.06.18-17.23.52:298][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle60)
+[2019.06.18-17.24.12:077][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle62)
+[2019.06.18-17.24.28:176][446]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.18-17.24.28:222][446]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-17.24.28:901][522]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.18-17.24.31:402][712]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.18-17.24.32:894][885]Cmd: TRANSACTION UNDO
+[2019.06.18-17.24.32:894][885]LogEditorTransaction: Undo Clicking on Actors
+[2019.06.18-17.24.33:603][960]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.18-17.24.35:172][121]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.18-17.24.36:673][285]Cmd: TRANSACTION UNDO
+[2019.06.18-17.24.36:673][285]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2019.06.18-17.24.37:120][329]Cmd: TRANSACTION UNDO
+[2019.06.18-17.24.37:120][329]LogEditorTransaction: Undo Move Actors
+[2019.06.18-17.24.37:841][402]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.18-17.24.40:312][573]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.18-17.25.05:434][398]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle64)
+[2019.06.18-17.25.06:250][420]Cmd: DELETE
+[2019.06.18-17.25.06:250][420]Cmd: ACTOR DELETE
+[2019.06.18-17.25.06:256][420]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.18-17.25.06:281][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.06.18-17.25.06:281][420]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.06.18-17.25.07:472][458]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle65)
+[2019.06.18-17.25.09:603][517]Cmd: DELETE
+[2019.06.18-17.25.09:603][517]Cmd: ACTOR DELETE
+[2019.06.18-17.25.09:609][517]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.18-17.25.09:632][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.06.18-17.25.09:633][517]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.06.18-17.25.10:047][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle66)
+[2019.06.18-17.25.10:292][535]Cmd: DELETE
+[2019.06.18-17.25.10:292][535]Cmd: ACTOR DELETE
+[2019.06.18-17.25.10:298][535]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.18-17.25.10:323][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.06.18-17.25.10:323][535]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2019.06.18-17.25.11:475][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle67)
+[2019.06.18-17.25.11:661][575]Cmd: DELETE
+[2019.06.18-17.25.11:661][575]Cmd: ACTOR DELETE
+[2019.06.18-17.25.11:667][575]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.18-17.25.11:691][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.06.18-17.25.11:691][575]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2019.06.18-17.25.12:200][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle68)
+[2019.06.18-17.25.15:383][736]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.18-17.25.25:712][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (cylinder27)
+[2019.06.18-17.25.31:222][734]Cmd: TRANSACTION UNDO
+[2019.06.18-17.25.31:222][734]LogEditorTransaction: Undo Move Actors
+[2019.06.18-17.25.42:245][113]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.18-17.25.43:687][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle69)
+[2019.06.18-17.25.44:263][328]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle69)
+[2019.06.18-17.26.33:515][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle70)
+[2019.06.18-17.26.38:226][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle69)
+[2019.06.18-17.26.42:460][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle76)
+[2019.06.18-17.26.46:212][144]Cmd: DELETE
+[2019.06.18-17.26.46:212][144]Cmd: ACTOR DELETE
+[2019.06.18-17.26.46:218][144]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.18-17.26.46:241][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2019.06.18-17.26.46:241][144]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2019.06.18-17.26.47:132][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle75)
+[2019.06.18-17.26.49:811][298]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle77)
+[2019.06.18-17.26.54:526][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle74)
+[2019.06.18-17.26.58:095][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle72)
+[2019.06.18-17.27.00:113][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle71)
+[2019.06.18-17.27.02:372][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle70)
+[2019.06.18-17.27.04:832][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle74)
+[2019.06.18-17.27.05:673][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle77)
+[2019.06.18-17.27.06:472][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle72)
+[2019.06.18-17.27.12:929][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle73)
+[2019.06.18-17.27.14:688][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle71)
+[2019.06.18-17.27.17:929][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle73)
+[2019.06.18-17.27.20:798][559]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle75)
+[2019.06.18-17.27.27:036][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle69)
+[2019.06.18-17.27.32:436][ 33]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle77)
+[2019.06.18-17.27.35:436][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle74)
+[2019.06.18-17.27.39:348][314]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle75)
+[2019.06.18-17.27.40:086][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle77)
+[2019.06.18-17.28.04:622][204]Cmd: DELETE
+[2019.06.18-17.28.04:622][204]Cmd: ACTOR DELETE
+[2019.06.18-17.28.04:630][204]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.18-17.28.04:630][204]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.18-17.28.04:630][204]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.18-17.28.04:631][204]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.18-17.28.04:631][204]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.18-17.28.04:631][204]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.18-17.28.04:631][204]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.18-17.28.04:631][204]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.18-17.28.04:653][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.06.18-17.28.04:653][204]LogEditorActor: Deleted 8 Actors (0.031 secs)
+[2019.06.18-17.28.05:965][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle73)
+[2019.06.18-17.28.29:768][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle76)
+[2019.06.18-17.28.32:166][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle78)
+[2019.06.18-17.28.36:506][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle76)
+[2019.06.18-17.28.38:255][567]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle71)
+[2019.06.18-17.28.45:410][868]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle78)
+[2019.06.18-17.28.50:952][ 97]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle79)
+[2019.06.18-17.28.56:523][307]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle73)
+[2019.06.18-17.29.00:367][461]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle71)
+[2019.06.18-17.29.03:190][600]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle69)
+[2019.06.18-17.29.05:911][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle70)
+[2019.06.18-17.29.11:144][360]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle74)
+[2019.06.18-17.29.15:200][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle76)
+[2019.06.18-17.29.18:030][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle79)
+[2019.06.18-17.29.46:514][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle78)
+[2019.06.18-17.29.49:217][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle80)
+[2019.06.18-17.29.49:763][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle80)
+[2019.06.18-17.29.52:073][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle80)
+[2019.06.18-17.29.53:166][290]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle79)
+[2019.06.18-17.29.55:183][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle69)
+[2019.06.18-17.29.58:638][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle85)
+[2019.06.18-17.30.26:664][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-17.30.26:922][ 37]LogActorFactory: Actor Factory created rectangle
+[2019.06.18-17.30.28:200][ 79]LogActorFactory: Actor Factory created rectangle
+[2019.06.18-17.30.54:726][114]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-17.31.05:157][540]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fat_shorty_pipe3)
+[2019.06.18-17.31.05:653][552]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.18-17.31.08:242][666]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-17.31.08:271][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.06.18-17.31.08:611][666]LogSavePackage: Moving '../../../../../../Users/u0845122/Documents/GitHub/SummerAssetPipe/Noah Siddoway/BaseCityBlock/Saved/StreetSceneLarge321B12A64307B93A762050A742BFC3A9.tmp' to '../../../../../../Users/u0845122/Documents/GitHub/SummerAssetPipe/Noah Siddoway/BaseCityBlock/Content/StreetSceneLarge.umap'
+[2019.06.18-17.31.08:702][666]LogSavePackage: Moving '../../../../../../Users/u0845122/Documents/GitHub/SummerAssetPipe/Noah Siddoway/BaseCityBlock/Saved/StreetSceneLarge_BuiltData1F79E0AD4AC331AC8C262FA0E1722988.tmp' to '../../../../../../Users/u0845122/Documents/GitHub/SummerAssetPipe/Noah Siddoway/BaseCityBlock/Content/StreetSceneLarge_BuiltData.uasset'
+[2019.06.18-17.31.49:177][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-17.32.09:448][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-17.32.09:454][ 83]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/u0845122/Documents/GitHub/SummerAssetPipe/Jacob_Grahmann/Flagpole_Block.obj)
+[2019.06.18-17.32.09:463][ 83]LogFbx: Loading FBX Scene from ../../../../../../Users/u0845122/Documents/GitHub/SummerAssetPipe/Jacob_Grahmann/Flagpole_Block.obj
+[2019.06.18-17.32.09:475][ 83]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.18-17.32.16:253][ 83]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.18-17.32.16:285][ 83]LogLinker: Can't find file '/Game/Ojects/WoodTexture_01'
+[2019.06.18-17.32.16:285][ 83]LogLinker: Can't find file '/Game/Ojects/WoodTexture_01'
+[2019.06.18-17.32.16:285][ 83]LogFbxMaterialImport: Warning: Unable to find Texture file ..\..\..\..\..\..\Users\u0845122\Documents\GitHub\SummerAssetPipe\Jacob_Grahmann\WoodTexture_01.jpg
+[2019.06.18-17.32.16:289][ 83]LogMaterial: Display: Missing cached shader map for material lambert2SG, compiling. 
+[2019.06.18-17.32.16:306][ 83]LogLinker: Can't find file '/Game/Ojects/WoodTexture_02'
+[2019.06.18-17.32.16:306][ 83]LogLinker: Can't find file '/Game/Ojects/WoodTexture_02'
+[2019.06.18-17.32.16:306][ 83]LogFbxMaterialImport: Warning: Unable to find Texture file ..\..\..\..\..\..\Users\u0845122\Documents\GitHub\SummerAssetPipe\Jacob_Grahmann\WoodTexture_02.jpg
+[2019.06.18-17.32.16:313][ 83]LogMaterial: Display: Missing cached shader map for material lambert4SG, compiling. 
+[2019.06.18-17.32.16:332][ 83]LogLinker: Can't find file '/Game/Ojects/Fabric_Texture'
+[2019.06.18-17.32.16:332][ 83]LogLinker: Can't find file '/Game/Ojects/Fabric_Texture'
+[2019.06.18-17.32.16:332][ 83]LogFbxMaterialImport: Warning: Unable to find Texture file ..\..\..\..\..\..\Users\u0845122\Documents\GitHub\SummerAssetPipe\Jacob_Grahmann\Fabric_Texture.jpg
+[2019.06.18-17.32.16:337][ 83]LogMaterial: Display: Missing cached shader map for material lambert5SG, compiling. 
+[2019.06.18-17.32.16:357][ 83]LogFbx: Display: Triangulating static mesh pSphere2
+[2019.06.18-17.32.16:399][ 83]LogStaticMesh: Building static mesh Flagpole_Block...
+[2019.06.18-17.32.16:429][ 83]LogStaticMesh: Built static mesh [0.03s] /Game/Ojects/Flagpole_Block.Flagpole_Block
+[2019.06.18-17.32.19:868][161]LogActorFactory: Actor Factory created Flagpole_Block
+[2019.06.18-17.32.21:583][198]LogActorFactory: Actor Factory created Flagpole_Block
+[2019.06.18-17.32.24:535][312]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.18-17.32.27:965][572]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.18-17.32.36:750][313]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.18-17.33.04:376][158]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (47.892 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.18-17.33.36:103][481]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-17.33.38:274][613]LogTexture: Display: Building textures: darkWood02 (BGRA8, 225X225)
+[2019.06.18-17.33.38:274][613]LogMaterial: Display: Missing cached shader map for material darkWood02_Mat, compiling. 
+[2019.06.18-17.33.40:037][679]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-17.33.42:477][810]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-17.33.44:796][933]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-17.33.47:127][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-17.33.50:993][317]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.18-17.33.56:091][748]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-17.34.57:345][891]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-17.34.57:386][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.06.18-17.34.57:718][891]LogSavePackage: Moving '../../../../../../Users/u0845122/Documents/GitHub/SummerAssetPipe/Noah Siddoway/BaseCityBlock/Saved/StreetSceneLarge52731BAA4C7A049CEBB77EBC38BB4676.tmp' to '../../../../../../Users/u0845122/Documents/GitHub/SummerAssetPipe/Noah Siddoway/BaseCityBlock/Content/StreetSceneLarge.umap'
+[2019.06.18-17.34.57:801][891]LogSavePackage: Moving '../../../../../../Users/u0845122/Documents/GitHub/SummerAssetPipe/Noah Siddoway/BaseCityBlock/Saved/StreetSceneLarge_BuiltData8BBF7EF1487CD76082A67EA485F4EDA5.tmp' to '../../../../../../Users/u0845122/Documents/GitHub/SummerAssetPipe/Noah Siddoway/BaseCityBlock/Content/StreetSceneLarge_BuiltData.uasset'
+[2019.06.18-17.35.59:916][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-17.36.00:035][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.06.18-17.36.00:368][281]LogSavePackage: Moving '../../../../../../Users/u0845122/Documents/GitHub/SummerAssetPipe/Noah Siddoway/BaseCityBlock/Saved/StreetSceneLarge73E5852F47ACC2CC96A9908C44D1FB7A.tmp' to '../../../../../../Users/u0845122/Documents/GitHub/SummerAssetPipe/Noah Siddoway/BaseCityBlock/Content/StreetSceneLarge.umap'
+[2019.06.18-17.36.00:451][281]LogSavePackage: Moving '../../../../../../Users/u0845122/Documents/GitHub/SummerAssetPipe/Noah Siddoway/BaseCityBlock/Saved/StreetSceneLarge_BuiltData6CE340484F1104FA5F6C76BCAF585FCF.tmp' to '../../../../../../Users/u0845122/Documents/GitHub/SummerAssetPipe/Noah Siddoway/BaseCityBlock/Content/StreetSceneLarge_BuiltData.uasset'
+[2019.06.18-17.38.38:614][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase10)
+[2019.06.18-17.38.38:709][270]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.18-17.38.39:733][352]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (GroundBase37)
+[2019.06.18-17.38.39:790][352]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.18-17.38.40:756][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase28)
+[2019.06.18-17.38.40:997][471]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.18-17.38.46:396][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase9)
+[2019.06.18-17.38.46:527][683]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.18-17.38.59:851][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (cylinder27)
+[2019.06.18-17.39.10:082][379]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.18-17.39.55:449][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle88)
+[2019.06.18-17.40.32:473][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (triangle6)
+[2019.06.18-17.40.36:117][219]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.18-17.42.20:266][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (cylinder29)
+[2019.06.18-17.42.20:887][937]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.18-17.42.33:290][442]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.18-17.42.38:722][661]Cmd: TRANSACTION UNDO
+[2019.06.18-17.42.38:723][661]LogEditorTransaction: Undo Move Actors
+[2019.06.18-17.42.39:722][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle93)
+[2019.06.18-17.43.01:859][115]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.18-17.43.25:385][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle97)
+[2019.06.18-17.43.29:419][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle98)
+[2019.06.18-17.43.44:472][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (cylinder18)
+[2019.06.18-17.43.45:212][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle95)
+[2019.06.18-17.43.50:159][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle98)
+[2019.06.18-17.43.54:051][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle96)
+[2019.06.18-17.43.55:901][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (rectangle98)
+[2019.06.18-17.44.01:093][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.18-17.44.01:492][904]LogTemp: Repeating last play command: Selected Viewport
+[2019.06.18-17.44.01:503][904]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel' has LevelScriptBlueprint '/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.StreetSceneLarge' with GeneratedClass '/Game/StreetSceneLarge.StreetSceneLarge_C' with ClassGeneratedBy '/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.StreetSceneLarge'
+[2019.06.18-17.44.01:503][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.18-17.44.01:504][904]PIE: New page: PIE session: StreetSceneLarge (Jun 18, 2019, 5:44:01 AM)
+[2019.06.18-17.44.01:516][904]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StreetSceneLarge
+[2019.06.18-17.44.01:535][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018736s)
+[2019.06.18-17.44.01:535][904]LogAIModule: Creating AISystem for world StreetSceneLarge
+[2019.06.18-17.44.01:536][904]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2019.06.18-17.44.01:536][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StreetSceneLarge.StreetSceneLarge to /Game/UEDPIE_0_StreetSceneLarge.StreetSceneLarge (0.019819s)
+[2019.06.18-17.44.01:559][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.06.18-17.44.01:568][904]LogInit: XAudio2 using '1 - CintiqPro24P (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.18-17.44.01:580][904]LogInit: FAudioDevice initialized.
+[2019.06.18-17.44.01:619][904]LogLoad: Game class is 'GameModeBase'
+[2019.06.18-17.44.01:630][904]LogWorld: Bringing World /Game/UEDPIE_0_StreetSceneLarge.StreetSceneLarge up for play (max tick rate 0) at 2019.06.18-11.44.01
+[2019.06.18-17.44.01:631][904]LogWorld: Bringing up level for play took: 0.009504
+[2019.06.18-17.44.01:649][904]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.06.18-17.44.01:650][904]PIE: Play in editor start time for /Game/UEDPIE_0_StreetSceneLarge 0.125
+[2019.06.18-17.44.01:650][904]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel' has LevelScriptBlueprint '/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.StreetSceneLarge' with GeneratedClass '/Game/StreetSceneLarge.StreetSceneLarge_C' with ClassGeneratedBy '/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.StreetSceneLarge'
