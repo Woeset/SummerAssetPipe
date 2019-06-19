@@ -1269,3 +1269,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.19-15.48.55:499][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
 [2019.06.19-15.48.58:844][271]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/StreetSceneLargeD39DD2B34DB4E673D06B32945152484C.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge.umap'
 [2019.06.19-15.48.59:566][271]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/StreetSceneLarge_BuiltData64C002674A37D65742E749BBFE06C51E.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge_BuiltData.uasset'
+[2019.06.19-15.49.57:619][555]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.19-15.50.24:355][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_Block21)
+[2019.06.19-15.50.28:150][432]Cmd: TRANSACTION UNDO
+[2019.06.19-15.50.28:150][432]LogEditorTransaction: Undo Clicking on Actors
+[2019.06.19-15.50.36:431][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder26)
+[2019.06.19-15.50.38:078][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder26)
+[2019.06.19-15.50.39:499][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder33)
+[2019.06.19-15.50.43:633][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wood_Block_10)
+[2019.06.19-15.51.08:503][287]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.19-15.51.17:606][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-15.51.17:704][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.06.19-15.51.21:159][656]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/StreetSceneLargeB181C975441DD6664238F2B9C3B6BEB2.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge.umap'
+[2019.06.19-15.51.21:706][656]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/StreetSceneLarge_BuiltData0045960F4AE05077B26FD0AA2891DBEA.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge_BuiltData.uasset'
+[2019.06.19-15.51.43:953][726]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.19-15.51.44:597][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-15.51.44:715][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2019.06.19-15.51.47:993][754]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/StreetSceneLarge4A89D80E498D6068D545F4AD90AFCCC4.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge.umap'
+[2019.06.19-15.51.48:510][754]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/StreetSceneLarge_BuiltDataCCE2502042B11ADF75119DA1ED912379.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge_BuiltData.uasset'
