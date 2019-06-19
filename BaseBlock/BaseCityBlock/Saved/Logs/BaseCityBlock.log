@@ -1,4 +1,4 @@
-﻿Log file open, 06/19/19 09:42:39
+﻿Log file open, 06/19/19 10:15:33
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -10,7 +10,7 @@ LogInit: Display: Running engine for game: BaseCityBlock
 LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.260218
+LogStats: Stats thread started at 0.996332
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -116,12 +116,12 @@ LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connecti
 LogInit:  - LocalHostAddr = Default
 LogInit:  - BufferSize = 65536
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-LogInit: Build: ++UE4+Release-4.22-CL-6574378
-LogInit: Engine Version: 4.22.2-6574378+++UE4+Release-4.22
+LogInit: Build: ++UE4+Release-4.22-CL-6063286
+LogInit: Engine Version: 4.22.1-6063286+++UE4+Release-4.22
 LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
 LogInit: Net CL: 5660361
-LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1070
-LogInit: Compiled (64-bit): May 20 2019 09:54:56
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-8809G CPU @ 3.10GHz, GPU: Radeon RX Vega M GH Graphics
+LogInit: Compiled (64-bit): Apr 24 2019 04:36:48
 LogInit: Compiled with Visual C++: 19.16.27025.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.22
@@ -156,1134 +156,422 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2019.06.19-15.42.39:391][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2019.06.19-15.42.39:391][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2019.06.19-15.42.39:391][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
-[2019.06.19-15.42.39:391][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2019.06.19-15.42.39:391][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
-[2019.06.19-15.42.39:391][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
-[2019.06.19-15.42.39:391][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2019.06.19-15.42.39:391][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2019.06.19-15.42.39:391][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2019.06.19-15.42.39:391][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2019.06.19-15.42.39:392][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2019.06.19-15.42.39:392][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2019.06.19-15.42.39:392][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2019.06.19-15.42.39:392][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2019.06.19-15.42.39:392][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2019.06.19-15.42.39:392][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2019.06.19-15.42.39:392][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2019.06.19-15.42.39:392][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2019.06.19-15.42.39:392][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2019.06.19-15.42.39:392][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
-[2019.06.19-15.42.39:392][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2019.06.19-15.42.39:392][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2019.06.19-15.42.39:392][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2019.06.19-15.42.39:392][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2019.06.19-15.42.39:392][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2019.06.19-15.42.39:392][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2019.06.19-15.42.39:392][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
-[2019.06.19-15.42.39:392][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2019.06.19-15.42.39:392][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2019.06.19-15.42.39:392][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2019.06.19-15.42.39:392][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2019.06.19-15.42.39:392][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2019.06.19-15.42.39:392][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2019.06.19-15.42.39:392][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
-[2019.06.19-15.42.39:392][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
-[2019.06.19-15.42.39:399][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2019.06.19-15.42.39:399][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2019.06.19-15.42.39:400][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2019.06.19-15.42.39:400][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2019.06.19-15.42.39:400][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2019.06.19-15.42.39:400][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2019.06.19-15.42.39:400][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2019.06.19-15.42.39:400][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2019.06.19-15.42.39:400][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2019.06.19-15.42.39:400][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2019.06.19-15.42.39:400][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2019.06.19-15.42.39:400][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
-[2019.06.19-15.42.39:400][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2019.06.19-15.42.39:400][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2019.06.19-15.42.39:400][  0]LogInit: Selected Device Profile: [Windows]
-[2019.06.19-15.42.39:400][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2019.06.19-15.42.39:410][  0]LogHAL: Display: Platform has ~ 32 GB [34284154880 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
-[2019.06.19-15.42.39:410][  0]LogInit: Going up to parent DeviceProfile []
-[2019.06.19-15.42.39:410][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2019.06.19-15.42.39:410][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2019.06.19-15.42.39:411][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
-[2019.06.19-15.42.39:411][  0]LogInit: Computer: DESKTOP-KBUC8NT
-[2019.06.19-15.42.39:411][  0]LogInit: User: jacob
-[2019.06.19-15.42.39:411][  0]LogInit: CPU Page size=4096, Cores=4
-[2019.06.19-15.42.39:411][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2019.06.19-15.42.39:411][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
-[2019.06.19-15.42.39:411][  0]LogMemory: Platform Memory Stats for Windows
-[2019.06.19-15.42.39:411][  0]LogMemory: Process Physical Memory: 96.14 MB used, 96.14 MB peak
-[2019.06.19-15.42.39:411][  0]LogMemory: Process Virtual Memory: 88.85 MB used, 88.85 MB peak
-[2019.06.19-15.42.39:411][  0]LogMemory: Physical Memory: 5986.11 MB used,  26709.80 MB free, 32695.92 MB total
-[2019.06.19-15.42.39:411][  0]LogMemory: Virtual Memory: 4656.38 MB used,  134213072.00 MB free, 134217728.00 MB total
-[2019.06.19-15.42.39:428][  0]LogInit: Using OS detected language (en-US).
-[2019.06.19-15.42.39:428][  0]LogInit: Using OS detected locale (en-US).
-[2019.06.19-15.42.39:428][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2019.06.19-15.42.39:576][  0]LogInit: Setting process to per monitor DPI aware
-[2019.06.19-15.42.39:612][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2019.06.19-15.42.39:612][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2019.06.19-15.42.39:770][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2019.06.19-15.42.39:770][  0]LogD3D11RHI: D3D11 adapters:
-[2019.06.19-15.42.39:820][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
-[2019.06.19-15.42.39:820][  0]LogD3D11RHI:       8096/0/16347 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
-[2019.06.19-15.42.39:822][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2019.06.19-15.42.39:822][  0]LogD3D11RHI:       0/0/16347 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2019.06.19-15.42.39:822][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2019.06.19-15.42.39:827][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2019.06.19-15.42.39:827][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
-[2019.06.19-15.42.39:827][  0]LogWindows: EnumDisplayDevices:
-[2019.06.19-15.42.39:828][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
-[2019.06.19-15.42.39:828][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
-[2019.06.19-15.42.39:828][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
-[2019.06.19-15.42.39:828][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
-[2019.06.19-15.42.39:828][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2019.06.19-15.42.39:828][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
-[2019.06.19-15.42.39:828][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
-[2019.06.19-15.42.39:828][  0]LogD3D11RHI:      Driver Date: 10-27-2017
-[2019.06.19-15.42.39:828][  0]LogRHI: Texture pool is 5667 MB (70% of 8096 MB)
-[2019.06.19-15.42.39:858][  0]LogD3D11RHI: Async texture creation enabled
-[2019.06.19-15.42.39:861][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2019.06.19-15.42.39:862][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2019.06.19-15.42.39:862][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2019.06.19-15.42.39:869][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2019.06.19-15.42.40:211][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
-[2019.06.19-15.42.40:223][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
-[2019.06.19-15.42.40:235][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
-[2019.06.19-15.42.40:249][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
-[2019.06.19-15.42.40:261][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
-[2019.06.19-15.42.40:272][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
-[2019.06.19-15.42.40:284][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
-[2019.06.19-15.42.40:296][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
-[2019.06.19-15.42.40:302][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
-[2019.06.19-15.42.40:371][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
-[2019.06.19-15.42.40:371][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
-[2019.06.19-15.42.40:371][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
-[2019.06.19-15.42.40:371][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
-[2019.06.19-15.42.40:371][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
-[2019.06.19-15.42.40:371][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
-[2019.06.19-15.42.40:371][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
-[2019.06.19-15.42.40:371][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
-[2019.06.19-15.42.40:371][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
-[2019.06.19-15.42.40:371][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
-[2019.06.19-15.42.40:371][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
-[2019.06.19-15.42.40:371][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
-[2019.06.19-15.42.40:371][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
-[2019.06.19-15.42.40:371][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
-[2019.06.19-15.42.40:371][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
-[2019.06.19-15.42.40:371][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
-[2019.06.19-15.42.40:371][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
-[2019.06.19-15.42.40:371][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
-[2019.06.19-15.42.40:372][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
-[2019.06.19-15.42.40:418][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
-[2019.06.19-15.42.40:418][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
-[2019.06.19-15.42.40:440][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
-[2019.06.19-15.42.40:440][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
-[2019.06.19-15.42.40:450][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
-[2019.06.19-15.42.40:460][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
-[2019.06.19-15.42.40:471][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
-[2019.06.19-15.42.40:482][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
-[2019.06.19-15.42.40:526][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
-[2019.06.19-15.42.40:526][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
-[2019.06.19-15.42.40:526][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2019.06.19-15.42.40:533][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2019.06.19-15.42.40:570][  0]LogShaderCompilers: Guid format shader working directory is -46 characters bigger than the processId version (../../../../../../Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Intermediate/Shaders/WorkingDirectory/7304/).
-[2019.06.19-15.42.40:571][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jacob/AppData/Local/Temp/UnrealShaderWorkingDir/6823884A49340877F135DEA40E26EFA4/'.
-[2019.06.19-15.42.40:572][  0]LogXGEController: Cleaning working directory: C:/Users/jacob/AppData/Local/Temp/UnrealXGEWorkingDir/
-[2019.06.19-15.42.40:572][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2019.06.19-15.42.40:572][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2019.06.19-15.42.40:572][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2019.06.19-15.42.41:069][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2019.06.19-15.42.41:113][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/jacob/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
-[2019.06.19-15.42.41:113][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jacob/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
-[2019.06.19-15.42.41:113][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2019.06.19-15.42.41:113][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2019.06.19-15.42.41:113][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2019.06.19-15.42.41:113][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2019.06.19-15.42.41:123][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2019.06.19-15.42.41:124][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2019.06.19-15.42.41:124][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2019.06.19-15.42.41:136][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jacob/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2019.06.19-15.42.41:136][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2019.06.19-15.42.41:136][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2019.06.19-15.42.41:155][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2019.06.19-15.42.41:156][  0]LogSlate: Using FreeType 2.6.0
-[2019.06.19-15.42.41:156][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2019.06.19-15.42.41:228][  0]LogAssetRegistry: FAssetRegistry took 0.0312 seconds to start up
-[2019.06.19-15.42.41:521][  0]LogInit: Selected Device Profile: [Windows]
-[2019.06.19-15.42.41:636][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2019.06.19-15.42.41:636][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2019.06.19-15.42.41:636][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2019.06.19-15.42.41:636][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2019.06.19-15.42.41:636][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2019.06.19-15.42.41:646][  0]LogNetVersion: BaseCityBlock 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2307294784)
-[2019.06.19-15.42.41:993][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.038639 seconds
-[2019.06.19-15.42.42:000][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
-[2019.06.19-15.42.42:000][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
-[2019.06.19-15.42.42:000][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2019.06.19-15.42.42:678][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2019.06.19-15.42.42:691][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2019.06.19-15.42.42:821][  0]SourceControl: Source control is disabled
-[2019.06.19-15.42.42:821][  0]SourceControl: Source control is disabled
-[2019.06.19-15.42.42:822][  0]SourceControl: Source control is disabled
-[2019.06.19-15.42.42:823][  0]SourceControl: Source control is disabled
-[2019.06.19-15.42.42:830][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
-[2019.06.19-15.42.42:830][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
-[2019.06.19-15.42.42:889][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2019.06.19-15.42.42:937][  0]LogOcInput: OculusInput pre-init called
-[2019.06.19-15.42.43:519][  0]LogEngine: Initializing Engine...
-[2019.06.19-15.42.43:519][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2019.06.19-15.42.43:520][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
-[2019.06.19-15.42.43:698][  0]LogInit: Initializing FReadOnlyCVARCache
-[2019.06.19-15.42.43:710][  0]LogAIModule: Creating AISystem for world Untitled
-[2019.06.19-15.42.43:717][  0]LogInit: XAudio2 using 'LG ULTRAWIDE-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
-[2019.06.19-15.42.43:729][  0]LogInit: FAudioDevice initialized.
-[2019.06.19-15.42.43:729][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2019.06.19-15.42.43:936][  0]LogDerivedDataCache: Saved boot cache 0.21s 71MB C:/Users/jacob/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
-[2019.06.19-15.42.43:945][  0]LogInit: Texture streaming: Enabled
-[2019.06.19-15.42.43:962][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2019.06.19-15.42.43:991][  0]LogInit: Transaction tracking system initialized
-[2019.06.19-15.42.44:009][  0]BlueprintLog: New page: Editor Load
-[2019.06.19-15.42.44:073][  0]LocalizationService: Localization service is disabled
-[2019.06.19-15.42.44:183][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
-[2019.06.19-15.42.44:183][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
-[2019.06.19-15.42.44:315][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/' took 0.02s
-[2019.06.19-15.42.44:315][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2019.06.19-15.42.44:315][  0]LogCook: Display: Mobile HDR setting 1
-[2019.06.19-15.42.44:461][  0]SourceControl: Source control is disabled
-[2019.06.19-15.42.44:461][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
-[2019.06.19-15.42.44:462][  0]LightingResults: New page: Lighting Build
-[2019.06.19-15.42.44:464][  0]MapCheck: New page: Map Check
-[2019.06.19-15.42.44:464][  0]LightingResults: New page: Lighting Build
-[2019.06.19-15.42.44:483][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
-[2019.06.19-15.42.44:551][  0]LogAIModule: Creating AISystem for world Untitled_1
-[2019.06.19-15.42.44:555][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2019.06.19-15.42.44:578][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
-[2019.06.19-15.42.44:578][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2019.06.19-15.42.44:578][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.219ms to complete.
-[2019.06.19-15.42.44:578][  0]LogFileHelpers: Loading map 'Template_Default' took 0.117
-[2019.06.19-15.42.44:693][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.06.19-15.42.44:701][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.06.19-15.42.44:708][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.06.19-15.42.44:715][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2019.06.19-15.42.44:720][  0]LogCollectionManager: Loaded 0 collections in 0.001277 seconds
-[2019.06.19-15.42.44:735][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Collections/' took 0.01s
-[2019.06.19-15.42.44:735][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Developers/jacob/Collections/' took 0.00s
-[2019.06.19-15.42.44:735][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Collections/' took 0.00s
-[2019.06.19-15.42.44:735][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2019.06.19-15.42.44:742][  0]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 2732 classes and 659 folders.
-[2019.06.19-15.42.44:748][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2019.06.19-15.42.44:749][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.19-15.42.44:750][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.19-15.42.44:750][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.19-15.42.44:750][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.19-15.42.44:751][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.19-15.42.44:751][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.19-15.42.44:751][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.19-15.42.44:752][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.19-15.42.44:752][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.19-15.42.44:752][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.19-15.42.44:753][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.19-15.42.44:753][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.19-15.42.44:753][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.19-15.42.44:754][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.19-15.42.44:754][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.19-15.42.44:754][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.19-15.42.44:755][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.19-15.42.44:755][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.19-15.42.44:755][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.19-15.42.44:756][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.19-15.42.44:756][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.19-15.42.44:756][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.19-15.42.44:757][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.19-15.42.44:757][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.19-15.42.44:758][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.19-15.42.44:758][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2019.06.19-15.42.44:776][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2019.06.19-15.42.44:781][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
-[2019.06.19-15.42.44:796][  0]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2019.06.19-15.42.44:798][  0]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2019.06.19-15.42.44:803][  0]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2019.06.19-15.42.44:855][  0]LogRenderer: Reallocating scene render targets to support 1704x688 Format 10 NumSamples 1 (Frame:1).
-[2019.06.19-15.42.44:953][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2019.06.19-15.42.44:953][  0]LogLoad: (Engine Initialization) Total time: 6.93 seconds
-[2019.06.19-15.42.44:953][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2019.06.19-15.42.44:990][  0]LogAssetRegistry: Asset discovery search completed in 3.7831 seconds
-[2019.06.19-15.42.44:991][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2019.06.19-15.42.44:991][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000032 seconds (updated 0 objects)
-[2019.06.19-15.42.44:993][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2019.06.19-15.42.45:026][  0]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2019.06.19-15.42.48:164][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.06.19-15.42.48:366][396]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2019.06.19-15.42.48:486][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood002EndColor'
-[2019.06.19-15.42.48:486][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood002EndColor' while loading NULL.
-[2019.06.19-15.42.48:486][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood002EndNormal'
-[2019.06.19-15.42.48:486][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood002EndNormal' while loading NULL.
-[2019.06.19-15.42.48:486][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood002EndColor'
-[2019.06.19-15.42.48:487][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood002EndColor' while loading NULL.
-[2019.06.19-15.42.48:487][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood002EndNormal'
-[2019.06.19-15.42.48:487][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood002EndNormal' while loading NULL.
-[2019.06.19-15.42.48:487][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood001SideColor'
-[2019.06.19-15.42.48:488][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood001SideColor' while loading NULL.
-[2019.06.19-15.42.48:488][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood001SideNormal'
-[2019.06.19-15.42.48:488][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood001SideNormal' while loading NULL.
-[2019.06.19-15.42.48:488][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood001SideColor'
-[2019.06.19-15.42.48:488][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood001SideColor' while loading NULL.
-[2019.06.19-15.42.48:488][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood001SideNormal'
-[2019.06.19-15.42.48:488][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood001SideNormal' while loading NULL.
-[2019.06.19-15.42.48:494][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood002EndColor'
-[2019.06.19-15.42.48:494][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood002EndColor' while loading NULL.
-[2019.06.19-15.42.48:495][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood002EndNormal'
-[2019.06.19-15.42.48:495][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood002EndNormal' while loading NULL.
-[2019.06.19-15.42.48:495][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood002EndColor'
-[2019.06.19-15.42.48:495][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood002EndColor' while loading NULL.
-[2019.06.19-15.42.48:495][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood002EndNormal'
-[2019.06.19-15.42.48:495][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood002EndNormal' while loading NULL.
-[2019.06.19-15.42.48:496][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood001SideColor'
-[2019.06.19-15.42.48:496][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood001SideColor' while loading NULL.
-[2019.06.19-15.42.48:496][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood001SideNormal'
-[2019.06.19-15.42.48:496][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood001SideNormal' while loading NULL.
-[2019.06.19-15.42.48:496][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood001SideColor'
-[2019.06.19-15.42.48:496][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood001SideColor' while loading NULL.
-[2019.06.19-15.42.48:496][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood001SideNormal'
-[2019.06.19-15.42.48:496][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood001SideNormal' while loading NULL.
-[2019.06.19-15.42.48:499][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood002EndColor'
-[2019.06.19-15.42.48:499][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood002EndColor' while loading NULL.
-[2019.06.19-15.42.48:499][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood002EndNormal'
-[2019.06.19-15.42.48:499][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood002EndNormal' while loading NULL.
-[2019.06.19-15.42.48:499][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood002EndColor'
-[2019.06.19-15.42.48:499][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood002EndColor' while loading NULL.
-[2019.06.19-15.42.48:500][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood002EndNormal'
-[2019.06.19-15.42.48:500][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood002EndNormal' while loading NULL.
-[2019.06.19-15.42.48:501][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood001SideColor'
-[2019.06.19-15.42.48:501][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood001SideColor' while loading NULL.
-[2019.06.19-15.42.48:501][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood001SideNormal'
-[2019.06.19-15.42.48:502][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood001SideNormal' while loading NULL.
-[2019.06.19-15.42.48:502][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood001SideColor'
-[2019.06.19-15.42.48:502][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood001SideColor' while loading NULL.
-[2019.06.19-15.42.48:502][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood001SideNormal'
-[2019.06.19-15.42.48:502][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood001SideNormal' while loading NULL.
-[2019.06.19-15.42.48:503][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood002EndColor'
-[2019.06.19-15.42.48:503][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood002EndColor' while loading NULL.
-[2019.06.19-15.42.48:503][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood002EndNormal'
-[2019.06.19-15.42.48:503][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood002EndNormal' while loading NULL.
-[2019.06.19-15.42.48:503][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood002EndColor'
-[2019.06.19-15.42.48:504][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood002EndColor' while loading NULL.
-[2019.06.19-15.42.48:504][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood002EndNormal'
-[2019.06.19-15.42.48:504][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood002EndNormal' while loading NULL.
-[2019.06.19-15.42.48:504][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood001SideColor'
-[2019.06.19-15.42.48:504][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood001SideColor' while loading NULL.
-[2019.06.19-15.42.48:504][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood001SideNormal'
-[2019.06.19-15.42.48:505][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood001SideNormal' while loading NULL.
-[2019.06.19-15.42.48:505][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood001SideColor'
-[2019.06.19-15.42.48:505][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood001SideColor' while loading NULL.
-[2019.06.19-15.42.48:505][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood001SideNormal'
-[2019.06.19-15.42.48:505][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood001SideNormal' while loading NULL.
-[2019.06.19-15.42.48:510][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood002EndColor'
-[2019.06.19-15.42.48:510][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood002EndColor' while loading NULL.
-[2019.06.19-15.42.48:510][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood002EndNormal'
-[2019.06.19-15.42.48:510][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood002EndNormal' while loading NULL.
-[2019.06.19-15.42.48:510][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood002EndColor'
-[2019.06.19-15.42.48:510][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood002EndColor' while loading NULL.
-[2019.06.19-15.42.48:510][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood002EndNormal'
-[2019.06.19-15.42.48:510][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood002EndNormal' while loading NULL.
-[2019.06.19-15.42.48:511][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood001SideColor'
-[2019.06.19-15.42.48:511][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood001SideColor' while loading NULL.
-[2019.06.19-15.42.48:511][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood001SideNormal'
-[2019.06.19-15.42.48:511][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood001SideNormal' while loading NULL.
-[2019.06.19-15.42.48:511][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood001SideColor'
-[2019.06.19-15.42.48:511][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood001SideColor' while loading NULL.
-[2019.06.19-15.42.48:511][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood001SideNormal'
-[2019.06.19-15.42.48:512][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood001SideNormal' while loading NULL.
-[2019.06.19-15.42.48:547][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/blackside'
-[2019.06.19-15.42.48:547][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/blackside' while loading NULL.
-[2019.06.19-15.42.48:547][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Blacktop'
-[2019.06.19-15.42.48:547][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Blacktop' while loading NULL.
-[2019.06.19-15.42.48:547][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/lambert1'
-[2019.06.19-15.42.48:547][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/lambert1' while loading NULL.
-[2019.06.19-15.42.48:548][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/whiteside'
-[2019.06.19-15.42.48:548][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/whiteside' while loading NULL.
-[2019.06.19-15.42.48:548][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Whitetop'
-[2019.06.19-15.42.48:548][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Whitetop' while loading NULL.
-[2019.06.19-15.42.48:548][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/blackside'
-[2019.06.19-15.42.48:548][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/blackside' while loading NULL.
-[2019.06.19-15.42.48:548][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Blacktop'
-[2019.06.19-15.42.48:548][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Blacktop' while loading NULL.
-[2019.06.19-15.42.48:548][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/lambert1'
-[2019.06.19-15.42.48:548][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/lambert1' while loading NULL.
-[2019.06.19-15.42.48:548][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/whiteside'
-[2019.06.19-15.42.48:549][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/whiteside' while loading NULL.
-[2019.06.19-15.42.48:549][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Whitetop'
-[2019.06.19-15.42.48:549][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Whitetop' while loading NULL.
-[2019.06.19-15.42.48:549][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/darkside'
-[2019.06.19-15.42.48:550][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/darkside' while loading NULL.
-[2019.06.19-15.42.48:550][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/darktop'
-[2019.06.19-15.42.48:550][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/darktop' while loading NULL.
-[2019.06.19-15.42.48:550][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/lgihttop'
-[2019.06.19-15.42.48:550][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/lgihttop' while loading NULL.
-[2019.06.19-15.42.48:550][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Lightside'
-[2019.06.19-15.42.48:550][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Lightside' while loading NULL.
-[2019.06.19-15.42.48:550][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/darkside'
-[2019.06.19-15.42.48:550][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/darkside' while loading NULL.
-[2019.06.19-15.42.48:550][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/darktop'
-[2019.06.19-15.42.48:551][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/darktop' while loading NULL.
-[2019.06.19-15.42.48:551][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/lgihttop'
-[2019.06.19-15.42.48:551][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/lgihttop' while loading NULL.
-[2019.06.19-15.42.48:551][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Lightside'
-[2019.06.19-15.42.48:551][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Lightside' while loading NULL.
-[2019.06.19-15.42.48:552][396]LogLinker: Warning: Can't find file '/Game/OtherBlocks/defaultMat'
-[2019.06.19-15.42.48:552][396]LogLinker: Warning: Can't find file for asset '/Game/OtherBlocks/defaultMat' while loading NULL.
-[2019.06.19-15.42.48:552][396]LogLinker: Warning: Can't find file '/Game/OtherBlocks/defaultMat'
-[2019.06.19-15.42.48:552][396]LogLinker: Warning: Can't find file for asset '/Game/OtherBlocks/defaultMat' while loading NULL.
-[2019.06.19-15.42.48:559][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/hatpaint_1_Mat'
-[2019.06.19-15.42.48:559][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/hatpaint_1_Mat' while loading NULL.
-[2019.06.19-15.42.48:559][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_MasterwallBlock_AP'
-[2019.06.19-15.42.48:559][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_MasterwallBlock_AP' while loading NULL.
-[2019.06.19-15.42.48:559][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/mannpaint1_Mat'
-[2019.06.19-15.42.48:559][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/mannpaint1_Mat' while loading NULL.
-[2019.06.19-15.42.48:560][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LightWood2_AP_Inst'
-[2019.06.19-15.42.48:560][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LightWood2_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:560][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterpillar_AP_Inst'
-[2019.06.19-15.42.48:560][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterpillar_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:560][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_MasterwallBlock1_AP_Inst'
-[2019.06.19-15.42.48:560][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_MasterwallBlock1_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:561][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwallcube_AP_Inst'
-[2019.06.19-15.42.48:561][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwallcube_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:561][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwallinner_AP_Inst'
-[2019.06.19-15.42.48:561][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwallinner_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:561][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwalltop_AP_Inst'
-[2019.06.19-15.42.48:561][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwalltop_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:562][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/hatpaint_1_Mat'
-[2019.06.19-15.42.48:562][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/hatpaint_1_Mat' while loading NULL.
-[2019.06.19-15.42.48:562][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LightWood2_AP_Inst'
-[2019.06.19-15.42.48:562][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LightWood2_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:563][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterpillar_AP_Inst'
-[2019.06.19-15.42.48:563][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterpillar_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:563][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_MasterwallBlock1_AP_Inst'
-[2019.06.19-15.42.48:563][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_MasterwallBlock1_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:563][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_MasterwallBlock_AP'
-[2019.06.19-15.42.48:563][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_MasterwallBlock_AP' while loading NULL.
-[2019.06.19-15.42.48:563][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwallcube_AP_Inst'
-[2019.06.19-15.42.48:563][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwallcube_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:563][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwallinner_AP_Inst'
-[2019.06.19-15.42.48:563][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwallinner_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:563][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwalltop_AP_Inst'
-[2019.06.19-15.42.48:564][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwalltop_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:564][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/mannpaint1_Mat'
-[2019.06.19-15.42.48:564][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/mannpaint1_Mat' while loading NULL.
-[2019.06.19-15.42.48:590][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst'
-[2019.06.19-15.42.48:590][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:590][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst'
-[2019.06.19-15.42.48:590][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:590][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst'
-[2019.06.19-15.42.48:590][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:590][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst'
-[2019.06.19-15.42.48:590][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:591][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst'
-[2019.06.19-15.42.48:591][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:591][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst'
-[2019.06.19-15.42.48:591][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:591][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst'
-[2019.06.19-15.42.48:591][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:592][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst'
-[2019.06.19-15.42.48:592][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:592][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BenchEnd_AP_Inst'
-[2019.06.19-15.42.48:592][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BenchEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:592][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BenchSide_AP_Inst'
-[2019.06.19-15.42.48:593][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BenchSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:593][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BenchEnd_AP_Inst'
-[2019.06.19-15.42.48:593][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BenchEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:593][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BenchSide_AP_Inst'
-[2019.06.19-15.42.48:593][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BenchSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:593][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LeafEnd_AP_Inst'
-[2019.06.19-15.42.48:594][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LeafEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:594][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LeafSide_AP_Inst'
-[2019.06.19-15.42.48:594][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LeafSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:594][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LeafEnd_AP_Inst'
-[2019.06.19-15.42.48:594][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LeafEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:594][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LeafSide_AP_Inst'
-[2019.06.19-15.42.48:594][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LeafSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:595][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst'
-[2019.06.19-15.42.48:595][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:595][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst'
-[2019.06.19-15.42.48:595][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:595][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst'
-[2019.06.19-15.42.48:595][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:595][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst'
-[2019.06.19-15.42.48:595][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:596][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst'
-[2019.06.19-15.42.48:596][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:596][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DoorSide_AP_Inst'
-[2019.06.19-15.42.48:596][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DoorSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:596][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst'
-[2019.06.19-15.42.48:597][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:597][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DoorSide_AP_Inst'
-[2019.06.19-15.42.48:597][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DoorSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:597][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_PlatformEndG_AP_Inst1'
-[2019.06.19-15.42.48:598][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_PlatformEndG_AP_Inst1' while loading NULL.
-[2019.06.19-15.42.48:598][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_PlatformSideG_AP_Inst'
-[2019.06.19-15.42.48:598][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_PlatformSideG_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:598][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_PlatformEndG_AP_Inst1'
-[2019.06.19-15.42.48:598][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_PlatformEndG_AP_Inst1' while loading NULL.
-[2019.06.19-15.42.48:598][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_PlatformSideG_AP_Inst'
-[2019.06.19-15.42.48:598][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_PlatformSideG_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:599][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst'
-[2019.06.19-15.42.48:599][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:599][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst'
-[2019.06.19-15.42.48:599][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:599][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst'
-[2019.06.19-15.42.48:599][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:599][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst'
-[2019.06.19-15.42.48:599][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:600][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_RoofEnd_AP_Inst'
-[2019.06.19-15.42.48:600][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_RoofEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:600][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_RoofSide_AP_Inst'
-[2019.06.19-15.42.48:601][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_RoofSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:601][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_RoofEnd_AP_Inst'
-[2019.06.19-15.42.48:601][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_RoofEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:601][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_RoofSide_AP_Inst'
-[2019.06.19-15.42.48:601][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_RoofSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:601][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_RoofEnd_AP_Inst'
-[2019.06.19-15.42.48:602][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_RoofEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:602][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_RoofSide_AP_Inst'
-[2019.06.19-15.42.48:602][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_RoofSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:602][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_RoofEnd_AP_Inst'
-[2019.06.19-15.42.48:602][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_RoofEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:602][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_RoofSide_AP_Inst'
-[2019.06.19-15.42.48:602][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_RoofSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:603][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackRailEnd_AP_Inst'
-[2019.06.19-15.42.48:603][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackRailEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:603][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackRailSide_AP_Inst'
-[2019.06.19-15.42.48:603][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackRailSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:603][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackTieEnd_AP_Inst'
-[2019.06.19-15.42.48:603][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackTieEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:603][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackTieSide_AP_Inst'
-[2019.06.19-15.42.48:603][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackTieSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:604][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackRailEnd_AP_Inst'
-[2019.06.19-15.42.48:604][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackRailEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:604][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackRailSide_AP_Inst'
-[2019.06.19-15.42.48:604][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackRailSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:604][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackTieEnd_AP_Inst'
-[2019.06.19-15.42.48:604][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackTieEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:604][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackTieSide_AP_Inst'
-[2019.06.19-15.42.48:604][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackTieSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:605][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackRailEnd_AP_Inst'
-[2019.06.19-15.42.48:605][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackRailEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:605][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackRailSide_AP_Inst'
-[2019.06.19-15.42.48:605][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackRailSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:605][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackTieEnd_AP_Inst'
-[2019.06.19-15.42.48:605][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackTieEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:605][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackTieSide_AP_Inst'
-[2019.06.19-15.42.48:605][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackTieSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:605][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackRailEnd_AP_Inst'
-[2019.06.19-15.42.48:605][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackRailEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:605][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackRailSide_AP_Inst'
-[2019.06.19-15.42.48:605][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackRailSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:606][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackTieEnd_AP_Inst'
-[2019.06.19-15.42.48:606][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackTieEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:606][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackTieSide_AP_Inst'
-[2019.06.19-15.42.48:606][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackTieSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:606][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LeafSide_AP_Inst'
-[2019.06.19-15.42.48:606][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LeafSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:607][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrunkEnd_AP_Inst'
-[2019.06.19-15.42.48:607][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrunkEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:607][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrunkSide_AP_Inst'
-[2019.06.19-15.42.48:607][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrunkSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:607][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LeafSide_AP_Inst'
-[2019.06.19-15.42.48:607][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LeafSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:607][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrunkEnd_AP_Inst'
-[2019.06.19-15.42.48:607][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrunkEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:607][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrunkSide_AP_Inst'
-[2019.06.19-15.42.48:607][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrunkSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:608][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LightWallEnd_AP_Inst'
-[2019.06.19-15.42.48:608][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LightWallEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:608][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LightWallSide_AP_Inst'
-[2019.06.19-15.42.48:608][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LightWallSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:608][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LightWallEnd_AP_Inst'
-[2019.06.19-15.42.48:608][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LightWallEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:609][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LightWallSide_AP_Inst'
-[2019.06.19-15.42.48:609][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LightWallSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:609][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LightWallEnd_AP_Inst'
-[2019.06.19-15.42.48:609][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LightWallEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:609][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LightWallSide_AP_Inst'
-[2019.06.19-15.42.48:609][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LightWallSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:610][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LightWallEnd_AP_Inst'
-[2019.06.19-15.42.48:610][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LightWallEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:610][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LightWallSide_AP_Inst'
-[2019.06.19-15.42.48:610][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LightWallSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.48:610][396]LogLinker: Warning: Can't find file '/Game/Train/lambert2SG'
-[2019.06.19-15.42.48:610][396]LogLinker: Warning: Can't find file for asset '/Game/Train/lambert2SG' while loading NULL.
-[2019.06.19-15.42.48:611][396]LogLinker: Warning: Can't find file '/Game/Train/lambert3SG'
-[2019.06.19-15.42.48:611][396]LogLinker: Warning: Can't find file for asset '/Game/Train/lambert3SG' while loading NULL.
-[2019.06.19-15.42.48:611][396]LogLinker: Warning: Can't find file '/Game/Train/lambert4SG'
-[2019.06.19-15.42.48:611][396]LogLinker: Warning: Can't find file for asset '/Game/Train/lambert4SG' while loading NULL.
-[2019.06.19-15.42.48:611][396]LogLinker: Warning: Can't find file '/Game/Train/lambert5SG'
-[2019.06.19-15.42.48:611][396]LogLinker: Warning: Can't find file for asset '/Game/Train/lambert5SG' while loading NULL.
-[2019.06.19-15.42.48:611][396]LogLinker: Warning: Can't find file '/Game/Train/lambert6SG'
-[2019.06.19-15.42.48:611][396]LogLinker: Warning: Can't find file for asset '/Game/Train/lambert6SG' while loading NULL.
-[2019.06.19-15.42.48:611][396]LogLinker: Warning: Can't find file '/Game/Train/lambert2SG'
-[2019.06.19-15.42.48:612][396]LogLinker: Warning: Can't find file for asset '/Game/Train/lambert2SG' while loading NULL.
-[2019.06.19-15.42.48:612][396]LogLinker: Warning: Can't find file '/Game/Train/lambert3SG'
-[2019.06.19-15.42.48:612][396]LogLinker: Warning: Can't find file for asset '/Game/Train/lambert3SG' while loading NULL.
-[2019.06.19-15.42.48:612][396]LogLinker: Warning: Can't find file '/Game/Train/lambert4SG'
-[2019.06.19-15.42.48:612][396]LogLinker: Warning: Can't find file for asset '/Game/Train/lambert4SG' while loading NULL.
-[2019.06.19-15.42.48:612][396]LogLinker: Warning: Can't find file '/Game/Train/lambert5SG'
-[2019.06.19-15.42.48:612][396]LogLinker: Warning: Can't find file for asset '/Game/Train/lambert5SG' while loading NULL.
-[2019.06.19-15.42.48:612][396]LogLinker: Warning: Can't find file '/Game/Train/lambert6SG'
-[2019.06.19-15.42.48:612][396]LogLinker: Warning: Can't find file for asset '/Game/Train/lambert6SG' while loading NULL.
-[2019.06.19-15.42.49:090][396]LogLinker: Warning: Can't find file '/Game/Train/lambert5SG'
-[2019.06.19-15.42.49:090][396]LoadErrors: Failed to load /Game/Train/lambert5SG.lambert5SG Referenced by Completed_Train
-[2019.06.19-15.42.49:090][396]LogLinker: Warning: Can't find file for asset '/Game/Train/lambert5SG' while loading NULL.
-[2019.06.19-15.42.49:090][396]LogLinker: Warning: Can't find file '/Game/Train/lambert3SG'
-[2019.06.19-15.42.49:090][396]LoadErrors: Failed to load /Game/Train/lambert3SG.lambert3SG Referenced by Completed_Train
-[2019.06.19-15.42.49:090][396]LogLinker: Warning: Can't find file for asset '/Game/Train/lambert3SG' while loading NULL.
-[2019.06.19-15.42.49:090][396]LogLinker: Warning: Can't find file '/Game/Train/lambert4SG'
-[2019.06.19-15.42.49:090][396]LoadErrors: Failed to load /Game/Train/lambert4SG.lambert4SG Referenced by Completed_Train
-[2019.06.19-15.42.49:091][396]LogLinker: Warning: Can't find file for asset '/Game/Train/lambert4SG' while loading NULL.
-[2019.06.19-15.42.49:091][396]LogLinker: Warning: Can't find file '/Game/Train/lambert6SG'
-[2019.06.19-15.42.49:091][396]LoadErrors: Failed to load /Game/Train/lambert6SG.lambert6SG Referenced by Completed_Train
-[2019.06.19-15.42.49:091][396]LogLinker: Warning: Can't find file for asset '/Game/Train/lambert6SG' while loading NULL.
-[2019.06.19-15.42.49:091][396]LogLinker: Warning: Can't find file '/Game/Train/lambert2SG'
-[2019.06.19-15.42.49:091][396]LoadErrors: Failed to load /Game/Train/lambert2SG.lambert2SG Referenced by Completed_Train
-[2019.06.19-15.42.49:091][396]LogLinker: Warning: Can't find file for asset '/Game/Train/lambert2SG' while loading NULL.
-[2019.06.19-15.42.49:091][396]LogLinker: Warning: Can't find file '/Game/Train/lambert5SG'
-[2019.06.19-15.42.49:091][396]LogLinker: Warning: Can't find file for asset '/Game/Train/lambert5SG' while loading NULL.
-[2019.06.19-15.42.49:091][396]LogLinker: Warning: Can't find file '/Game/Train/lambert3SG'
-[2019.06.19-15.42.49:091][396]LogLinker: Warning: Can't find file for asset '/Game/Train/lambert3SG' while loading NULL.
-[2019.06.19-15.42.49:091][396]LogLinker: Warning: Can't find file '/Game/Train/lambert4SG'
-[2019.06.19-15.42.49:092][396]LogLinker: Warning: Can't find file for asset '/Game/Train/lambert4SG' while loading NULL.
-[2019.06.19-15.42.49:092][396]LogLinker: Warning: Can't find file '/Game/Train/lambert6SG'
-[2019.06.19-15.42.49:092][396]LogLinker: Warning: Can't find file for asset '/Game/Train/lambert6SG' while loading NULL.
-[2019.06.19-15.42.49:092][396]LogLinker: Warning: Can't find file '/Game/Train/lambert2SG'
-[2019.06.19-15.42.49:092][396]LogLinker: Warning: Can't find file for asset '/Game/Train/lambert2SG' while loading NULL.
-[2019.06.19-15.42.49:092][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LightWallSide_AP_Inst'
-[2019.06.19-15.42.49:092][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_LightWallSide_AP_Inst.M_LightWallSide_AP_Inst Referenced by WallBlock002
-[2019.06.19-15.42.49:092][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LightWallSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:092][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LightWallEnd_AP_Inst'
-[2019.06.19-15.42.49:092][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_LightWallEnd_AP_Inst.M_LightWallEnd_AP_Inst Referenced by WallBlock002
-[2019.06.19-15.42.49:093][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LightWallEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:093][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LightWallSide_AP_Inst'
-[2019.06.19-15.42.49:093][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LightWallSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:093][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LightWallEnd_AP_Inst'
-[2019.06.19-15.42.49:093][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LightWallEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:093][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LightWallSide_AP_Inst'
-[2019.06.19-15.42.49:093][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_LightWallSide_AP_Inst.M_LightWallSide_AP_Inst Referenced by WallBlock001
-[2019.06.19-15.42.49:093][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LightWallSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:093][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LightWallEnd_AP_Inst'
-[2019.06.19-15.42.49:093][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_LightWallEnd_AP_Inst.M_LightWallEnd_AP_Inst Referenced by WallBlock001
-[2019.06.19-15.42.49:094][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LightWallEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:094][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LightWallSide_AP_Inst'
-[2019.06.19-15.42.49:094][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LightWallSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:094][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LightWallEnd_AP_Inst'
-[2019.06.19-15.42.49:094][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LightWallEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:094][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LeafSide_AP_Inst'
-[2019.06.19-15.42.49:094][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_LeafSide_AP_Inst.M_LeafSide_AP_Inst Referenced by TreeBlock001
-[2019.06.19-15.42.49:094][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LeafSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:094][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrunkSide_AP_Inst'
-[2019.06.19-15.42.49:094][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_TrunkSide_AP_Inst.M_TrunkSide_AP_Inst Referenced by TreeBlock001
-[2019.06.19-15.42.49:095][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrunkSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:095][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrunkEnd_AP_Inst'
-[2019.06.19-15.42.49:095][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_TrunkEnd_AP_Inst.M_TrunkEnd_AP_Inst Referenced by TreeBlock001
-[2019.06.19-15.42.49:095][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrunkEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:095][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LeafSide_AP_Inst'
-[2019.06.19-15.42.49:095][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LeafSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:095][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrunkSide_AP_Inst'
-[2019.06.19-15.42.49:095][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrunkSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:095][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrunkEnd_AP_Inst'
-[2019.06.19-15.42.49:095][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrunkEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:096][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackRailSide_AP_Inst'
-[2019.06.19-15.42.49:096][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_TrackRailSide_AP_Inst.M_TrackRailSide_AP_Inst Referenced by RRTrackBlock002
-[2019.06.19-15.42.49:096][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackRailSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:096][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackTieSide_AP_Inst'
-[2019.06.19-15.42.49:096][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_TrackTieSide_AP_Inst.M_TrackTieSide_AP_Inst Referenced by RRTrackBlock002
-[2019.06.19-15.42.49:096][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackTieSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:096][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackTieEnd_AP_Inst'
-[2019.06.19-15.42.49:096][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_TrackTieEnd_AP_Inst.M_TrackTieEnd_AP_Inst Referenced by RRTrackBlock002
-[2019.06.19-15.42.49:096][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackTieEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:096][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackRailEnd_AP_Inst'
-[2019.06.19-15.42.49:096][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_TrackRailEnd_AP_Inst.M_TrackRailEnd_AP_Inst Referenced by RRTrackBlock002
-[2019.06.19-15.42.49:097][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackRailEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:097][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackRailSide_AP_Inst'
-[2019.06.19-15.42.49:097][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackRailSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:097][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackTieSide_AP_Inst'
-[2019.06.19-15.42.49:097][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackTieSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:097][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackTieEnd_AP_Inst'
-[2019.06.19-15.42.49:097][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackTieEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:097][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackRailEnd_AP_Inst'
-[2019.06.19-15.42.49:097][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackRailEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:098][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackRailSide_AP_Inst'
-[2019.06.19-15.42.49:098][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_TrackRailSide_AP_Inst.M_TrackRailSide_AP_Inst Referenced by RRTrackBlock001
-[2019.06.19-15.42.49:098][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackRailSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:098][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackTieSide_AP_Inst'
-[2019.06.19-15.42.49:098][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_TrackTieSide_AP_Inst.M_TrackTieSide_AP_Inst Referenced by RRTrackBlock001
-[2019.06.19-15.42.49:098][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackTieSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:098][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackTieEnd_AP_Inst'
-[2019.06.19-15.42.49:098][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_TrackTieEnd_AP_Inst.M_TrackTieEnd_AP_Inst Referenced by RRTrackBlock001
-[2019.06.19-15.42.49:098][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackTieEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:098][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackRailEnd_AP_Inst'
-[2019.06.19-15.42.49:098][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_TrackRailEnd_AP_Inst.M_TrackRailEnd_AP_Inst Referenced by RRTrackBlock001
-[2019.06.19-15.42.49:098][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackRailEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:098][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackRailSide_AP_Inst'
-[2019.06.19-15.42.49:099][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackRailSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:099][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackTieSide_AP_Inst'
-[2019.06.19-15.42.49:099][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackTieSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:099][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackTieEnd_AP_Inst'
-[2019.06.19-15.42.49:099][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackTieEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:099][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_TrackRailEnd_AP_Inst'
-[2019.06.19-15.42.49:099][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_TrackRailEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:099][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_RoofSide_AP_Inst'
-[2019.06.19-15.42.49:100][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_RoofSide_AP_Inst.M_RoofSide_AP_Inst Referenced by RoofBlock002
-[2019.06.19-15.42.49:100][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_RoofSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:100][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_RoofEnd_AP_Inst'
-[2019.06.19-15.42.49:100][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_RoofEnd_AP_Inst.M_RoofEnd_AP_Inst Referenced by RoofBlock002
-[2019.06.19-15.42.49:100][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_RoofEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:100][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_RoofSide_AP_Inst'
-[2019.06.19-15.42.49:100][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_RoofSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:100][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_RoofEnd_AP_Inst'
-[2019.06.19-15.42.49:100][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_RoofEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:100][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_RoofSide_AP_Inst'
-[2019.06.19-15.42.49:101][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_RoofSide_AP_Inst.M_RoofSide_AP_Inst Referenced by RoofBlock001
-[2019.06.19-15.42.49:101][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_RoofSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:101][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_RoofEnd_AP_Inst'
-[2019.06.19-15.42.49:101][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_RoofEnd_AP_Inst.M_RoofEnd_AP_Inst Referenced by RoofBlock001
-[2019.06.19-15.42.49:101][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_RoofEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:101][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_RoofSide_AP_Inst'
-[2019.06.19-15.42.49:101][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_RoofSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:101][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_RoofEnd_AP_Inst'
-[2019.06.19-15.42.49:101][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_RoofEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:102][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst'
-[2019.06.19-15.42.49:102][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_DarkWallSide_AP_Inst.M_DarkWallSide_AP_Inst Referenced by RailingBlock001
-[2019.06.19-15.42.49:102][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:102][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst'
-[2019.06.19-15.42.49:102][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_DarkWallEnd_AP_Inst.M_DarkWallEnd_AP_Inst Referenced by RailingBlock001
-[2019.06.19-15.42.49:102][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:102][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst'
-[2019.06.19-15.42.49:102][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:102][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst'
-[2019.06.19-15.42.49:102][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:102][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst'
-[2019.06.19-15.42.49:103][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:103][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst'
-[2019.06.19-15.42.49:103][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:103][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_PlatformSideG_AP_Inst'
-[2019.06.19-15.42.49:103][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_PlatformSideG_AP_Inst.M_PlatformSideG_AP_Inst Referenced by PlatformBlock001
-[2019.06.19-15.42.49:103][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_PlatformSideG_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:103][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_PlatformEndG_AP_Inst1'
-[2019.06.19-15.42.49:103][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_PlatformEndG_AP_Inst1.M_PlatformEndG_AP_Inst1 Referenced by PlatformBlock001
-[2019.06.19-15.42.49:103][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_PlatformEndG_AP_Inst1' while loading NULL.
-[2019.06.19-15.42.49:104][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_PlatformSideG_AP_Inst'
-[2019.06.19-15.42.49:104][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_PlatformSideG_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:104][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_PlatformEndG_AP_Inst1'
-[2019.06.19-15.42.49:104][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_PlatformEndG_AP_Inst1' while loading NULL.
-[2019.06.19-15.42.49:104][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst'
-[2019.06.19-15.42.49:104][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_DarkWallEnd_AP_Inst.M_DarkWallEnd_AP_Inst Referenced by DoorBlock001
-[2019.06.19-15.42.49:104][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:104][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DoorSide_AP_Inst'
-[2019.06.19-15.42.49:104][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_DoorSide_AP_Inst.M_DoorSide_AP_Inst Referenced by DoorBlock001
-[2019.06.19-15.42.49:105][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DoorSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:105][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst'
-[2019.06.19-15.42.49:105][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:105][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DoorSide_AP_Inst'
-[2019.06.19-15.42.49:105][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DoorSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:105][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst'
-[2019.06.19-15.42.49:105][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_DarkWallSide_AP_Inst.M_DarkWallSide_AP_Inst Referenced by ColumnBlock001
-[2019.06.19-15.42.49:105][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:106][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst'
-[2019.06.19-15.42.49:106][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_DarkWallEnd_AP_Inst.M_DarkWallEnd_AP_Inst Referenced by ColumnBlock001
-[2019.06.19-15.42.49:106][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:106][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst'
-[2019.06.19-15.42.49:106][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:106][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst'
-[2019.06.19-15.42.49:106][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:106][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LeafSide_AP_Inst'
-[2019.06.19-15.42.49:106][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_LeafSide_AP_Inst.M_LeafSide_AP_Inst Referenced by BushBlock002
-[2019.06.19-15.42.49:106][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LeafSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:107][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LeafEnd_AP_Inst'
-[2019.06.19-15.42.49:107][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_LeafEnd_AP_Inst.M_LeafEnd_AP_Inst Referenced by BushBlock002
-[2019.06.19-15.42.49:107][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LeafEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:107][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LeafSide_AP_Inst'
-[2019.06.19-15.42.49:107][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LeafSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:107][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LeafEnd_AP_Inst'
-[2019.06.19-15.42.49:107][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LeafEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:107][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BenchSide_AP_Inst'
-[2019.06.19-15.42.49:107][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_BenchSide_AP_Inst.M_BenchSide_AP_Inst Referenced by BenchBlock001
-[2019.06.19-15.42.49:108][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BenchSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:108][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BenchEnd_AP_Inst'
-[2019.06.19-15.42.49:108][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_BenchEnd_AP_Inst.M_BenchEnd_AP_Inst Referenced by BenchBlock001
-[2019.06.19-15.42.49:108][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BenchEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:108][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BenchSide_AP_Inst'
-[2019.06.19-15.42.49:108][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BenchSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:108][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BenchEnd_AP_Inst'
-[2019.06.19-15.42.49:108][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BenchEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:108][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst'
-[2019.06.19-15.42.49:109][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_DarkWallSide_AP_Inst.M_DarkWallSide_AP_Inst Referenced by BalconyBlock001
-[2019.06.19-15.42.49:109][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:109][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst'
-[2019.06.19-15.42.49:109][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_DarkWallEnd_AP_Inst.M_DarkWallEnd_AP_Inst Referenced by BalconyBlock001
-[2019.06.19-15.42.49:109][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:109][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst'
-[2019.06.19-15.42.49:109][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:109][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst'
-[2019.06.19-15.42.49:109][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:110][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst'
-[2019.06.19-15.42.49:110][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_DarkWallEnd_AP_Inst.M_DarkWallEnd_AP_Inst Referenced by ArchwayBlock002
-[2019.06.19-15.42.49:110][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:110][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst'
-[2019.06.19-15.42.49:110][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_DarkWallSide_AP_Inst.M_DarkWallSide_AP_Inst Referenced by ArchwayBlock002
-[2019.06.19-15.42.49:110][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:110][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst'
-[2019.06.19-15.42.49:110][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallEnd_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:110][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst'
-[2019.06.19-15.42.49:111][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_DarkWallSide_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:141][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_MasterwallBlock_AP'
-[2019.06.19-15.42.49:142][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_MasterwallBlock_AP.M_MasterwallBlock_AP Referenced by SM_MERGED_tank_4
-[2019.06.19-15.42.49:142][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_MasterwallBlock_AP' while loading NULL.
-[2019.06.19-15.42.49:142][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_MasterwallBlock1_AP_Inst'
-[2019.06.19-15.42.49:142][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_MasterwallBlock1_AP_Inst.M_MasterwallBlock1_AP_Inst Referenced by SM_MERGED_tank_4
-[2019.06.19-15.42.49:142][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_MasterwallBlock1_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:142][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwallcube_AP_Inst'
-[2019.06.19-15.42.49:142][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_Masterwallcube_AP_Inst.M_Masterwallcube_AP_Inst Referenced by SM_MERGED_tank_4
-[2019.06.19-15.42.49:142][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwallcube_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:142][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwallinner_AP_Inst'
-[2019.06.19-15.42.49:142][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_Masterwallinner_AP_Inst.M_Masterwallinner_AP_Inst Referenced by SM_MERGED_tank_4
-[2019.06.19-15.42.49:143][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwallinner_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:143][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwalltop_AP_Inst'
-[2019.06.19-15.42.49:143][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_Masterwalltop_AP_Inst.M_Masterwalltop_AP_Inst Referenced by SM_MERGED_tank_4
-[2019.06.19-15.42.49:143][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwalltop_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:143][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterpillar_AP_Inst'
-[2019.06.19-15.42.49:143][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_Masterpillar_AP_Inst.M_Masterpillar_AP_Inst Referenced by SM_MERGED_tank_4
-[2019.06.19-15.42.49:143][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterpillar_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:143][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/mannpaint1_Mat'
-[2019.06.19-15.42.49:143][396]LoadErrors: Failed to load /Game/woodBlocksContent/mannpaint1_Mat.mannpaint1_Mat Referenced by SM_MERGED_tank_4
-[2019.06.19-15.42.49:143][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/mannpaint1_Mat' while loading NULL.
-[2019.06.19-15.42.49:143][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/hatpaint_1_Mat'
-[2019.06.19-15.42.49:144][396]LoadErrors: Failed to load /Game/woodBlocksContent/hatpaint_1_Mat.hatpaint_1_Mat Referenced by SM_MERGED_tank_4
-[2019.06.19-15.42.49:144][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/hatpaint_1_Mat' while loading NULL.
-[2019.06.19-15.42.49:144][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LightWood2_AP_Inst'
-[2019.06.19-15.42.49:144][396]LoadErrors: Failed to load /Game/woodBlocksContent/M_LightWood2_AP_Inst.M_LightWood2_AP_Inst Referenced by SM_MERGED_tank_4
-[2019.06.19-15.42.49:144][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LightWood2_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:144][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_MasterwallBlock_AP'
-[2019.06.19-15.42.49:144][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_MasterwallBlock_AP' while loading NULL.
-[2019.06.19-15.42.49:144][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_MasterwallBlock1_AP_Inst'
-[2019.06.19-15.42.49:144][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_MasterwallBlock1_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:145][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwallcube_AP_Inst'
-[2019.06.19-15.42.49:145][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwallcube_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:145][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwallinner_AP_Inst'
-[2019.06.19-15.42.49:145][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwallinner_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:145][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwalltop_AP_Inst'
-[2019.06.19-15.42.49:145][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwalltop_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:145][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterpillar_AP_Inst'
-[2019.06.19-15.42.49:145][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterpillar_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:145][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/mannpaint1_Mat'
-[2019.06.19-15.42.49:146][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/mannpaint1_Mat' while loading NULL.
-[2019.06.19-15.42.49:146][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/hatpaint_1_Mat'
-[2019.06.19-15.42.49:146][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/hatpaint_1_Mat' while loading NULL.
-[2019.06.19-15.42.49:146][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LightWood2_AP_Inst'
-[2019.06.19-15.42.49:146][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LightWood2_AP_Inst' while loading NULL.
-[2019.06.19-15.42.49:153][396]LogLinker: Warning: Can't find file '/Game/OtherBlocks/defaultMat'
-[2019.06.19-15.42.49:153][396]LoadErrors: Failed to load /Game/OtherBlocks/defaultMat.defaultMat Referenced by CrowsNestBlock1
-[2019.06.19-15.42.49:153][396]LogLinker: Warning: Can't find file for asset '/Game/OtherBlocks/defaultMat' while loading NULL.
-[2019.06.19-15.42.49:153][396]LogLinker: Warning: Can't find file '/Game/OtherBlocks/defaultMat'
-[2019.06.19-15.42.49:154][396]LogLinker: Warning: Can't find file for asset '/Game/OtherBlocks/defaultMat' while loading NULL.
-[2019.06.19-15.42.49:154][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/lgihttop'
-[2019.06.19-15.42.49:154][396]LoadErrors: Failed to load /Game/BryansFinalLevel/lgihttop.lgihttop Referenced by speedboatdone
-[2019.06.19-15.42.49:154][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/lgihttop' while loading NULL.
-[2019.06.19-15.42.49:154][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Lightside'
-[2019.06.19-15.42.49:154][396]LoadErrors: Failed to load /Game/BryansFinalLevel/Lightside.Lightside Referenced by speedboatdone
-[2019.06.19-15.42.49:154][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Lightside' while loading NULL.
-[2019.06.19-15.42.49:154][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/darktop'
-[2019.06.19-15.42.49:154][396]LoadErrors: Failed to load /Game/BryansFinalLevel/darktop.darktop Referenced by speedboatdone
-[2019.06.19-15.42.49:155][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/darktop' while loading NULL.
-[2019.06.19-15.42.49:155][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/darkside'
-[2019.06.19-15.42.49:155][396]LoadErrors: Failed to load /Game/BryansFinalLevel/darkside.darkside Referenced by speedboatdone
-[2019.06.19-15.42.49:155][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/darkside' while loading NULL.
-[2019.06.19-15.42.49:155][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/lgihttop'
-[2019.06.19-15.42.49:155][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/lgihttop' while loading NULL.
-[2019.06.19-15.42.49:155][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Lightside'
-[2019.06.19-15.42.49:156][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Lightside' while loading NULL.
-[2019.06.19-15.42.49:156][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/darktop'
-[2019.06.19-15.42.49:156][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/darktop' while loading NULL.
-[2019.06.19-15.42.49:156][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/darkside'
-[2019.06.19-15.42.49:156][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/darkside' while loading NULL.
-[2019.06.19-15.42.49:156][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/whiteside'
-[2019.06.19-15.42.49:156][396]LoadErrors: Failed to load /Game/BryansFinalLevel/whiteside.whiteside Referenced by pontoon
-[2019.06.19-15.42.49:156][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/whiteside' while loading NULL.
-[2019.06.19-15.42.49:156][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/blackside'
-[2019.06.19-15.42.49:157][396]LoadErrors: Failed to load /Game/BryansFinalLevel/blackside.blackside Referenced by pontoon
-[2019.06.19-15.42.49:157][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/blackside' while loading NULL.
-[2019.06.19-15.42.49:157][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/lambert1'
-[2019.06.19-15.42.49:157][396]LoadErrors: Failed to load /Game/BryansFinalLevel/lambert1.lambert1 Referenced by pontoon
-[2019.06.19-15.42.49:157][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/lambert1' while loading NULL.
-[2019.06.19-15.42.49:157][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Whitetop'
-[2019.06.19-15.42.49:157][396]LoadErrors: Failed to load /Game/BryansFinalLevel/Whitetop.Whitetop Referenced by pontoon
-[2019.06.19-15.42.49:157][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Whitetop' while loading NULL.
-[2019.06.19-15.42.49:157][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Blacktop'
-[2019.06.19-15.42.49:157][396]LoadErrors: Failed to load /Game/BryansFinalLevel/Blacktop.Blacktop Referenced by pontoon
-[2019.06.19-15.42.49:157][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Blacktop' while loading NULL.
-[2019.06.19-15.42.49:158][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/whiteside'
-[2019.06.19-15.42.49:158][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/whiteside' while loading NULL.
-[2019.06.19-15.42.49:158][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/blackside'
-[2019.06.19-15.42.49:158][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/blackside' while loading NULL.
-[2019.06.19-15.42.49:158][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/lambert1'
-[2019.06.19-15.42.49:158][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/lambert1' while loading NULL.
-[2019.06.19-15.42.49:158][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Whitetop'
-[2019.06.19-15.42.49:158][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Whitetop' while loading NULL.
-[2019.06.19-15.42.49:159][396]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Blacktop'
-[2019.06.19-15.42.49:159][396]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Blacktop' while loading NULL.
-[2019.06.19-15.42.49:198][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood001SideColor'
-[2019.06.19-15.42.49:198][396]LoadErrors: Failed to load /Game/woodBlocksContent/Wood001SideColor.Wood001SideColor Referenced by M_TrunkSide_AP_Inst
-[2019.06.19-15.42.49:199][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood001SideColor' while loading NULL.
-[2019.06.19-15.42.49:199][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood001SideNormal'
-[2019.06.19-15.42.49:199][396]LoadErrors: Failed to load /Game/woodBlocksContent/Wood001SideNormal.Wood001SideNormal Referenced by M_TrunkSide_AP_Inst
-[2019.06.19-15.42.49:199][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood001SideNormal' while loading NULL.
-[2019.06.19-15.42.49:199][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood002EndColor'
-[2019.06.19-15.42.49:200][396]LoadErrors: Failed to load /Game/woodBlocksContent/Wood002EndColor.Wood002EndColor Referenced by M_TrunkEnd_AP_Inst
-[2019.06.19-15.42.49:200][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood002EndColor' while loading NULL.
-[2019.06.19-15.42.49:200][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood002EndNormal'
-[2019.06.19-15.42.49:200][396]LoadErrors: Failed to load /Game/woodBlocksContent/Wood002EndNormal.Wood002EndNormal Referenced by M_TrunkEnd_AP_Inst
-[2019.06.19-15.42.49:200][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood002EndNormal' while loading NULL.
-[2019.06.19-15.42.49:201][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood001SideColor'
-[2019.06.19-15.42.49:201][396]LoadErrors: Failed to load /Game/woodBlocksContent/Wood001SideColor.Wood001SideColor Referenced by M_TrackTieSide_AP_Inst
-[2019.06.19-15.42.49:201][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood001SideColor' while loading NULL.
-[2019.06.19-15.42.49:201][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood001SideNormal'
-[2019.06.19-15.42.49:201][396]LoadErrors: Failed to load /Game/woodBlocksContent/Wood001SideNormal.Wood001SideNormal Referenced by M_TrackTieSide_AP_Inst
-[2019.06.19-15.42.49:201][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood001SideNormal' while loading NULL.
-[2019.06.19-15.42.49:201][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood002EndColor'
-[2019.06.19-15.42.49:202][396]LoadErrors: Failed to load /Game/woodBlocksContent/Wood002EndColor.Wood002EndColor Referenced by M_TrackTieEnd_AP_Inst
-[2019.06.19-15.42.49:202][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood002EndColor' while loading NULL.
-[2019.06.19-15.42.49:202][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood002EndNormal'
-[2019.06.19-15.42.49:202][396]LoadErrors: Failed to load /Game/woodBlocksContent/Wood002EndNormal.Wood002EndNormal Referenced by M_TrackTieEnd_AP_Inst
-[2019.06.19-15.42.49:202][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood002EndNormal' while loading NULL.
-[2019.06.19-15.42.49:202][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood001SideColor'
-[2019.06.19-15.42.49:202][396]LoadErrors: Failed to load /Game/woodBlocksContent/Wood001SideColor.Wood001SideColor Referenced by M_TrackRailSide_AP_Inst
-[2019.06.19-15.42.49:202][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood001SideColor' while loading NULL.
-[2019.06.19-15.42.49:202][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood001SideNormal'
-[2019.06.19-15.42.49:203][396]LoadErrors: Failed to load /Game/woodBlocksContent/Wood001SideNormal.Wood001SideNormal Referenced by M_TrackRailSide_AP_Inst
-[2019.06.19-15.42.49:203][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood001SideNormal' while loading NULL.
-[2019.06.19-15.42.49:203][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood002EndColor'
-[2019.06.19-15.42.49:203][396]LoadErrors: Failed to load /Game/woodBlocksContent/Wood002EndColor.Wood002EndColor Referenced by M_TrackRailEnd_AP_Inst
-[2019.06.19-15.42.49:203][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood002EndColor' while loading NULL.
-[2019.06.19-15.42.49:203][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood002EndNormal'
-[2019.06.19-15.42.49:203][396]LoadErrors: Failed to load /Game/woodBlocksContent/Wood002EndNormal.Wood002EndNormal Referenced by M_TrackRailEnd_AP_Inst
-[2019.06.19-15.42.49:203][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood002EndNormal' while loading NULL.
-[2019.06.19-15.42.49:204][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood001SideColor'
-[2019.06.19-15.42.49:204][396]LoadErrors: Failed to load /Game/woodBlocksContent/Wood001SideColor.Wood001SideColor Referenced by M_PlatformSideG_AP_Inst
-[2019.06.19-15.42.49:204][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood001SideColor' while loading NULL.
-[2019.06.19-15.42.49:204][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood001SideNormal'
-[2019.06.19-15.42.49:204][396]LoadErrors: Failed to load /Game/woodBlocksContent/Wood001SideNormal.Wood001SideNormal Referenced by M_PlatformSideG_AP_Inst
-[2019.06.19-15.42.49:204][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood001SideNormal' while loading NULL.
-[2019.06.19-15.42.49:205][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood002EndColor'
-[2019.06.19-15.42.49:205][396]LoadErrors: Failed to load /Game/woodBlocksContent/Wood002EndColor.Wood002EndColor Referenced by M_PlatformEndG_AP_Inst1
-[2019.06.19-15.42.49:205][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood002EndColor' while loading NULL.
-[2019.06.19-15.42.49:205][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood002EndNormal'
-[2019.06.19-15.42.49:205][396]LoadErrors: Failed to load /Game/woodBlocksContent/Wood002EndNormal.Wood002EndNormal Referenced by M_PlatformEndG_AP_Inst1
-[2019.06.19-15.42.49:205][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood002EndNormal' while loading NULL.
-[2019.06.19-15.42.49:206][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood001SideColor'
-[2019.06.19-15.42.49:207][396]LoadErrors: Failed to load /Game/woodBlocksContent/Wood001SideColor.Wood001SideColor Referenced by M_DarkWallSide_AP_Inst
-[2019.06.19-15.42.49:207][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood001SideColor' while loading NULL.
-[2019.06.19-15.42.49:207][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood001SideNormal'
-[2019.06.19-15.42.49:207][396]LoadErrors: Failed to load /Game/woodBlocksContent/Wood001SideNormal.Wood001SideNormal Referenced by M_DarkWallSide_AP_Inst
-[2019.06.19-15.42.49:207][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood001SideNormal' while loading NULL.
-[2019.06.19-15.42.49:207][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood002EndColor'
-[2019.06.19-15.42.49:207][396]LoadErrors: Failed to load /Game/woodBlocksContent/Wood002EndColor.Wood002EndColor Referenced by M_DarkWallEnd_AP_Inst
-[2019.06.19-15.42.49:207][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood002EndColor' while loading NULL.
-[2019.06.19-15.42.49:208][396]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood002EndNormal'
-[2019.06.19-15.42.49:208][396]LoadErrors: Failed to load /Game/woodBlocksContent/Wood002EndNormal.Wood002EndNormal Referenced by M_DarkWallEnd_AP_Inst
-[2019.06.19-15.42.49:208][396]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood002EndNormal' while loading NULL.
-[2019.06.19-15.42.49:812][396]LogAIModule: Creating AISystem for world StreetSceneLarge
-[2019.06.19-15.42.50:023][396]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
-[2019.06.19-15.42.50:112][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
-[2019.06.19-15.42.50:113][396]Cmd: MAP LOAD FILE="../../../../../../Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2019.06.19-15.42.50:113][396]LightingResults: New page: Lighting Build
-[2019.06.19-15.42.50:114][396]LoadErrors: New page: Loading map: StreetSceneLarge.umap
-[2019.06.19-15.42.50:114][396]MapCheck: New page: Map Check
-[2019.06.19-15.42.50:114][396]LightingResults: New page: Lighting Build
-[2019.06.19-15.42.50:137][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
-[2019.06.19-15.42.50:219][396]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2019.06.19-15.42.50:422][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
-[2019.06.19-15.42.50:445][396]Cmd: MAP CHECKDEP NOCLEARLOG
-[2019.06.19-15.42.50:446][396]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.498ms to complete.
-[2019.06.19-15.42.50:446][396]LogFileHelpers: Loading map 'StreetSceneLarge' took 0.332
-[2019.06.19-15.43.10:744][976]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
-[2019.06.19-15.46.49:582][961]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
-[2019.06.19-15.48.15:444][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wood_Block2)
-[2019.06.19-15.48.22:404][755]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
-[2019.06.19-15.48.30:880][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wood_Block15)
-[2019.06.19-15.48.40:825][466]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
-[2019.06.19-15.48.55:384][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.06.19-15.48.55:499][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
-[2019.06.19-15.48.58:844][271]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/StreetSceneLargeD39DD2B34DB4E673D06B32945152484C.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge.umap'
-[2019.06.19-15.48.59:566][271]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/StreetSceneLarge_BuiltData64C002674A37D65742E749BBFE06C51E.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge_BuiltData.uasset'
-[2019.06.19-15.49.57:619][555]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
-[2019.06.19-15.50.24:355][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Tree_Block21)
-[2019.06.19-15.50.28:150][432]Cmd: TRANSACTION UNDO
-[2019.06.19-15.50.28:150][432]LogEditorTransaction: Undo Clicking on Actors
-[2019.06.19-15.50.36:431][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder26)
-[2019.06.19-15.50.38:078][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder26)
-[2019.06.19-15.50.39:499][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder33)
-[2019.06.19-15.50.43:633][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wood_Block_10)
-[2019.06.19-15.51.08:503][287]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
-[2019.06.19-15.51.17:606][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.06.19-15.51.17:704][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
-[2019.06.19-15.51.21:159][656]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/StreetSceneLargeB181C975441DD6664238F2B9C3B6BEB2.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge.umap'
-[2019.06.19-15.51.21:706][656]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/StreetSceneLarge_BuiltData0045960F4AE05077B26FD0AA2891DBEA.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge_BuiltData.uasset'
-[2019.06.19-15.51.43:953][726]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
-[2019.06.19-15.51.44:597][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.06.19-15.51.44:715][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
-[2019.06.19-15.51.47:993][754]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/StreetSceneLarge4A89D80E498D6068D545F4AD90AFCCC4.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge.umap'
-[2019.06.19-15.51.48:510][754]LogSavePackage: Moving '../../../../../../Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/StreetSceneLarge_BuiltDataCCE2502042B11ADF75119DA1ED912379.tmp' to '../../../../../../Users/jacob/Documents/GitHub/Class/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge_BuiltData.uasset'
+[2019.06.19-16.15.34:507][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.19-16.15.34:507][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.19-16.15.34:507][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/u0692594/Documents/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.19-16.15.34:507][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.19-16.15.34:507][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/u0692594/Documents/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.19-16.15.34:507][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/u0692594/Documents/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.19-16.15.34:507][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.19-16.15.34:507][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.19-16.15.34:507][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.19-16.15.34:507][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.19-16.15.34:507][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.19-16.15.34:507][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.19-16.15.34:507][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.19-16.15.34:507][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.19-16.15.34:507][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.19-16.15.34:507][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.19-16.15.34:507][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.19-16.15.34:507][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.19-16.15.34:507][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.19-16.15.34:507][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/u0692594/Documents/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.19-16.15.34:507][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.19-16.15.34:508][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.19-16.15.34:508][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.19-16.15.34:508][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.19-16.15.34:508][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.19-16.15.34:508][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.19-16.15.34:508][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.06.19-16.15.34:508][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.19-16.15.34:508][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.19-16.15.34:508][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.19-16.15.34:508][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.19-16.15.34:508][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.19-16.15.34:508][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.19-16.15.34:508][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/u0692594/Documents/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.19-16.15.34:508][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/u0692594/Documents/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.19-16.15.34:516][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/u0692594/Documents/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/u0692594/Documents/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/u0692594/Documents/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/u0692594/Documents/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/u0692594/Documents/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.19-16.15.34:516][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/u0692594/Documents/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.19-16.15.34:517][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.19-16.15.34:517][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.19-16.15.34:517][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.19-16.15.34:517][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.19-16.15.34:517][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.19-16.15.34:517][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.19-16.15.34:517][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.19-16.15.34:517][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.19-16.15.34:517][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.19-16.15.34:517][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.19-16.15.34:517][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.19-16.15.34:517][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.19-16.15.34:517][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.19-16.15.34:517][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/u0692594/Documents/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.19-16.15.34:517][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.19-16.15.34:517][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.19-16.15.34:518][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.19-16.15.34:518][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.19-16.15.34:542][  0]LogHAL: Display: Platform has ~ 16 GB [17095323648 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.19-16.15.34:542][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.06.19-16.15.34:542][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.19-16.15.34:543][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/u0692594/Documents/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/u0692594/Documents/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/u0692594/Documents/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/u0692594/Documents/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/u0692594/Documents/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/u0692594/Documents/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.19-16.15.34:543][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.19-16.15.34:544][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.19-16.15.34:544][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.19-16.15.34:544][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.19-16.15.34:544][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.19-16.15.34:544][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.19-16.15.34:544][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.19-16.15.34:544][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.19-16.15.34:544][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.19-16.15.34:544][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.19-16.15.34:544][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.19-16.15.34:544][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.19-16.15.34:544][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/u0692594/Documents/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.19-16.15.34:544][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.19-16.15.34:544][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.19-16.15.34:544][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.19-16.15.34:548][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.19-16.15.34:548][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.06.19-16.15.34:548][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/u0692594/Documents/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.19-16.15.34:549][  0]LogInit: Computer: eae-n-003
+[2019.06.19-16.15.34:549][  0]LogInit: User: u0692594
+[2019.06.19-16.15.34:549][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.06.19-16.15.34:549][  0]LogInit: High frequency timer resolution =3.023438 MHz
+[2019.06.19-16.15.34:550][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.06.19-16.15.34:550][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.19-16.15.34:550][  0]LogMemory: Process Physical Memory: 95.98 MB used, 95.98 MB peak
+[2019.06.19-16.15.34:550][  0]LogMemory: Process Virtual Memory: 90.41 MB used, 90.41 MB peak
+[2019.06.19-16.15.34:550][  0]LogMemory: Physical Memory: 5313.78 MB used,  10989.59 MB free, 16303.37 MB total
+[2019.06.19-16.15.34:550][  0]LogMemory: Virtual Memory: 4655.86 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.06.19-16.15.34:774][  0]LogInit: Using OS detected language (en-US).
+[2019.06.19-16.15.34:774][  0]LogInit: Using OS detected locale (en-US).
+[2019.06.19-16.15.34:778][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.06.19-16.15.35:095][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.19-16.15.35:173][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.19-16.15.35:173][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.19-16.15.37:097][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.19-16.15.37:097][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.19-16.15.37:161][  0]LogD3D11RHI:    0. 'Radeon RX Vega M GH Graphics' (Feature Level 11_0)
+[2019.06.19-16.15.37:161][  0]LogD3D11RHI:       4042/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.06.19-16.15.37:188][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.06.19-16.15.37:188][  0]LogD3D11RHI:       128/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.06.19-16.15.37:190][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.19-16.15.37:190][  0]LogD3D11RHI:       0/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.19-16.15.37:190][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.19-16.15.37:199][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.19-16.15.37:199][  0]LogD3D11RHI:     GPU DeviceId: 0x694c (for the marketing name, search the web for "GPU Device Id")
+[2019.06.19-16.15.37:199][  0]LogWindows: EnumDisplayDevices:
+[2019.06.19-16.15.37:199][  0]LogWindows:    0. 'Radeon RX Vega M GH Graphics' (P:1 D:1)
+[2019.06.19-16.15.37:200][  0]LogWindows:    1. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.06.19-16.15.37:200][  0]LogWindows:    2. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.06.19-16.15.37:200][  0]LogWindows:    3. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.06.19-16.15.37:200][  0]LogWindows:    4. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.06.19-16.15.37:201][  0]LogWindows:    5. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.06.19-16.15.37:201][  0]LogWindows:    6. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.06.19-16.15.37:201][  0]LogWindows:    7. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2019.06.19-16.15.37:201][  0]LogWindows:    8. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.06.19-16.15.37:202][  0]LogWindows:    9. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.06.19-16.15.37:202][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:8 
+[2019.06.19-16.15.37:202][  0]LogD3D11RHI:     Adapter Name: Radeon RX Vega M GH Graphics
+[2019.06.19-16.15.37:202][  0]LogD3D11RHI:   Driver Version: Adrenalin 19 18.12.2 (internal:25.20.15002.58, unified:25.20.15002.58)
+[2019.06.19-16.15.37:202][  0]LogD3D11RHI:      Driver Date: 12-6-2018
+[2019.06.19-16.15.37:202][  0]LogRHI: Texture pool is 2829 MB (70% of 4042 MB)
+[2019.06.19-16.15.37:304][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.19-16.15.37:317][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.19-16.15.37:318][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.19-16.15.37:318][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.06.19-16.15.37:326][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2019.06.19-16.15.37:648][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.06.19-16.15.37:661][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.06.19-16.15.37:675][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.06.19-16.15.37:690][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.06.19-16.15.37:708][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.06.19-16.15.37:725][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.06.19-16.15.37:742][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.06.19-16.15.37:760][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.06.19-16.15.37:772][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.06.19-16.15.37:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.06.19-16.15.37:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.06.19-16.15.37:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.06.19-16.15.37:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.06.19-16.15.37:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.06.19-16.15.37:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.06.19-16.15.37:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.06.19-16.15.37:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.06.19-16.15.37:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.06.19-16.15.37:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.06.19-16.15.37:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.06.19-16.15.37:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.06.19-16.15.37:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.06.19-16.15.37:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.06.19-16.15.37:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.06.19-16.15.37:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.06.19-16.15.37:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.06.19-16.15.37:864][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.06.19-16.15.37:868][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.06.19-16.15.37:930][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.06.19-16.15.37:930][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.06.19-16.15.37:955][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.06.19-16.15.37:955][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.06.19-16.15.37:969][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.06.19-16.15.37:982][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.06.19-16.15.37:996][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.06.19-16.15.38:016][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.06.19-16.15.38:068][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.06.19-16.15.38:068][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.06.19-16.15.38:068][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.19-16.15.38:113][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.06.19-16.15.38:252][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../../Users/u0692594/Documents/SummerAssetPipe/BaseBlock/BaseCityBlock/Intermediate/Shaders/WorkingDirectory/11148/).
+[2019.06.19-16.15.38:252][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u0692594/AppData/Local/Temp/UnrealShaderWorkingDir/10B593544EADDFE3BB1ED1AB6032D331/'.
+[2019.06.19-16.15.38:257][  0]LogXGEController: Cleaning working directory: C:/Users/u0692594/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.19-16.15.38:258][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.19-16.15.38:258][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.19-16.15.38:258][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.19-16.15.40:445][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.19-16.15.40:445][  0]LogDerivedDataCache: Display: Starting with empty Boot cache
+[2019.06.19-16.15.40:446][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u0692594/Documents/SummerAssetPipe/BaseBlock/BaseCityBlock/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.19-16.15.40:446][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.19-16.15.40:446][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u0692594/Documents/SummerAssetPipe/BaseBlock/BaseCityBlock/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.19-16.15.40:446][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.19-16.15.40:469][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.19-16.15.40:469][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.19-16.15.40:469][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.19-16.15.40:481][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u0692594/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.19-16.15.40:481][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.19-16.15.40:481][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.19-16.15.40:528][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.19-16.15.40:537][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.19-16.15.40:559][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.19-16.15.40:992][  0]LogAssetRegistry: FAssetRegistry took 0.0384 seconds to start up
+[2019.06.19-16.15.41:725][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.19-16.15.42:214][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.19-16.15.42:214][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.06.19-16.15.42:214][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.19-16.15.42:214][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.06.19-16.15.42:214][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.06.19-16.15.42:296][  0]LogNetVersion: BaseCityBlock 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2307294784)
+[2019.06.19-16.15.43:852][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.056198 seconds
+[2019.06.19-16.15.43:864][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.06.19-16.15.43:864][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.06.19-16.15.43:864][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.19-16.15.48:603][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.19-16.15.48:636][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.19-16.15.49:095][  0]SourceControl: Source control is disabled
+[2019.06.19-16.15.49:095][  0]SourceControl: Source control is disabled
+[2019.06.19-16.15.49:168][  0]SourceControl: Source control is disabled
+[2019.06.19-16.15.49:190][  0]SourceControl: Source control is disabled
+[2019.06.19-16.15.50:123][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.19-16.15.50:412][  0]LogOcInput: OculusInput pre-init called
+[2019.06.19-16.15.51:625][  0]LogEngine: Initializing Engine...
+[2019.06.19-16.15.51:632][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.19-16.15.51:637][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.003 s
+[2019.06.19-16.15.52:094][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.19-16.15.52:189][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.19-16.15.52:232][  0]LogInit: XAudio2 using '4 - CintiqPro24P (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.19-16.15.52:245][  0]LogInit: FAudioDevice initialized.
+[2019.06.19-16.15.52:246][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.19-16.15.52:320][  0]LogDerivedDataCache: Saved boot cache 0.07s 73MB C:/Users/u0692594/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.06.19-16.15.52:334][  0]LogInit: Texture streaming: Enabled
+[2019.06.19-16.15.52:374][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.19-16.15.52:428][  0]LogInit: Transaction tracking system initialized
+[2019.06.19-16.15.52:520][  0]BlueprintLog: New page: Editor Load
+[2019.06.19-16.15.52:825][  0]LocalizationService: Localization service is disabled
+[2019.06.19-16.15.53:333][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0692594/Documents/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/' took 0.03s
+[2019.06.19-16.15.53:333][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.19-16.15.53:333][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.19-16.15.54:293][  0]SourceControl: Source control is disabled
+[2019.06.19-16.15.54:298][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.19-16.15.54:300][  0]LightingResults: New page: Lighting Build
+[2019.06.19-16.15.54:327][  0]MapCheck: New page: Map Check
+[2019.06.19-16.15.54:327][  0]LightingResults: New page: Lighting Build
+[2019.06.19-16.15.54:393][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.06.19-16.15.54:665][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.06.19-16.15.54:714][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.19-16.15.54:788][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.06.19-16.15.54:788][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.19-16.15.54:789][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.573ms to complete.
+[2019.06.19-16.15.54:789][  0]LogFileHelpers: Loading map 'Template_Default' took 0.494
+[2019.06.19-16.15.55:067][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.19-16.15.55:078][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.19-16.15.55:087][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.19-16.15.55:096][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.19-16.15.55:123][  0]LogCollectionManager: Loaded 0 collections in 0.002047 seconds
+[2019.06.19-16.15.55:204][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0692594/Documents/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Collections/' took 0.01s
+[2019.06.19-16.15.55:204][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0692594/Documents/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Developers/u0692594/Collections/' took 0.01s
+[2019.06.19-16.15.55:204][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0692594/Documents/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Collections/' took 0.01s
+[2019.06.19-16.15.55:204][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.06.19-16.15.55:217][  0]LogContentBrowser: Native class hierarchy populated in 0.0094 seconds. Added 2732 classes and 659 folders.
+[2019.06.19-16.15.55:239][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.19-16.15.55:255][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-16.15.55:267][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-16.15.55:283][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-16.15.55:290][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-16.15.55:300][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-16.15.55:306][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-16.15.55:313][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-16.15.55:319][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-16.15.55:327][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-16.15.55:333][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-16.15.55:340][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-16.15.55:345][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-16.15.55:352][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-16.15.55:358][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-16.15.55:365][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-16.15.55:370][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-16.15.55:397][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-16.15.55:404][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-16.15.55:409][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-16.15.55:416][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-16.15.55:422][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-16.15.55:429][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-16.15.55:435][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-16.15.55:442][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-16.15.55:449][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-16.15.55:456][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.19-16.15.55:691][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.19-16.15.55:707][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.06.19-16.15.55:828][  0]LogSlate: Took 0.006282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.19-16.15.55:837][  0]LogSlate: Took 0.005312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.19-16.15.55:851][  0]LogSlate: Took 0.006894 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.19-16.15.55:976][  0]LogRenderer: Reallocating scene render targets to support 1208x596 Format 10 NumSamples 1 (Frame:1).
+[2019.06.19-16.15.56:425][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.19-16.15.56:425][  0]LogLoad: (Engine Initialization) Total time: 28.04 seconds
+[2019.06.19-16.15.56:425][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.19-16.15.56:489][  0]LogAssetRegistry: Asset discovery search completed in 15.5213 seconds
+[2019.06.19-16.15.56:493][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.19-16.15.56:493][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000067 seconds (updated 0 objects)
+[2019.06.19-16.15.56:505][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.19-16.16.22:456][582]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.19-16.16.24:229][784]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.19-16.16.26:704][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.19-16.16.51:611][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.19-16.17.00:726][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
