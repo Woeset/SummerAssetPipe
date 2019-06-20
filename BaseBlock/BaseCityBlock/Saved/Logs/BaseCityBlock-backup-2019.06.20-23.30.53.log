@@ -1,0 +1,1537 @@
+﻿Log file open, 06/20/19 17:10:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BaseCityBlock
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.396654
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.049s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=TKK3000 -epicuserid=acb3fb157f884c1c9ad3d2f6cb952a77 -epiclocale=en-US
+LogInit: Base Directory: D:/Program Files (x86)/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.20-23.10.26:571][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.20-23.10.26:571][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.20-23.10.26:571][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.20-23.10.26:572][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.20-23.10.26:572][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.20-23.10.26:572][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.20-23.10.26:572][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.20-23.10.26:572][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.20-23.10.26:572][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.20-23.10.26:572][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.20-23.10.26:572][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.20-23.10.26:572][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.20-23.10.26:572][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.20-23.10.26:572][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.20-23.10.26:572][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.20-23.10.26:572][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.20-23.10.26:572][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.20-23.10.26:572][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.20-23.10.26:572][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.20-23.10.26:572][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.20-23.10.26:572][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.20-23.10.26:573][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.20-23.10.26:573][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.20-23.10.26:573][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.20-23.10.26:573][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.20-23.10.26:573][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.20-23.10.26:573][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.06.20-23.10.26:573][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.20-23.10.26:573][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.20-23.10.26:573][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.06.20-23.10.26:573][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.20-23.10.26:573][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.20-23.10.26:573][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.20-23.10.26:573][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.20-23.10.26:573][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.20-23.10.26:573][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.20-23.10.26:581][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.20-23.10.26:581][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.20-23.10.26:581][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.20-23.10.26:581][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.20-23.10.26:582][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.20-23.10.26:582][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.20-23.10.26:582][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.20-23.10.26:582][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.20-23.10.26:582][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.20-23.10.26:582][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.20-23.10.26:582][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.20-23.10.26:582][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.20-23.10.26:582][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.20-23.10.26:582][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.20-23.10.26:582][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.20-23.10.26:582][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.20-23.10.26:582][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.20-23.10.26:582][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.20-23.10.26:582][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.20-23.10.26:582][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.20-23.10.26:582][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.20-23.10.26:582][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.20-23.10.26:583][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.20-23.10.26:583][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.20-23.10.26:583][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.20-23.10.26:583][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.20-23.10.26:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.20-23.10.26:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.20-23.10.26:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.20-23.10.26:583][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.20-23.10.26:583][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.20-23.10.26:583][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.20-23.10.26:583][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.20-23.10.26:583][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.20-23.10.26:583][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.20-23.10.26:583][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.20-23.10.26:583][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.20-23.10.26:583][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.20-23.10.26:583][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.20-23.10.26:583][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.20-23.10.26:584][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.20-23.10.26:584][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.20-23.10.26:584][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.20-23.10.26:584][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.20-23.10.26:584][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.20-23.10.26:584][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.20-23.10.26:584][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.20-23.10.26:584][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.20-23.10.26:584][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.20-23.10.26:584][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.20-23.10.26:584][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.20-23.10.26:584][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.20-23.10.26:584][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.20-23.10.26:584][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.20-23.10.26:584][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.20-23.10.26:584][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.20-23.10.26:584][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.20-23.10.26:584][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.20-23.10.26:584][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.20-23.10.26:585][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.20-23.10.26:585][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.20-23.10.26:585][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.20-23.10.26:585][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.20-23.10.26:585][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.20-23.10.26:585][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.20-23.10.26:585][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.20-23.10.26:585][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.20-23.10.26:585][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.20-23.10.26:585][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.20-23.10.26:585][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.20-23.10.26:585][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.20-23.10.26:585][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.20-23.10.26:585][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.20-23.10.26:585][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.20-23.10.26:585][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.20-23.10.26:585][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.20-23.10.26:585][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.20-23.10.26:585][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.20-23.10.26:585][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.20-23.10.26:585][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.20-23.10.26:585][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.20-23.10.26:586][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.20-23.10.26:586][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.20-23.10.26:595][  0]LogHAL: Display: Platform has ~ 16 GB [17031782400 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.06.20-23.10.26:595][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.20-23.10.26:595][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.20-23.10.26:595][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.20-23.10.26:596][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.20-23.10.26:596][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.20-23.10.26:596][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.20-23.10.26:596][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.20-23.10.26:596][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.20-23.10.26:596][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.20-23.10.26:596][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.20-23.10.26:596][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.20-23.10.26:596][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.20-23.10.26:596][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.20-23.10.26:596][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.20-23.10.26:596][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.20-23.10.26:596][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.20-23.10.26:596][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.20-23.10.26:596][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.20-23.10.26:596][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.20-23.10.26:596][  0]LogInit: Computer: DESKTOP-7QKCKOQ
+[2019.06.20-23.10.26:596][  0]LogInit: User: tkk30
+[2019.06.20-23.10.26:596][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.06.20-23.10.26:596][  0]LogInit: High frequency timer resolution =2.156253 MHz
+[2019.06.20-23.10.26:596][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.06.20-23.10.26:596][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.20-23.10.26:596][  0]LogMemory: Process Physical Memory: 103.82 MB used, 103.82 MB peak
+[2019.06.20-23.10.26:596][  0]LogMemory: Process Virtual Memory: 86.76 MB used, 86.76 MB peak
+[2019.06.20-23.10.26:596][  0]LogMemory: Physical Memory: 6497.73 MB used,  9745.04 MB free, 16242.77 MB total
+[2019.06.20-23.10.26:596][  0]LogMemory: Virtual Memory: 4665.25 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.06.20-23.10.26:643][  0]LogInit: Using OS detected language (en-US).
+[2019.06.20-23.10.26:643][  0]LogInit: Using OS detected locale (en-US).
+[2019.06.20-23.10.26:643][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.06.20-23.10.26:947][  0]LogStreaming: Display: Took  0.304s to InitEngineTextLocalization.
+[2019.06.20-23.10.26:947][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.20-23.10.26:971][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.20-23.10.26:971][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.20-23.10.27:111][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.20-23.10.27:111][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.20-23.10.27:153][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.06.20-23.10.27:153][  0]LogD3D11RHI:       8089/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.20-23.10.27:164][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.06.20-23.10.27:164][  0]LogD3D11RHI:       128/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.06.20-23.10.27:165][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.20-23.10.27:165][  0]LogD3D11RHI:       0/0/8121 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.20-23.10.27:165][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.20-23.10.27:172][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.20-23.10.27:172][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.20-23.10.27:172][  0]LogWindows: EnumDisplayDevices:
+[2019.06.20-23.10.27:172][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.06.20-23.10.27:172][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.06.20-23.10.27:173][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.06.20-23.10.27:173][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.06.20-23.10.27:173][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.06.20-23.10.27:173][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.06.20-23.10.27:173][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.06.20-23.10.27:174][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.06.20-23.10.27:174][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.06.20-23.10.27:174][  0]LogD3D11RHI:   Driver Version: 389.12 (internal:23.21.13.8912, unified:389.12)
+[2019.06.20-23.10.27:174][  0]LogD3D11RHI:      Driver Date: 3-7-2018
+[2019.06.20-23.10.27:174][  0]LogRHI: Texture pool is 5662 MB (70% of 8089 MB)
+[2019.06.20-23.10.27:198][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.20-23.10.27:207][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.06.20-23.10.27:484][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.20-23.10.27:494][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.20-23.10.27:503][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.20-23.10.27:513][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.20-23.10.27:523][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.20-23.10.27:533][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.20-23.10.27:543][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.20-23.10.27:553][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.20-23.10.27:557][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.20-23.10.27:614][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.20-23.10.27:614][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.20-23.10.27:614][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.20-23.10.27:614][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.20-23.10.27:614][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.20-23.10.27:614][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.20-23.10.27:614][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.20-23.10.27:614][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.20-23.10.27:614][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.20-23.10.27:614][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.20-23.10.27:614][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.20-23.10.27:614][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.20-23.10.27:614][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.20-23.10.27:614][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.20-23.10.27:614][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.20-23.10.27:614][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.20-23.10.27:614][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.20-23.10.27:614][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.20-23.10.27:615][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.20-23.10.27:668][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.20-23.10.27:668][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.20-23.10.27:687][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.20-23.10.27:687][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.20-23.10.27:696][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.20-23.10.27:706][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.20-23.10.27:716][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.20-23.10.27:726][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.20-23.10.27:761][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.20-23.10.27:761][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.20-23.10.27:761][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.20-23.10.27:795][  0]LogShaderCompilers: Guid format shader working directory is -31 characters bigger than the processId version (../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Intermediate/Shaders/WorkingDirectory/14536/).
+[2019.06.20-23.10.27:795][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/tkk30/AppData/Local/Temp/UnrealShaderWorkingDir/E56DCA144A5BDF5BAB94E9935AD464E2/'.
+[2019.06.20-23.10.27:796][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.20-23.10.27:796][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.20-23.10.27:796][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.20-23.10.28:244][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.20-23.10.28:289][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/tkk30/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.20-23.10.28:289][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/tkk30/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.06.20-23.10.28:289][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.20-23.10.28:289][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.20-23.10.28:290][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.20-23.10.28:290][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.20-23.10.28:302][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.20-23.10.28:303][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.20-23.10.28:303][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.20-23.10.28:314][  0]LogDerivedDataCache: Using Local data cache path C:/Users/tkk30/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.20-23.10.28:314][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.20-23.10.28:314][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.20-23.10.28:332][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.20-23.10.28:333][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.20-23.10.28:334][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.20-23.10.28:406][  0]LogAssetRegistry: FAssetRegistry took 0.0307 seconds to start up
+[2019.06.20-23.10.28:648][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.20-23.10.28:764][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.20-23.10.28:766][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.20-23.10.28:767][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.20-23.10.28:767][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.20-23.10.28:767][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.20-23.10.28:778][  0]LogNetVersion: BaseCityBlock 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 574320730)
+[2019.06.20-23.10.29:167][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.066772 seconds
+[2019.06.20-23.10.29:171][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.06.20-23.10.29:171][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.06.20-23.10.29:171][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.20-23.10.29:824][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.20-23.10.29:837][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.20-23.10.30:396][  0]SourceControl: Source control is disabled
+[2019.06.20-23.10.30:396][  0]SourceControl: Source control is disabled
+[2019.06.20-23.10.30:397][  0]SourceControl: Source control is disabled
+[2019.06.20-23.10.30:398][  0]SourceControl: Source control is disabled
+[2019.06.20-23.10.30:562][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.20-23.10.31:111][  0]LogOcInput: OculusInput pre-init called
+[2019.06.20-23.10.31:252][  0]LogEngine: Initializing Engine...
+[2019.06.20-23.10.31:253][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.20-23.10.31:253][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.20-23.10.31:253][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.20-23.10.31:254][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.20-23.10.31:254][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.20-23.10.31:437][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.20-23.10.31:445][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.20-23.10.31:450][  0]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.06.20-23.10.31:497][  0]LogInit: FAudioDevice initialized.
+[2019.06.20-23.10.31:497][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.20-23.10.31:539][  0]LogDerivedDataCache: Saved boot cache 0.04s 71MB C:/Users/tkk30/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.20-23.10.31:543][  0]LogInit: Texture streaming: Enabled
+[2019.06.20-23.10.31:552][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.20-23.10.31:562][  0]LogInit: Transaction tracking system initialized
+[2019.06.20-23.10.31:574][  0]BlueprintLog: New page: Editor Load
+[2019.06.20-23.10.31:621][  0]LocalizationService: Localization service is disabled
+[2019.06.20-23.10.31:972][  0]LogFileCache: Scanning file cache for directory 'D:/School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/' took 0.02s
+[2019.06.20-23.10.31:972][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.20-23.10.31:972][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.20-23.10.31:972][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.20-23.10.31:972][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.20-23.10.31:972][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.20-23.10.31:972][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.20-23.10.31:972][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.20-23.10.32:053][  0]SourceControl: Source control is disabled
+[2019.06.20-23.10.32:053][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.20-23.10.32:054][  0]LightingResults: New page: Lighting Build
+[2019.06.20-23.10.32:055][  0]MapCheck: New page: Map Check
+[2019.06.20-23.10.32:055][  0]LightingResults: New page: Lighting Build
+[2019.06.20-23.10.32:187][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.06.20-23.10.32:191][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.20-23.10.32:214][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.20-23.10.32:214][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.098ms to complete.
+[2019.06.20-23.10.32:214][  0]LogFileHelpers: Loading map 'Template_Default' took 0.160
+[2019.06.20-23.10.32:310][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.20-23.10.32:316][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.20-23.10.32:322][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.20-23.10.32:328][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.20-23.10.32:332][  0]LogCollectionManager: Loaded 0 collections in 0.000702 seconds
+[2019.06.20-23.10.32:346][  0]LogFileCache: Scanning file cache for directory 'D:/School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Collections/' took 0.01s
+[2019.06.20-23.10.32:346][  0]LogFileCache: Scanning file cache for directory 'D:/School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Developers/tkk30/Collections/' took 0.00s
+[2019.06.20-23.10.32:346][  0]LogFileCache: Scanning file cache for directory 'D:/School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Collections/' took 0.00s
+[2019.06.20-23.10.32:346][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.06.20-23.10.32:353][  0]LogContentBrowser: Native class hierarchy populated in 0.0069 seconds. Added 2651 classes and 620 folders.
+[2019.06.20-23.10.32:356][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.20-23.10.32:357][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.20-23.10.32:358][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.20-23.10.32:358][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.20-23.10.32:359][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.20-23.10.32:359][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.20-23.10.32:359][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.20-23.10.32:359][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.20-23.10.32:360][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.20-23.10.32:360][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.20-23.10.32:360][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.20-23.10.32:361][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.20-23.10.32:361][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.20-23.10.32:361][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.20-23.10.32:362][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.20-23.10.32:362][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.20-23.10.32:362][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.20-23.10.32:363][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.20-23.10.32:363][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.20-23.10.32:363][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.20-23.10.32:364][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.20-23.10.32:364][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.20-23.10.32:364][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.20-23.10.32:365][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.20-23.10.32:365][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.20-23.10.32:365][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.20-23.10.32:366][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.20-23.10.32:386][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.20-23.10.32:389][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.06.20-23.10.32:400][  0]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.20-23.10.32:402][  0]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.20-23.10.32:405][  0]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.20-23.10.32:467][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.06.20-23.10.32:559][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.20-23.10.32:559][  0]LogLoad: (Engine Initialization) Total time: 7.49 seconds
+[2019.06.20-23.10.32:559][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.20-23.10.32:578][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.20-23.10.32:644][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.20-23.10.32:699][  0]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.20-23.10.32:723][  1]LogAssetRegistry: Asset discovery search completed in 4.3386 seconds
+[2019.06.20-23.10.32:724][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.20-23.10.32:724][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2019.06.20-23.10.37:714][300]LogFileCache: Retrieving MD5 hashes for directory 'D:/School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/' took 5.12s
+[2019.06.20-23.10.38:148][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.10.38:250][332]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.20-23.10.38:424][332]LogLinker: Warning: Can't find file '/Game/Ben/lambert1'
+[2019.06.20-23.10.38:424][332]LogLinker: Warning: Can't find file for asset '/Game/Ben/lambert1' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Manequinn_and_Animations/Manequin_with_animation.uasset.
+[2019.06.20-23.10.38:424][332]LoadErrors: Error: /Game/Ben/Manequinn_and_Animations/Manequin_with_animation : Can't find file for asset. /Game/Ben/lambert1
+[2019.06.20-23.10.38:425][332]LogLinker: Warning: Can't find file '/Game/Ben/M_wood'
+[2019.06.20-23.10.38:425][332]LogLinker: Warning: Can't find file for asset '/Game/Ben/M_wood' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Manequinn_and_Animations/Manequin_with_animation.uasset.
+[2019.06.20-23.10.38:425][332]LoadErrors: Error: /Game/Ben/Manequinn_and_Animations/Manequin_with_animation : Can't find file for asset. /Game/Ben/M_wood
+[2019.06.20-23.10.38:425][332]LogLinker: Warning: Can't find file '/Game/Ben/lambert1'
+[2019.06.20-23.10.38:425][332]LogLinker: Warning: Can't find file for asset '/Game/Ben/lambert1' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Manequinn_and_Animations/Manequin_with_animation.uasset.
+[2019.06.20-23.10.38:425][332]LogLinker: Warning: Can't find file '/Game/Ben/M_wood'
+[2019.06.20-23.10.38:425][332]LogLinker: Warning: Can't find file for asset '/Game/Ben/M_wood' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Manequinn_and_Animations/Manequin_with_animation.uasset.
+[2019.06.20-23.10.38:447][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/blackside'
+[2019.06.20-23.10.38:447][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/blackside' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/pontoon.uasset.
+[2019.06.20-23.10.38:447][332]LoadErrors: Error: /Game/Bryan/BryansFinalLevel/pontoon : Can't find file for asset. /Game/BryansFinalLevel/blackside
+[2019.06.20-23.10.38:447][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Blacktop'
+[2019.06.20-23.10.38:447][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Blacktop' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/pontoon.uasset.
+[2019.06.20-23.10.38:447][332]LoadErrors: Error: /Game/Bryan/BryansFinalLevel/pontoon : Can't find file for asset. /Game/BryansFinalLevel/Blacktop
+[2019.06.20-23.10.38:447][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/lambert1'
+[2019.06.20-23.10.38:447][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/lambert1' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/pontoon.uasset.
+[2019.06.20-23.10.38:447][332]LoadErrors: Error: /Game/Bryan/BryansFinalLevel/pontoon : Can't find file for asset. /Game/BryansFinalLevel/lambert1
+[2019.06.20-23.10.38:448][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/whiteside'
+[2019.06.20-23.10.38:448][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/whiteside' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/pontoon.uasset.
+[2019.06.20-23.10.38:448][332]LoadErrors: Error: /Game/Bryan/BryansFinalLevel/pontoon : Can't find file for asset. /Game/BryansFinalLevel/whiteside
+[2019.06.20-23.10.38:448][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Whitetop'
+[2019.06.20-23.10.38:448][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Whitetop' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/pontoon.uasset.
+[2019.06.20-23.10.38:448][332]LoadErrors: Error: /Game/Bryan/BryansFinalLevel/pontoon : Can't find file for asset. /Game/BryansFinalLevel/Whitetop
+[2019.06.20-23.10.38:448][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/blackside'
+[2019.06.20-23.10.38:448][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/blackside' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/pontoon.uasset.
+[2019.06.20-23.10.38:448][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Blacktop'
+[2019.06.20-23.10.38:448][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Blacktop' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/pontoon.uasset.
+[2019.06.20-23.10.38:448][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/lambert1'
+[2019.06.20-23.10.38:448][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/lambert1' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/pontoon.uasset.
+[2019.06.20-23.10.38:449][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/whiteside'
+[2019.06.20-23.10.38:449][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/whiteside' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/pontoon.uasset.
+[2019.06.20-23.10.38:449][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Whitetop'
+[2019.06.20-23.10.38:449][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Whitetop' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/pontoon.uasset.
+[2019.06.20-23.10.38:450][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/darkside'
+[2019.06.20-23.10.38:450][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/darkside' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/speedboatdone.uasset.
+[2019.06.20-23.10.38:450][332]LoadErrors: Error: /Game/Bryan/BryansFinalLevel/speedboatdone : Can't find file for asset. /Game/BryansFinalLevel/darkside
+[2019.06.20-23.10.38:450][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/darktop'
+[2019.06.20-23.10.38:450][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/darktop' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/speedboatdone.uasset.
+[2019.06.20-23.10.38:450][332]LoadErrors: Error: /Game/Bryan/BryansFinalLevel/speedboatdone : Can't find file for asset. /Game/BryansFinalLevel/darktop
+[2019.06.20-23.10.38:451][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/lgihttop'
+[2019.06.20-23.10.38:451][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/lgihttop' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/speedboatdone.uasset.
+[2019.06.20-23.10.38:451][332]LoadErrors: Error: /Game/Bryan/BryansFinalLevel/speedboatdone : Can't find file for asset. /Game/BryansFinalLevel/lgihttop
+[2019.06.20-23.10.38:451][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Lightside'
+[2019.06.20-23.10.38:451][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Lightside' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/speedboatdone.uasset.
+[2019.06.20-23.10.38:451][332]LoadErrors: Error: /Game/Bryan/BryansFinalLevel/speedboatdone : Can't find file for asset. /Game/BryansFinalLevel/Lightside
+[2019.06.20-23.10.38:451][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/darkside'
+[2019.06.20-23.10.38:451][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/darkside' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/speedboatdone.uasset.
+[2019.06.20-23.10.38:451][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/darktop'
+[2019.06.20-23.10.38:451][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/darktop' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/speedboatdone.uasset.
+[2019.06.20-23.10.38:451][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/lgihttop'
+[2019.06.20-23.10.38:451][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/lgihttop' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/speedboatdone.uasset.
+[2019.06.20-23.10.38:452][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Lightside'
+[2019.06.20-23.10.38:452][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Lightside' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/speedboatdone.uasset.
+[2019.06.20-23.10.38:453][332]LogLinker: Warning: Can't find file '/Game/OtherBlocks/defaultMat'
+[2019.06.20-23.10.38:453][332]LogLinker: Warning: Can't find file for asset '/Game/OtherBlocks/defaultMat' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/OtherBlocks/CrowsNestBlock1.uasset.
+[2019.06.20-23.10.38:453][332]LoadErrors: Error: /Game/Bryan/OtherBlocks/CrowsNestBlock1 : Can't find file for asset. /Game/OtherBlocks/defaultMat
+[2019.06.20-23.10.38:453][332]LogLinker: Warning: Can't find file '/Game/OtherBlocks/defaultMat'
+[2019.06.20-23.10.38:453][332]LogLinker: Warning: Can't find file for asset '/Game/OtherBlocks/defaultMat' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/OtherBlocks/CrowsNestBlock1.uasset.
+[2019.06.20-23.10.38:488][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/hatpaint_1_Mat'
+[2019.06.20-23.10.38:488][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/hatpaint_1_Mat' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.20-23.10.38:488][332]LoadErrors: Error: /Game/Gaoyang/gaoyang/SM_MERGED_tank_4 : Can't find file for asset. /Game/woodBlocksContent/hatpaint_1_Mat
+[2019.06.20-23.10.38:488][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_MasterwallBlock_AP'
+[2019.06.20-23.10.38:488][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_MasterwallBlock_AP' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.20-23.10.38:488][332]LoadErrors: Error: /Game/Gaoyang/gaoyang/SM_MERGED_tank_4 : Can't find file for asset. /Game/woodBlocksContent/M_MasterwallBlock_AP
+[2019.06.20-23.10.38:489][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/mannpaint1_Mat'
+[2019.06.20-23.10.38:489][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/mannpaint1_Mat' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.20-23.10.38:489][332]LoadErrors: Error: /Game/Gaoyang/gaoyang/SM_MERGED_tank_4 : Can't find file for asset. /Game/woodBlocksContent/mannpaint1_Mat
+[2019.06.20-23.10.38:489][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LightWood2_AP_Inst'
+[2019.06.20-23.10.38:489][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LightWood2_AP_Inst' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.20-23.10.38:489][332]LoadErrors: Error: /Game/Gaoyang/gaoyang/SM_MERGED_tank_4 : Can't find file for asset. /Game/woodBlocksContent/M_LightWood2_AP_Inst
+[2019.06.20-23.10.38:489][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterpillar_AP_Inst'
+[2019.06.20-23.10.38:489][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterpillar_AP_Inst' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.20-23.10.38:489][332]LoadErrors: Error: /Game/Gaoyang/gaoyang/SM_MERGED_tank_4 : Can't find file for asset. /Game/woodBlocksContent/M_Masterpillar_AP_Inst
+[2019.06.20-23.10.38:491][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_MasterwallBlock1_AP_Inst'
+[2019.06.20-23.10.38:491][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_MasterwallBlock1_AP_Inst' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.20-23.10.38:491][332]LoadErrors: Error: /Game/Gaoyang/gaoyang/SM_MERGED_tank_4 : Can't find file for asset. /Game/woodBlocksContent/M_MasterwallBlock1_AP_Inst
+[2019.06.20-23.10.38:491][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwallcube_AP_Inst'
+[2019.06.20-23.10.38:491][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwallcube_AP_Inst' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.20-23.10.38:491][332]LoadErrors: Error: /Game/Gaoyang/gaoyang/SM_MERGED_tank_4 : Can't find file for asset. /Game/woodBlocksContent/M_Masterwallcube_AP_Inst
+[2019.06.20-23.10.38:491][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwallinner_AP_Inst'
+[2019.06.20-23.10.38:491][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwallinner_AP_Inst' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.20-23.10.38:491][332]LoadErrors: Error: /Game/Gaoyang/gaoyang/SM_MERGED_tank_4 : Can't find file for asset. /Game/woodBlocksContent/M_Masterwallinner_AP_Inst
+[2019.06.20-23.10.38:491][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwalltop_AP_Inst'
+[2019.06.20-23.10.38:492][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwalltop_AP_Inst' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.20-23.10.38:492][332]LoadErrors: Error: /Game/Gaoyang/gaoyang/SM_MERGED_tank_4 : Can't find file for asset. /Game/woodBlocksContent/M_Masterwalltop_AP_Inst
+[2019.06.20-23.10.38:492][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/hatpaint_1_Mat'
+[2019.06.20-23.10.38:492][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/hatpaint_1_Mat' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.20-23.10.38:492][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LightWood2_AP_Inst'
+[2019.06.20-23.10.38:492][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LightWood2_AP_Inst' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.20-23.10.38:493][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterpillar_AP_Inst'
+[2019.06.20-23.10.38:493][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterpillar_AP_Inst' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.20-23.10.38:493][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_MasterwallBlock1_AP_Inst'
+[2019.06.20-23.10.38:493][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_MasterwallBlock1_AP_Inst' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.20-23.10.38:493][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_MasterwallBlock_AP'
+[2019.06.20-23.10.38:493][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_MasterwallBlock_AP' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.20-23.10.38:493][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwallcube_AP_Inst'
+[2019.06.20-23.10.38:493][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwallcube_AP_Inst' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.20-23.10.38:493][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwallinner_AP_Inst'
+[2019.06.20-23.10.38:493][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwallinner_AP_Inst' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.20-23.10.38:494][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwalltop_AP_Inst'
+[2019.06.20-23.10.38:494][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwalltop_AP_Inst' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.20-23.10.38:494][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/mannpaint1_Mat'
+[2019.06.20-23.10.38:494][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/mannpaint1_Mat' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.20-23.10.38:507][332]LogLinker: Warning: Can't find file '/Game/NickNa/box/defaultPolygonShader'
+[2019.06.20-23.10.38:507][332]LogLinker: Warning: Can't find file for asset '/Game/NickNa/box/defaultPolygonShader' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/NickNa/NickNa/box/Walk.uasset.
+[2019.06.20-23.10.38:507][332]LoadErrors: Error: /Game/NickNa/NickNa/box/Walk : Can't find file for asset. /Game/NickNa/box/defaultPolygonShader
+[2019.06.20-23.10.38:507][332]LogLinker: Warning: Can't find file '/Game/NickNa/box/defaultPolygonShader'
+[2019.06.20-23.10.38:507][332]LogLinker: Warning: Can't find file for asset '/Game/NickNa/box/defaultPolygonShader' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/NickNa/NickNa/box/Walk.uasset.
+[2019.06.20-23.10.38:507][332]LogLinker: Warning: Can't find file '/Game/NickNa/box/Walk_PhysicsAsset'
+[2019.06.20-23.10.38:507][332]LogLinker: Warning: Can't find file for asset '/Game/NickNa/box/Walk_PhysicsAsset' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/NickNa/NickNa/box/Walk.uasset.
+[2019.06.20-23.10.38:507][332]LoadErrors: Error: /Game/NickNa/NickNa/box/Walk : Can't find file for asset. /Game/NickNa/box/Walk_PhysicsAsset
+[2019.06.20-23.10.38:507][332]LogLinker: Warning: Can't find file '/Game/NickNa/box/Walk_Skeleton'
+[2019.06.20-23.10.38:507][332]LogLinker: Warning: Can't find file for asset '/Game/NickNa/box/Walk_Skeleton' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/NickNa/NickNa/box/Walk.uasset.
+[2019.06.20-23.10.38:507][332]LoadErrors: Error: /Game/NickNa/NickNa/box/Walk : Can't find file for asset. /Game/NickNa/box/Walk_Skeleton
+[2019.06.20-23.10.38:508][332]LogLinker: Warning: Can't find file '/Game/NickNa/box/Walk_PhysicsAsset'
+[2019.06.20-23.10.38:508][332]LogLinker: Warning: Can't find file for asset '/Game/NickNa/box/Walk_PhysicsAsset' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/NickNa/NickNa/box/Walk.uasset.
+[2019.06.20-23.10.38:508][332]LogLinker: Warning: Can't find file '/Game/NickNa/box/Walk_Skeleton'
+[2019.06.20-23.10.38:508][332]LogLinker: Warning: Can't find file for asset '/Game/NickNa/box/Walk_Skeleton' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/NickNa/NickNa/box/Walk.uasset.
+[2019.06.20-23.10.38:509][332]LogLinker: Warning: Can't find file '/Game/box/lambert5'
+[2019.06.20-23.10.38:509][332]LogLinker: Warning: Can't find file for asset '/Game/box/lambert5' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/NickNa/NickNa/SM_MERGED_shadowmoseswhiteboxfinal_20.uasset.
+[2019.06.20-23.10.38:509][332]LoadErrors: Error: /Game/NickNa/NickNa/SM_MERGED_shadowmoseswhiteboxfinal_20 : Can't find file for asset. /Game/box/lambert5
+[2019.06.20-23.10.38:509][332]LogLinker: Warning: Can't find file '/Game/box/lambert6'
+[2019.06.20-23.10.38:509][332]LogLinker: Warning: Can't find file for asset '/Game/box/lambert6' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/NickNa/NickNa/SM_MERGED_shadowmoseswhiteboxfinal_20.uasset.
+[2019.06.20-23.10.38:509][332]LoadErrors: Error: /Game/NickNa/NickNa/SM_MERGED_shadowmoseswhiteboxfinal_20 : Can't find file for asset. /Game/box/lambert6
+[2019.06.20-23.10.38:509][332]LogLinker: Warning: Can't find file '/Game/box/lambert5'
+[2019.06.20-23.10.38:509][332]LogLinker: Warning: Can't find file for asset '/Game/box/lambert5' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/NickNa/NickNa/SM_MERGED_shadowmoseswhiteboxfinal_20.uasset.
+[2019.06.20-23.10.38:510][332]LogLinker: Warning: Can't find file '/Game/box/lambert6'
+[2019.06.20-23.10.38:510][332]LogLinker: Warning: Can't find file for asset '/Game/box/lambert6' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/NickNa/NickNa/SM_MERGED_shadowmoseswhiteboxfinal_20.uasset.
+[2019.06.20-23.10.38:628][332]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/MM_wood002'
+[2019.06.20-23.10.38:628][332]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/MM_wood002' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/XavierDavis/Xavier_Davis/SM_MERGED_streetBlocksCWcenter001.uasset.
+[2019.06.20-23.10.38:629][332]LoadErrors: Error: /Game/XavierDavis/Xavier_Davis/SM_MERGED_streetBlocksCWcenter001 : Can't find file for asset. /Game/Xavier_Davis/woodBlocksContent/MM_wood002
+[2019.06.20-23.10.38:629][332]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst'
+[2019.06.20-23.10.38:629][332]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/XavierDavis/Xavier_Davis/SM_MERGED_streetBlocksCWcenter001.uasset.
+[2019.06.20-23.10.38:629][332]LoadErrors: Error: /Game/XavierDavis/Xavier_Davis/SM_MERGED_streetBlocksCWcenter001 : Can't find file for asset. /Game/Xavier_Davis/woodBlocksContent/wood002_Inst
+[2019.06.20-23.10.38:630][332]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst002'
+[2019.06.20-23.10.38:630][332]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst002' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/XavierDavis/Xavier_Davis/SM_MERGED_streetBlocksCWcenter001.uasset.
+[2019.06.20-23.10.38:630][332]LoadErrors: Error: /Game/XavierDavis/Xavier_Davis/SM_MERGED_streetBlocksCWcenter001 : Can't find file for asset. /Game/Xavier_Davis/woodBlocksContent/wood002_Inst002
+[2019.06.20-23.10.38:630][332]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst003'
+[2019.06.20-23.10.38:630][332]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst003' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/XavierDavis/Xavier_Davis/SM_MERGED_streetBlocksCWcenter001.uasset.
+[2019.06.20-23.10.38:630][332]LoadErrors: Error: /Game/XavierDavis/Xavier_Davis/SM_MERGED_streetBlocksCWcenter001 : Can't find file for asset. /Game/Xavier_Davis/woodBlocksContent/wood002_Inst003
+[2019.06.20-23.10.38:630][332]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst004'
+[2019.06.20-23.10.38:630][332]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst004' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/XavierDavis/Xavier_Davis/SM_MERGED_streetBlocksCWcenter001.uasset.
+[2019.06.20-23.10.38:630][332]LoadErrors: Error: /Game/XavierDavis/Xavier_Davis/SM_MERGED_streetBlocksCWcenter001 : Can't find file for asset. /Game/Xavier_Davis/woodBlocksContent/wood002_Inst004
+[2019.06.20-23.10.38:631][332]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/MM_wood002'
+[2019.06.20-23.10.38:631][332]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/MM_wood002' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/XavierDavis/Xavier_Davis/SM_MERGED_streetBlocksCWcenter001.uasset.
+[2019.06.20-23.10.38:631][332]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst'
+[2019.06.20-23.10.38:631][332]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/XavierDavis/Xavier_Davis/SM_MERGED_streetBlocksCWcenter001.uasset.
+[2019.06.20-23.10.38:632][332]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst002'
+[2019.06.20-23.10.38:632][332]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst002' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/XavierDavis/Xavier_Davis/SM_MERGED_streetBlocksCWcenter001.uasset.
+[2019.06.20-23.10.38:632][332]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst003'
+[2019.06.20-23.10.38:632][332]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst003' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/XavierDavis/Xavier_Davis/SM_MERGED_streetBlocksCWcenter001.uasset.
+[2019.06.20-23.10.38:632][332]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst004'
+[2019.06.20-23.10.38:632][332]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst004' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/XavierDavis/Xavier_Davis/SM_MERGED_streetBlocksCWcenter001.uasset.
+[2019.06.20-23.10.38:943][332]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/MM_wood002'
+[2019.06.20-23.10.38:943][332]LoadErrors: Failed to load /Game/Xavier_Davis/woodBlocksContent/MM_wood002.MM_wood002 Referenced by SM_MERGED_streetBlocksCWcenter001
+[2019.06.20-23.10.38:943][332]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/MM_wood002' while loading NULL.
+[2019.06.20-23.10.38:943][332]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/MM_wood002'
+[2019.06.20-23.10.38:943][332]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/MM_wood002' while loading NULL.
+[2019.06.20-23.10.38:943][332]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/MM_wood002'
+[2019.06.20-23.10.38:943][332]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/MM_wood002' while loading NULL.
+[2019.06.20-23.10.38:943][332]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst'
+[2019.06.20-23.10.38:944][332]LoadErrors: Failed to load /Game/Xavier_Davis/woodBlocksContent/wood002_Inst.wood002_Inst Referenced by SM_MERGED_streetBlocksCWcenter001
+[2019.06.20-23.10.38:944][332]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst' while loading NULL.
+[2019.06.20-23.10.38:944][332]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst002'
+[2019.06.20-23.10.38:944][332]LoadErrors: Failed to load /Game/Xavier_Davis/woodBlocksContent/wood002_Inst002.wood002_Inst002 Referenced by SM_MERGED_streetBlocksCWcenter001
+[2019.06.20-23.10.38:944][332]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst002' while loading NULL.
+[2019.06.20-23.10.38:944][332]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst003'
+[2019.06.20-23.10.38:944][332]LoadErrors: Failed to load /Game/Xavier_Davis/woodBlocksContent/wood002_Inst003.wood002_Inst003 Referenced by SM_MERGED_streetBlocksCWcenter001
+[2019.06.20-23.10.38:944][332]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst003' while loading NULL.
+[2019.06.20-23.10.38:944][332]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst004'
+[2019.06.20-23.10.38:944][332]LoadErrors: Failed to load /Game/Xavier_Davis/woodBlocksContent/wood002_Inst004.wood002_Inst004 Referenced by SM_MERGED_streetBlocksCWcenter001
+[2019.06.20-23.10.38:944][332]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst004' while loading NULL.
+[2019.06.20-23.10.38:945][332]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/MM_wood002'
+[2019.06.20-23.10.38:945][332]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/MM_wood002' while loading NULL.
+[2019.06.20-23.10.38:945][332]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst'
+[2019.06.20-23.10.38:945][332]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst' while loading NULL.
+[2019.06.20-23.10.38:945][332]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/MM_wood002'
+[2019.06.20-23.10.38:945][332]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/MM_wood002' while loading NULL.
+[2019.06.20-23.10.38:945][332]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/MM_wood002'
+[2019.06.20-23.10.38:945][332]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/MM_wood002' while loading NULL.
+[2019.06.20-23.10.38:946][332]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/MM_wood002'
+[2019.06.20-23.10.38:946][332]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/MM_wood002' while loading NULL.
+[2019.06.20-23.10.38:946][332]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst'
+[2019.06.20-23.10.38:946][332]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst' while loading NULL.
+[2019.06.20-23.10.38:946][332]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst002'
+[2019.06.20-23.10.38:946][332]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst002' while loading NULL.
+[2019.06.20-23.10.38:946][332]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst003'
+[2019.06.20-23.10.38:946][332]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst003' while loading NULL.
+[2019.06.20-23.10.38:947][332]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst004'
+[2019.06.20-23.10.38:947][332]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst004' while loading NULL.
+[2019.06.20-23.10.38:947][332]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/MM_wood002'
+[2019.06.20-23.10.38:947][332]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/MM_wood002' while loading NULL.
+[2019.06.20-23.10.38:947][332]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst'
+[2019.06.20-23.10.38:947][332]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst' while loading NULL.
+[2019.06.20-23.10.39:016][332]LogLinker: Warning: Can't find file '/Game/box/lambert5'
+[2019.06.20-23.10.39:016][332]LoadErrors: Failed to load /Game/box/lambert5.lambert5 Referenced by SM_MERGED_shadowmoseswhiteboxfinal_20
+[2019.06.20-23.10.39:016][332]LogLinker: Warning: Can't find file for asset '/Game/box/lambert5' while loading NULL.
+[2019.06.20-23.10.39:016][332]LogLinker: Warning: Can't find file '/Game/box/lambert6'
+[2019.06.20-23.10.39:016][332]LoadErrors: Failed to load /Game/box/lambert6.lambert6 Referenced by SM_MERGED_shadowmoseswhiteboxfinal_20
+[2019.06.20-23.10.39:016][332]LogLinker: Warning: Can't find file for asset '/Game/box/lambert6' while loading NULL.
+[2019.06.20-23.10.39:016][332]LogLinker: Warning: Can't find file '/Game/box/lambert5'
+[2019.06.20-23.10.39:017][332]LogLinker: Warning: Can't find file for asset '/Game/box/lambert5' while loading NULL.
+[2019.06.20-23.10.39:017][332]LogLinker: Warning: Can't find file '/Game/box/lambert6'
+[2019.06.20-23.10.39:017][332]LogLinker: Warning: Can't find file for asset '/Game/box/lambert6' while loading NULL.
+[2019.06.20-23.10.39:017][332]LogLinker: Warning: Can't find file '/Game/NickNa/box/Walk_Skeleton'
+[2019.06.20-23.10.39:017][332]LoadErrors: Failed to load /Game/NickNa/box/Walk_Skeleton.Walk_Skeleton Referenced by Walk
+[2019.06.20-23.10.39:017][332]LogLinker: Warning: Can't find file for asset '/Game/NickNa/box/Walk_Skeleton' while loading NULL.
+[2019.06.20-23.10.39:018][332]LogLinker: Warning: Can't find file '/Game/NickNa/box/Walk_PhysicsAsset'
+[2019.06.20-23.10.39:018][332]LoadErrors: Failed to load /Game/NickNa/box/Walk_PhysicsAsset.Walk_PhysicsAsset Referenced by Walk
+[2019.06.20-23.10.39:018][332]LogLinker: Warning: Can't find file for asset '/Game/NickNa/box/Walk_PhysicsAsset' while loading NULL.
+[2019.06.20-23.10.39:018][332]LogLinker: Warning: Can't find file '/Game/NickNa/box/defaultPolygonShader'
+[2019.06.20-23.10.39:018][332]LoadErrors: Failed to load /Game/NickNa/box/defaultPolygonShader.defaultPolygonShader Referenced by Walk
+[2019.06.20-23.10.39:018][332]LogLinker: Warning: Can't find file for asset '/Game/NickNa/box/defaultPolygonShader' while loading NULL.
+[2019.06.20-23.10.39:051][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_MasterwallBlock_AP'
+[2019.06.20-23.10.39:051][332]LoadErrors: Failed to load /Game/woodBlocksContent/M_MasterwallBlock_AP.M_MasterwallBlock_AP Referenced by SM_MERGED_tank_4
+[2019.06.20-23.10.39:051][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_MasterwallBlock_AP' while loading NULL.
+[2019.06.20-23.10.39:051][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_MasterwallBlock1_AP_Inst'
+[2019.06.20-23.10.39:051][332]LoadErrors: Failed to load /Game/woodBlocksContent/M_MasterwallBlock1_AP_Inst.M_MasterwallBlock1_AP_Inst Referenced by SM_MERGED_tank_4
+[2019.06.20-23.10.39:051][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_MasterwallBlock1_AP_Inst' while loading NULL.
+[2019.06.20-23.10.39:051][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwallcube_AP_Inst'
+[2019.06.20-23.10.39:051][332]LoadErrors: Failed to load /Game/woodBlocksContent/M_Masterwallcube_AP_Inst.M_Masterwallcube_AP_Inst Referenced by SM_MERGED_tank_4
+[2019.06.20-23.10.39:051][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwallcube_AP_Inst' while loading NULL.
+[2019.06.20-23.10.39:052][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwallinner_AP_Inst'
+[2019.06.20-23.10.39:052][332]LoadErrors: Failed to load /Game/woodBlocksContent/M_Masterwallinner_AP_Inst.M_Masterwallinner_AP_Inst Referenced by SM_MERGED_tank_4
+[2019.06.20-23.10.39:052][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwallinner_AP_Inst' while loading NULL.
+[2019.06.20-23.10.39:052][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwalltop_AP_Inst'
+[2019.06.20-23.10.39:052][332]LoadErrors: Failed to load /Game/woodBlocksContent/M_Masterwalltop_AP_Inst.M_Masterwalltop_AP_Inst Referenced by SM_MERGED_tank_4
+[2019.06.20-23.10.39:052][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwalltop_AP_Inst' while loading NULL.
+[2019.06.20-23.10.39:052][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterpillar_AP_Inst'
+[2019.06.20-23.10.39:052][332]LoadErrors: Failed to load /Game/woodBlocksContent/M_Masterpillar_AP_Inst.M_Masterpillar_AP_Inst Referenced by SM_MERGED_tank_4
+[2019.06.20-23.10.39:052][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterpillar_AP_Inst' while loading NULL.
+[2019.06.20-23.10.39:053][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/mannpaint1_Mat'
+[2019.06.20-23.10.39:053][332]LoadErrors: Failed to load /Game/woodBlocksContent/mannpaint1_Mat.mannpaint1_Mat Referenced by SM_MERGED_tank_4
+[2019.06.20-23.10.39:053][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/mannpaint1_Mat' while loading NULL.
+[2019.06.20-23.10.39:053][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/hatpaint_1_Mat'
+[2019.06.20-23.10.39:053][332]LoadErrors: Failed to load /Game/woodBlocksContent/hatpaint_1_Mat.hatpaint_1_Mat Referenced by SM_MERGED_tank_4
+[2019.06.20-23.10.39:053][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/hatpaint_1_Mat' while loading NULL.
+[2019.06.20-23.10.39:053][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LightWood2_AP_Inst'
+[2019.06.20-23.10.39:053][332]LoadErrors: Failed to load /Game/woodBlocksContent/M_LightWood2_AP_Inst.M_LightWood2_AP_Inst Referenced by SM_MERGED_tank_4
+[2019.06.20-23.10.39:053][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LightWood2_AP_Inst' while loading NULL.
+[2019.06.20-23.10.39:053][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_MasterwallBlock_AP'
+[2019.06.20-23.10.39:054][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_MasterwallBlock_AP' while loading NULL.
+[2019.06.20-23.10.39:054][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_MasterwallBlock1_AP_Inst'
+[2019.06.20-23.10.39:054][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_MasterwallBlock1_AP_Inst' while loading NULL.
+[2019.06.20-23.10.39:054][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwallcube_AP_Inst'
+[2019.06.20-23.10.39:054][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwallcube_AP_Inst' while loading NULL.
+[2019.06.20-23.10.39:054][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwallinner_AP_Inst'
+[2019.06.20-23.10.39:054][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwallinner_AP_Inst' while loading NULL.
+[2019.06.20-23.10.39:054][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwalltop_AP_Inst'
+[2019.06.20-23.10.39:055][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwalltop_AP_Inst' while loading NULL.
+[2019.06.20-23.10.39:055][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterpillar_AP_Inst'
+[2019.06.20-23.10.39:055][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterpillar_AP_Inst' while loading NULL.
+[2019.06.20-23.10.39:055][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/mannpaint1_Mat'
+[2019.06.20-23.10.39:055][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/mannpaint1_Mat' while loading NULL.
+[2019.06.20-23.10.39:055][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/hatpaint_1_Mat'
+[2019.06.20-23.10.39:055][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/hatpaint_1_Mat' while loading NULL.
+[2019.06.20-23.10.39:055][332]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LightWood2_AP_Inst'
+[2019.06.20-23.10.39:056][332]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LightWood2_AP_Inst' while loading NULL.
+[2019.06.20-23.10.39:261][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/whiteside'
+[2019.06.20-23.10.39:261][332]LoadErrors: Failed to load /Game/BryansFinalLevel/whiteside.whiteside Referenced by pontoon
+[2019.06.20-23.10.39:261][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/whiteside' while loading NULL.
+[2019.06.20-23.10.39:261][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/blackside'
+[2019.06.20-23.10.39:261][332]LoadErrors: Failed to load /Game/BryansFinalLevel/blackside.blackside Referenced by pontoon
+[2019.06.20-23.10.39:261][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/blackside' while loading NULL.
+[2019.06.20-23.10.39:262][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/lambert1'
+[2019.06.20-23.10.39:262][332]LoadErrors: Failed to load /Game/BryansFinalLevel/lambert1.lambert1 Referenced by pontoon
+[2019.06.20-23.10.39:262][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/lambert1' while loading NULL.
+[2019.06.20-23.10.39:262][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Whitetop'
+[2019.06.20-23.10.39:262][332]LoadErrors: Failed to load /Game/BryansFinalLevel/Whitetop.Whitetop Referenced by pontoon
+[2019.06.20-23.10.39:262][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Whitetop' while loading NULL.
+[2019.06.20-23.10.39:262][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Blacktop'
+[2019.06.20-23.10.39:262][332]LoadErrors: Failed to load /Game/BryansFinalLevel/Blacktop.Blacktop Referenced by pontoon
+[2019.06.20-23.10.39:262][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Blacktop' while loading NULL.
+[2019.06.20-23.10.39:263][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/whiteside'
+[2019.06.20-23.10.39:263][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/whiteside' while loading NULL.
+[2019.06.20-23.10.39:263][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/blackside'
+[2019.06.20-23.10.39:263][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/blackside' while loading NULL.
+[2019.06.20-23.10.39:263][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/lambert1'
+[2019.06.20-23.10.39:263][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/lambert1' while loading NULL.
+[2019.06.20-23.10.39:263][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Whitetop'
+[2019.06.20-23.10.39:264][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Whitetop' while loading NULL.
+[2019.06.20-23.10.39:264][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Blacktop'
+[2019.06.20-23.10.39:264][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Blacktop' while loading NULL.
+[2019.06.20-23.10.39:264][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/lgihttop'
+[2019.06.20-23.10.39:265][332]LoadErrors: Failed to load /Game/BryansFinalLevel/lgihttop.lgihttop Referenced by speedboatdone
+[2019.06.20-23.10.39:265][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/lgihttop' while loading NULL.
+[2019.06.20-23.10.39:265][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Lightside'
+[2019.06.20-23.10.39:265][332]LoadErrors: Failed to load /Game/BryansFinalLevel/Lightside.Lightside Referenced by speedboatdone
+[2019.06.20-23.10.39:265][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Lightside' while loading NULL.
+[2019.06.20-23.10.39:265][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/darktop'
+[2019.06.20-23.10.39:265][332]LoadErrors: Failed to load /Game/BryansFinalLevel/darktop.darktop Referenced by speedboatdone
+[2019.06.20-23.10.39:265][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/darktop' while loading NULL.
+[2019.06.20-23.10.39:265][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/darkside'
+[2019.06.20-23.10.39:265][332]LoadErrors: Failed to load /Game/BryansFinalLevel/darkside.darkside Referenced by speedboatdone
+[2019.06.20-23.10.39:266][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/darkside' while loading NULL.
+[2019.06.20-23.10.39:266][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/lgihttop'
+[2019.06.20-23.10.39:266][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/lgihttop' while loading NULL.
+[2019.06.20-23.10.39:266][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Lightside'
+[2019.06.20-23.10.39:266][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Lightside' while loading NULL.
+[2019.06.20-23.10.39:266][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/darktop'
+[2019.06.20-23.10.39:266][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/darktop' while loading NULL.
+[2019.06.20-23.10.39:267][332]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/darkside'
+[2019.06.20-23.10.39:267][332]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/darkside' while loading NULL.
+[2019.06.20-23.10.39:270][332]LogLinker: Warning: Can't find file '/Game/OtherBlocks/defaultMat'
+[2019.06.20-23.10.39:270][332]LoadErrors: Failed to load /Game/OtherBlocks/defaultMat.defaultMat Referenced by CrowsNestBlock1
+[2019.06.20-23.10.39:270][332]LogLinker: Warning: Can't find file for asset '/Game/OtherBlocks/defaultMat' while loading NULL.
+[2019.06.20-23.10.39:270][332]LogLinker: Warning: Can't find file '/Game/OtherBlocks/defaultMat'
+[2019.06.20-23.10.39:271][332]LogLinker: Warning: Can't find file for asset '/Game/OtherBlocks/defaultMat' while loading NULL.
+[2019.06.20-23.10.39:351][332]LogLinker: Warning: Can't find file '/Game/Ben/lambert1'
+[2019.06.20-23.10.39:351][332]LoadErrors: Failed to load /Game/Ben/lambert1.lambert1 Referenced by Manequin_with_animation
+[2019.06.20-23.10.39:351][332]LogLinker: Warning: Can't find file for asset '/Game/Ben/lambert1' while loading NULL.
+[2019.06.20-23.10.39:351][332]LogLinker: Warning: Can't find file '/Game/Ben/M_wood'
+[2019.06.20-23.10.39:352][332]LoadErrors: Failed to load /Game/Ben/M_wood.M_wood Referenced by Manequin_with_animation
+[2019.06.20-23.10.39:352][332]LogLinker: Warning: Can't find file for asset '/Game/Ben/M_wood' while loading NULL.
+[2019.06.20-23.10.41:155][332]LogAIModule: Creating AISystem for world StreetSceneLarge
+[2019.06.20-23.10.41:224][332]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
+[2019.06.20-23.10.41:269][332]Cmd: MAP LOAD FILE="../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.20-23.10.41:269][332]LightingResults: New page: Lighting Build
+[2019.06.20-23.10.41:269][332]LoadErrors: New page: Loading map: StreetSceneLarge.umap
+[2019.06.20-23.10.41:270][332]MapCheck: New page: Map Check
+[2019.06.20-23.10.41:270][332]LightingResults: New page: Lighting Build
+[2019.06.20-23.10.41:387][332]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.20-23.10.41:455][332]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.20-23.10.41:455][332]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.466ms to complete.
+[2019.06.20-23.10.41:455][332]LogFileHelpers: Loading map 'StreetSceneLarge' took 0.187
+[2019.06.20-23.11.15:798][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.11.23:066][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.11.28:013][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.11.34:050][695]LogHttp: Warning: 000002B3E229CA40: request failed, libcurl error: 35 (SSL connect error)
+[2019.06.20-23.11.34:050][695]LogHttp: Warning: 000002B3E229CA40: libcurl info message cache 0 (  Trying 107.21.51.40...)
+[2019.06.20-23.11.34:050][695]LogHttp: Warning: 000002B3E229CA40: libcurl info message cache 1 (TCP_NODELAY set)
+[2019.06.20-23.11.34:050][695]LogHttp: Warning: 000002B3E229CA40: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (107.21.51.40) port 443 (#0))
+[2019.06.20-23.11.34:050][695]LogHttp: Warning: 000002B3E229CA40: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2019.06.20-23.11.34:050][695]LogHttp: Warning: 000002B3E229CA40: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.06.20-23.11.34:050][695]LogHttp: Warning: 000002B3E229CA40: libcurl info message cache 5 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2019.06.20-23.11.34:051][695]LogHttp: Warning: 000002B3E229CA40: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2019.06.20-23.11.34:051][695]LogHttp: Warning: 000002B3E229CA40: libcurl info message cache 7 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.06.20-23.11.34:051][695]LogHttp: Warning: 000002B3E229CA40: libcurl info message cache 8 (Closing connection 0)
+[2019.06.20-23.11.34:067][696]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB6EC79D3-4167-5611-1D1F-7B95A7573148%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=2f086403475df2ec7b2756a0d1f21e2f%7Cacb3fb157f884c1c9ad3d2f6cb952a77%7C43bdc317-89a1-4ad4-aa7a-120458e236ff&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.06.20-23.11.35:563][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.11.39:921][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.11.43:082][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.11.50:695][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.11.58:382][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.12.09:724][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.12.47:111][162]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.20-23.13.19:237][535]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_PlayerStart)
+[2019.06.20-23.13.34:484][926]LogHttp: Warning: 000002B3F2ACFEC0: request failed, libcurl error: 35 (SSL connect error)
+[2019.06.20-23.13.34:484][926]LogHttp: Warning: 000002B3F2ACFEC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.06.20-23.13.34:484][926]LogHttp: Warning: 000002B3F2ACFEC0: libcurl info message cache 1 (  Trying 54.175.157.122...)
+[2019.06.20-23.13.34:484][926]LogHttp: Warning: 000002B3F2ACFEC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.06.20-23.13.34:484][926]LogHttp: Warning: 000002B3F2ACFEC0: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (54.175.157.122) port 443 (#1))
+[2019.06.20-23.13.34:484][926]LogHttp: Warning: 000002B3F2ACFEC0: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.06.20-23.13.34:484][926]LogHttp: Warning: 000002B3F2ACFEC0: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.06.20-23.13.34:484][926]LogHttp: Warning: 000002B3F2ACFEC0: libcurl info message cache 6 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2019.06.20-23.13.34:484][926]LogHttp: Warning: 000002B3F2ACFEC0: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2019.06.20-23.13.34:484][926]LogHttp: Warning: 000002B3F2ACFEC0: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.06.20-23.13.34:484][926]LogHttp: Warning: 000002B3F2ACFEC0: libcurl info message cache 9 (Closing connection 1)
+[2019.06.20-23.13.34:484][926]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB6EC79D3-4167-5611-1D1F-7B95A7573148%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=2f086403475df2ec7b2756a0d1f21e2f%7Cacb3fb157f884c1c9ad3d2f6cb952a77%7C43bdc317-89a1-4ad4-aa7a-120458e236ff&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.06.20-23.15.35:366][287]LogHttp: Warning: 000002B3F2ACFEC0: request failed, libcurl error: 35 (SSL connect error)
+[2019.06.20-23.15.35:366][287]LogHttp: Warning: 000002B3F2ACFEC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.06.20-23.15.35:366][287]LogHttp: Warning: 000002B3F2ACFEC0: libcurl info message cache 1 (  Trying 54.84.45.42...)
+[2019.06.20-23.15.35:366][287]LogHttp: Warning: 000002B3F2ACFEC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.06.20-23.15.35:366][287]LogHttp: Warning: 000002B3F2ACFEC0: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (54.84.45.42) port 443 (#2))
+[2019.06.20-23.15.35:366][287]LogHttp: Warning: 000002B3F2ACFEC0: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.06.20-23.15.35:366][287]LogHttp: Warning: 000002B3F2ACFEC0: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.06.20-23.15.35:366][287]LogHttp: Warning: 000002B3F2ACFEC0: libcurl info message cache 6 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2019.06.20-23.15.35:366][287]LogHttp: Warning: 000002B3F2ACFEC0: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2019.06.20-23.15.35:366][287]LogHttp: Warning: 000002B3F2ACFEC0: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.06.20-23.15.35:366][287]LogHttp: Warning: 000002B3F2ACFEC0: libcurl info message cache 9 (Closing connection 2)
+[2019.06.20-23.15.35:699][288]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB6EC79D3-4167-5611-1D1F-7B95A7573148%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=2f086403475df2ec7b2756a0d1f21e2f%7Cacb3fb157f884c1c9ad3d2f6cb952a77%7C43bdc317-89a1-4ad4-aa7a-120458e236ff&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.06.20-23.17.10:969][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.17.36:331][514]LogHttp: Warning: 000002B3F2ACC7C0: request failed, libcurl error: 35 (SSL connect error)
+[2019.06.20-23.17.36:331][514]LogHttp: Warning: 000002B3F2ACC7C0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.06.20-23.17.36:331][514]LogHttp: Warning: 000002B3F2ACC7C0: libcurl info message cache 1 (  Trying 52.45.162.244...)
+[2019.06.20-23.17.36:331][514]LogHttp: Warning: 000002B3F2ACC7C0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.06.20-23.17.36:331][514]LogHttp: Warning: 000002B3F2ACC7C0: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.45.162.244) port 443 (#3))
+[2019.06.20-23.17.36:331][514]LogHttp: Warning: 000002B3F2ACC7C0: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.06.20-23.17.36:331][514]LogHttp: Warning: 000002B3F2ACC7C0: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.06.20-23.17.36:331][514]LogHttp: Warning: 000002B3F2ACC7C0: libcurl info message cache 6 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2019.06.20-23.17.36:331][514]LogHttp: Warning: 000002B3F2ACC7C0: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2019.06.20-23.17.36:331][514]LogHttp: Warning: 000002B3F2ACC7C0: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.06.20-23.17.36:331][514]LogHttp: Warning: 000002B3F2ACC7C0: libcurl info message cache 9 (Closing connection 3)
+[2019.06.20-23.17.36:331][514]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB6EC79D3-4167-5611-1D1F-7B95A7573148%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=2f086403475df2ec7b2756a0d1f21e2f%7Cacb3fb157f884c1c9ad3d2f6cb952a77%7C43bdc317-89a1-4ad4-aa7a-120458e236ff&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.06.20-23.19.28:616][517]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.06.20-23.19.28:871][517]LogTexture: Display: Building textures: Aztec_Bird (AutoDXT, 2048X2048)
+[2019.06.20-23.19.28:871][517]LogTexture: Display: Building textures: Aztec_Face (AutoDXT, 2048X2048)
+[2019.06.20-23.19.28:871][517]LogLinker: Warning: Can't find file '/Game/Ben/Jeep_Photoshop_Color_2'
+[2019.06.20-23.19.28:871][517]LogLinker: Warning: Can't find file for asset '/Game/Ben/Jeep_Photoshop_Color_2' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Ben/Ben_Inst1_2.uasset.
+[2019.06.20-23.19.28:871][517]LoadErrors: Error: /Game/Ben/Ben/Ben_Inst1_2 : Can't find file for asset. /Game/Ben/Jeep_Photoshop_Color_2
+[2019.06.20-23.19.28:872][517]LogLinker: Warning: Can't find file '/Game/Ben/Jeep_Photoshop_Color_2'
+[2019.06.20-23.19.28:872][517]LogLinker: Warning: Can't find file for asset '/Game/Ben/Jeep_Photoshop_Color_2' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Ben/Ben_Inst1_2.uasset.
+[2019.06.20-23.19.28:872][517]LogLinker: Warning: Can't find file '/Game/Ben/Jeep_Photoshop_Color_2'
+[2019.06.20-23.19.28:872][517]LoadErrors: Failed to load /Game/Ben/Jeep_Photoshop_Color_2.Jeep_Photoshop_Color_2 Referenced by Ben_Inst1_2
+[2019.06.20-23.19.28:872][517]LogLinker: Warning: Can't find file for asset '/Game/Ben/Jeep_Photoshop_Color_2' while loading NULL.
+[2019.06.20-23.19.32:665][517]LogTexture: Display: Building textures: C_Arch_Stones (AutoDXT, 2048X2048)
+[2019.06.20-23.19.32:665][517]LogTexture: Display: Building textures: Graphics001 (AutoDXT, 2048X2048)
+[2019.06.20-23.19.32:665][517]LogTexture: Display: Building textures: Half_Cylinder_Snakes (AutoDXT, 2048X2048)
+[2019.06.20-23.19.32:665][517]LogTexture: Display: Building textures: High_Arch_Pattern (AutoDXT, 2048X2048)
+[2019.06.20-23.19.32:665][517]LogTexture: Display: Building textures: High_Arch_Pattern_2 (AutoDXT, 2048X2048)
+[2019.06.20-23.19.32:665][517]LogLinker: Warning: Can't find file '/Game/Ben/High_Arch_Pattern_2'
+[2019.06.20-23.19.32:665][517]LogLinker: Warning: Can't find file for asset '/Game/Ben/High_Arch_Pattern_2' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Ben/High_Arch_Pattern_2_Mat.uasset.
+[2019.06.20-23.19.32:665][517]LoadErrors: Error: /Game/Ben/Ben/High_Arch_Pattern_2_Mat : Can't find file for asset. /Game/Ben/High_Arch_Pattern_2
+[2019.06.20-23.19.32:666][517]LogLinker: Warning: Can't find file '/Game/Ben/High_Arch_Pattern_2'
+[2019.06.20-23.19.32:666][517]LogLinker: Warning: Can't find file for asset '/Game/Ben/High_Arch_Pattern_2' while loading ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Ben/High_Arch_Pattern_2_Mat.uasset.
+[2019.06.20-23.19.32:666][517]LogLinker: Warning: Can't find file '/Game/Ben/High_Arch_Pattern_2'
+[2019.06.20-23.19.32:667][517]LoadErrors: Failed to load /Game/Ben/High_Arch_Pattern_2.High_Arch_Pattern_2 Referenced by MaterialExpressionTextureSample_0
+[2019.06.20-23.19.32:667][517]LogLinker: Warning: Can't find file for asset '/Game/Ben/High_Arch_Pattern_2' while loading NULL.
+[2019.06.20-23.19.32:670][517]LogMaterial: Display: Missing cached shader map for material High_Arch_Pattern_2_Mat, compiling. 
+[2019.06.20-23.19.32:671][517]LogMaterial: Warning: D:\School\Asset Pipeline\SummerAssetPipe\BaseBlock\BaseCityBlock\Content\Ben\Ben\High_Arch_Pattern_2_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.06.20-23.19.32:671][517]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.06.20-23.19.33:494][517]LogTexture: Display: Building textures: High_Arch_Practice_Image_3 (AutoDXT, 2048X2048)
+[2019.06.20-23.19.33:494][517]LogTexture: Display: Building textures: Jeep_Photoshop_Color (AutoDXT, 2048X2048)
+[2019.06.20-23.19.33:494][517]LogTexture: Display: Building textures: Wood002Normal (BC5, 2048X2048)
+[2019.06.20-23.19.51:118][517]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.20-23.19.51:648][542]LogHttp: Warning: 000002B461B8B9C0: request failed, libcurl error: 35 (SSL connect error)
+[2019.06.20-23.19.51:648][542]LogHttp: Warning: 000002B461B8B9C0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.06.20-23.19.51:648][542]LogHttp: Warning: 000002B461B8B9C0: libcurl info message cache 1 (  Trying 34.230.183.16...)
+[2019.06.20-23.19.51:648][542]LogHttp: Warning: 000002B461B8B9C0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.06.20-23.19.51:648][542]LogHttp: Warning: 000002B461B8B9C0: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.230.183.16) port 443 (#4))
+[2019.06.20-23.19.51:648][542]LogHttp: Warning: 000002B461B8B9C0: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.06.20-23.19.51:648][542]LogHttp: Warning: 000002B461B8B9C0: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.06.20-23.19.51:648][542]LogHttp: Warning: 000002B461B8B9C0: libcurl info message cache 6 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2019.06.20-23.19.51:648][542]LogHttp: Warning: 000002B461B8B9C0: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2019.06.20-23.19.51:648][542]LogHttp: Warning: 000002B461B8B9C0: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2019.06.20-23.19.51:648][542]LogHttp: Warning: 000002B461B8B9C0: libcurl info message cache 9 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2019.06.20-23.19.51:648][542]LogHttp: Warning: 000002B461B8B9C0: libcurl info message cache 10 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2019.06.20-23.19.51:648][542]LogHttp: Warning: 000002B461B8B9C0: libcurl info message cache 11 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2019.06.20-23.19.51:648][542]LogHttp: Warning: 000002B461B8B9C0: libcurl info message cache 12 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2019.06.20-23.19.51:648][542]LogHttp: Warning: 000002B461B8B9C0: libcurl info message cache 13 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
+[2019.06.20-23.19.51:648][542]LogHttp: Warning: 000002B461B8B9C0: libcurl info message cache 14 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2019.06.20-23.19.51:648][542]LogHttp: Warning: 000002B461B8B9C0: libcurl info message cache 15 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.06.20-23.19.51:648][542]LogHttp: Warning: 000002B461B8B9C0: libcurl info message cache 16 (Closing connection 4)
+[2019.06.20-23.19.51:648][542]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB6EC79D3-4167-5611-1D1F-7B95A7573148%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=2f086403475df2ec7b2756a0d1f21e2f%7Cacb3fb157f884c1c9ad3d2f6cb952a77%7C43bdc317-89a1-4ad4-aa7a-120458e236ff&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.06.20-23.20.30:475][621]LogLinker: Warning: Asset '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_DarkWood_AP_Inst.uasset' has been saved with engine version newer than current and therefore can't be loaded. CurrEngineVersion: 4.21.2-4753647+++UE4+Release-4.21 AssetEngineVersion: 4.22.0-5660361+++UE4+Release-4.22
+[2019.06.20-23.20.30:480][621]LogLinker: Warning: Asset '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_DarkWood_AP_Inst.uasset' has been saved with engine version newer than current and therefore can't be loaded. CurrEngineVersion: 4.21.2-4753647+++UE4+Release-4.21 AssetEngineVersion: 4.22.0-5660361+++UE4+Release-4.22
+[2019.06.20-23.20.30:487][621]LogLinker: Warning: Asset '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_LightWood_AP_Inst.uasset' has been saved with engine version newer than current and therefore can't be loaded. CurrEngineVersion: 4.21.2-4753647+++UE4+Release-4.21 AssetEngineVersion: 4.22.0-5660361+++UE4+Release-4.22
+[2019.06.20-23.20.30:493][621]LogLinker: Warning: Asset '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_LightWood_AP_Inst.uasset' has been saved with engine version newer than current and therefore can't be loaded. CurrEngineVersion: 4.21.2-4753647+++UE4+Release-4.21 AssetEngineVersion: 4.22.0-5660361+++UE4+Release-4.22
+[2019.06.20-23.20.30:497][621]LogLinker: Warning: Asset '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_MasterWoodBlock_AP.uasset' has been saved with engine version newer than current and therefore can't be loaded. CurrEngineVersion: 4.21.2-4753647+++UE4+Release-4.21 AssetEngineVersion: 4.22.0-5660361+++UE4+Release-4.22
+[2019.06.20-23.20.30:502][621]LogLinker: Warning: Asset '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_MasterWoodBlock_AP.uasset' has been saved with engine version newer than current and therefore can't be loaded. CurrEngineVersion: 4.21.2-4753647+++UE4+Release-4.21 AssetEngineVersion: 4.22.0-5660361+++UE4+Release-4.22
+[2019.06.20-23.20.30:507][621]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock_AP, compiling. 
+[2019.06.20-23.20.30:581][621]LogLinker: Warning: Asset '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_MedWood1_AP_Inst.uasset' has been saved with engine version newer than current and therefore can't be loaded. CurrEngineVersion: 4.21.2-4753647+++UE4+Release-4.21 AssetEngineVersion: 4.22.0-5660361+++UE4+Release-4.22
+[2019.06.20-23.20.30:585][621]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.06.20-23.20.30:585][621]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.06.20-23.20.30:585][621]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.06.20-23.20.30:585][621]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.06.20-23.20.30:585][621]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.06.20-23.20.30:585][621]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.20-23.20.30:585][621]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.20-23.20.30:586][621]LogLinker: Warning: Asset '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_MedWood1_AP_Inst.uasset' has been saved with engine version newer than current and therefore can't be loaded. CurrEngineVersion: 4.21.2-4753647+++UE4+Release-4.21 AssetEngineVersion: 4.22.0-5660361+++UE4+Release-4.22
+[2019.06.20-23.20.30:591][621]LogLinker: Warning: Asset '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_MedWood2_AP_Inst.uasset' has been saved with engine version newer than current and therefore can't be loaded. CurrEngineVersion: 4.21.2-4753647+++UE4+Release-4.21 AssetEngineVersion: 4.22.0-5660361+++UE4+Release-4.22
+[2019.06.20-23.20.30:596][621]LogLinker: Warning: Asset '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_MedWood2_AP_Inst.uasset' has been saved with engine version newer than current and therefore can't be loaded. CurrEngineVersion: 4.21.2-4753647+++UE4+Release-4.21 AssetEngineVersion: 4.22.0-5660361+++UE4+Release-4.22
+[2019.06.20-23.20.30:603][621]LogLinker: Warning: Asset '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_SidewalkBlock_AP_Inst.uasset' has been saved with engine version newer than current and therefore can't be loaded. CurrEngineVersion: 4.21.2-4753647+++UE4+Release-4.21 AssetEngineVersion: 4.22.0-5660361+++UE4+Release-4.22
+[2019.06.20-23.20.30:608][621]LogLinker: Warning: Asset '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_SidewalkBlock_AP_Inst.uasset' has been saved with engine version newer than current and therefore can't be loaded. CurrEngineVersion: 4.21.2-4753647+++UE4+Release-4.21 AssetEngineVersion: 4.22.0-5660361+++UE4+Release-4.22
+[2019.06.20-23.20.30:614][621]LogLinker: Warning: Asset '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_StreetBlock_AP_Inst.uasset' has been saved with engine version newer than current and therefore can't be loaded. CurrEngineVersion: 4.21.2-4753647+++UE4+Release-4.21 AssetEngineVersion: 4.22.0-5660361+++UE4+Release-4.22
+[2019.06.20-23.20.30:619][621]LogLinker: Warning: Asset '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_StreetBlock_AP_Inst.uasset' has been saved with engine version newer than current and therefore can't be loaded. CurrEngineVersion: 4.21.2-4753647+++UE4+Release-4.21 AssetEngineVersion: 4.22.0-5660361+++UE4+Release-4.22
+[2019.06.20-23.20.30:624][621]LogLinker: Warning: Asset '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_StreetBlockStipes_AP_Inst1.uasset' has been saved with engine version newer than current and therefore can't be loaded. CurrEngineVersion: 4.21.2-4753647+++UE4+Release-4.21 AssetEngineVersion: 4.22.0-5660361+++UE4+Release-4.22
+[2019.06.20-23.20.30:629][621]LogLinker: Warning: Asset '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_StreetBlockStipes_AP_Inst1.uasset' has been saved with engine version newer than current and therefore can't be loaded. CurrEngineVersion: 4.21.2-4753647+++UE4+Release-4.21 AssetEngineVersion: 4.22.0-5660361+++UE4+Release-4.22
+[2019.06.20-23.20.32:339][621]LogSlate: Window 'Message' being destroyed
+[2019.06.20-23.20.32:581][634]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (41.451 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.06.20-23.21.12:627][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.21.28:596][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.22.14:807][153]LogSavePackage: Moving '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/StreetSceneLarge_Auto19C56AAE240676A71DADE1D9AC9893AB9.tmp' to '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Autosaves/Game/StreetSceneLarge_Auto1.umap'
+[2019.06.20-23.22.14:814][153]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StreetSceneLarge' took 3.872
+[2019.06.20-23.22.14:814][153]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.872
+[2019.06.20-23.22.14:823][153]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Ben/Texture_Materials/Textures/M_WoodBlock004_AP_Inst] ([1] browsable assets)...
+[2019.06.20-23.22.14:835][153]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Ben/Texture_Materials/Textures/M_WoodBlock004_AP_Inst.M_WoodBlock004_AP_Inst]
+[2019.06.20-23.22.14:835][153]OBJ SavePackage: Finished generating thumbnails for package [/Game/Ben/Texture_Materials/Textures/M_WoodBlock004_AP_Inst]
+[2019.06.20-23.22.14:849][153]LogSavePackage: Moving '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/M_WoodBlock004_AP_Inst_Auto14078898148FF832AF68FEFA731B563E5.tmp' to '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Autosaves/Game/Ben/Texture_Materials/Textures/M_WoodBlock004_AP_Inst_Auto1.uasset'
+[2019.06.20-23.22.14:851][153]LogFileHelpers: Auto-saving content packages took 0.029
+[2019.06.20-23.22.22:125][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.22.33:079][618]LogHttp: Warning: 000002B47763EFC0: request failed, libcurl error: 35 (SSL connect error)
+[2019.06.20-23.22.33:079][618]LogHttp: Warning: 000002B47763EFC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.06.20-23.22.33:079][618]LogHttp: Warning: 000002B47763EFC0: libcurl info message cache 1 (  Trying 34.192.137.161...)
+[2019.06.20-23.22.33:079][618]LogHttp: Warning: 000002B47763EFC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.06.20-23.22.33:079][618]LogHttp: Warning: 000002B47763EFC0: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.192.137.161) port 443 (#5))
+[2019.06.20-23.22.33:079][618]LogHttp: Warning: 000002B47763EFC0: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.06.20-23.22.33:079][618]LogHttp: Warning: 000002B47763EFC0: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.06.20-23.22.33:079][618]LogHttp: Warning: 000002B47763EFC0: libcurl info message cache 6 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2019.06.20-23.22.33:079][618]LogHttp: Warning: 000002B47763EFC0: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2019.06.20-23.22.33:079][618]LogHttp: Warning: 000002B47763EFC0: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.06.20-23.22.33:079][618]LogHttp: Warning: 000002B47763EFC0: libcurl info message cache 9 (Closing connection 5)
+[2019.06.20-23.22.33:079][618]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB6EC79D3-4167-5611-1D1F-7B95A7573148%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=2f086403475df2ec7b2756a0d1f21e2f%7Cacb3fb157f884c1c9ad3d2f6cb952a77%7C43bdc317-89a1-4ad4-aa7a-120458e236ff&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.06.20-23.23.53:847][198]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.24.33:463][721]LogHttp: Warning: 000002B47763DF80: request failed, libcurl error: 35 (SSL connect error)
+[2019.06.20-23.24.33:463][721]LogHttp: Warning: 000002B47763DF80: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.06.20-23.24.33:463][721]LogHttp: Warning: 000002B47763DF80: libcurl info message cache 1 (  Trying 3.94.140.213...)
+[2019.06.20-23.24.33:463][721]LogHttp: Warning: 000002B47763DF80: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.06.20-23.24.33:463][721]LogHttp: Warning: 000002B47763DF80: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (3.94.140.213) port 443 (#6))
+[2019.06.20-23.24.33:463][721]LogHttp: Warning: 000002B47763DF80: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.06.20-23.24.33:464][721]LogHttp: Warning: 000002B47763DF80: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.06.20-23.24.33:464][721]LogHttp: Warning: 000002B47763DF80: libcurl info message cache 6 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2019.06.20-23.24.33:464][721]LogHttp: Warning: 000002B47763DF80: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2019.06.20-23.24.33:464][721]LogHttp: Warning: 000002B47763DF80: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.06.20-23.24.33:464][721]LogHttp: Warning: 000002B47763DF80: libcurl info message cache 9 (Closing connection 6)
+[2019.06.20-23.24.33:796][722]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB6EC79D3-4167-5611-1D1F-7B95A7573148%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=2f086403475df2ec7b2756a0d1f21e2f%7Cacb3fb157f884c1c9ad3d2f6cb952a77%7C43bdc317-89a1-4ad4-aa7a-120458e236ff&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.06.20-23.24.44:980][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.24.59:526][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.24.59:656][352]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Ben/Texture_Materials/Textures/M_MedWood2_AP_Inst.M_MedWood2_AP_Inst
+[2019.06.20-23.25.01:850][433]LogRenderer: Reallocating scene render targets to support 1208x904 Format 10 NumSamples 1 (Frame:4).
+[2019.06.20-23.25.17:934][671]LogSlate: Window 'Color Picker' being destroyed
+[2019.06.20-23.25.17:938][671]LogSlate: Window 'M_MedWood2_AP_Inst*' being destroyed
+[2019.06.20-23.25.17:940][671]LogSlate: Window 'M_MedWood2_AP_Inst*' being destroyed
+[2019.06.20-23.26.18:644][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.26.21:872][ 93]Cmd: TRANSACTION UNDO
+[2019.06.20-23.26.21:872][ 93]LogEditorTransaction: Undo Create Actors
+[2019.06.20-23.26.23:069][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.26.24:763][252]Cmd: TRANSACTION UNDO
+[2019.06.20-23.26.24:763][252]LogEditorTransaction: Undo Create Actors
+[2019.06.20-23.26.28:952][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.26.31:006][608]Cmd: TRANSACTION UNDO
+[2019.06.20-23.26.31:006][608]LogEditorTransaction: Undo Create Actors
+[2019.06.20-23.26.31:878][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.26.33:682][757]Cmd: TRANSACTION UNDO
+[2019.06.20-23.26.33:682][757]LogEditorTransaction: Undo Create Actors
+[2019.06.20-23.26.34:182][782]LogHttp: Warning: 000002B477F39BC0: request failed, libcurl error: 35 (SSL connect error)
+[2019.06.20-23.26.34:182][782]LogHttp: Warning: 000002B477F39BC0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.06.20-23.26.34:182][782]LogHttp: Warning: 000002B477F39BC0: libcurl info message cache 1 (  Trying 52.73.244.215...)
+[2019.06.20-23.26.34:182][782]LogHttp: Warning: 000002B477F39BC0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.06.20-23.26.34:182][782]LogHttp: Warning: 000002B477F39BC0: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.73.244.215) port 443 (#7))
+[2019.06.20-23.26.34:182][782]LogHttp: Warning: 000002B477F39BC0: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.06.20-23.26.34:182][782]LogHttp: Warning: 000002B477F39BC0: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.06.20-23.26.34:182][782]LogHttp: Warning: 000002B477F39BC0: libcurl info message cache 6 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2019.06.20-23.26.34:182][782]LogHttp: Warning: 000002B477F39BC0: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2019.06.20-23.26.34:182][782]LogHttp: Warning: 000002B477F39BC0: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.06.20-23.26.34:182][782]LogHttp: Warning: 000002B477F39BC0: libcurl info message cache 9 (Closing connection 7)
+[2019.06.20-23.26.34:182][782]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB6EC79D3-4167-5611-1D1F-7B95A7573148%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=2f086403475df2ec7b2756a0d1f21e2f%7Cacb3fb157f884c1c9ad3d2f6cb952a77%7C43bdc317-89a1-4ad4-aa7a-120458e236ff&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.06.20-23.26.34:568][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.26.36:233][899]Cmd: TRANSACTION UNDO
+[2019.06.20-23.26.36:233][899]LogEditorTransaction: Undo Create Actors
+[2019.06.20-23.26.43:941][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.26.46:732][502]Cmd: TRANSACTION UNDO
+[2019.06.20-23.26.46:732][502]LogEditorTransaction: Undo Create Actors
+[2019.06.20-23.26.55:190][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.27.02:123][405]Cmd: TRANSACTION UNDO
+[2019.06.20-23.27.02:123][405]LogEditorTransaction: Undo Create Actors
+[2019.06.20-23.27.05:727][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.27.08:516][777]Cmd: TRANSACTION UNDO
+[2019.06.20-23.27.08:516][777]LogEditorTransaction: Undo Create Actors
+[2019.06.20-23.27.10:895][911]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.27.13:962][ 88]Cmd: TRANSACTION UNDO
+[2019.06.20-23.27.13:962][ 88]LogEditorTransaction: Undo Create Actors
+[2019.06.20-23.27.16:844][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.27.18:647][351]Cmd: TRANSACTION UNDO
+[2019.06.20-23.27.18:647][351]LogEditorTransaction: Undo Create Actors
+[2019.06.20-23.27.20:682][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.27.23:091][601]Cmd: TRANSACTION UNDO
+[2019.06.20-23.27.23:091][601]LogEditorTransaction: Undo Create Actors
+[2019.06.20-23.27.23:688][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.27.25:239][719]Cmd: TRANSACTION UNDO
+[2019.06.20-23.27.25:239][719]LogEditorTransaction: Undo Create Actors
+[2019.06.20-23.27.25:911][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.27.27:999][876]Cmd: TRANSACTION UNDO
+[2019.06.20-23.27.27:999][876]LogEditorTransaction: Undo Create Actors
+[2019.06.20-23.27.28:554][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.27.29:874][977]Cmd: TRANSACTION UNDO
+[2019.06.20-23.27.29:874][977]LogEditorTransaction: Undo Create Actors
+[2019.06.20-23.27.30:811][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.27.33:271][169]Cmd: TRANSACTION UNDO
+[2019.06.20-23.27.33:271][169]LogEditorTransaction: Undo Create Actors
+[2019.06.20-23.27.35:050][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.27.36:496][349]Cmd: TRANSACTION UNDO
+[2019.06.20-23.27.36:496][349]LogEditorTransaction: Undo Create Actors
+[2019.06.20-23.27.39:402][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.27.40:884][594]Cmd: TRANSACTION UNDO
+[2019.06.20-23.27.40:884][594]LogEditorTransaction: Undo Create Actors
+[2019.06.20-23.27.49:199][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.27.52:983][ 81]LogSavePackage: Moving '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/StreetSceneLarge38236D3048A9E82CB87DDCA1BE4C6507.tmp' to '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge.umap'
+[2019.06.20-23.28.06:084][700]LogSlate: Window 'Save Content' being destroyed
+[2019.06.20-23.28.16:563][700]LogSlate: Window 'Message' being destroyed
+[2019.06.20-23.28.16:570][700]EditorErrors: New page: Save Output
+[2019.06.20-23.28.16:570][700]EditorErrors: Warning: Asset '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_DarkWood_AP_Inst.uasset' cannot be saved as it has only been partially loaded
+[2019.06.20-23.28.20:120][913]LogSlate: Window 'Message Log' being destroyed
+[2019.06.20-23.28.20:125][913]LogSlate: Window 'Message Log' being destroyed
+[2019.06.20-23.28.31:003][429]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.20-23.28.36:456][572]LogSlate: Window 'Delete Assets' being destroyed
+[2019.06.20-23.28.36:560][572]LogFileManager: Warning: Error deleting file: ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_StreetBlockStipes_AP_Inst1.uasset (Error Code 32)
+[2019.06.20-23.28.36:875][592]LogHttp: Warning: 000002B47004AC00: request failed, libcurl error: 35 (SSL connect error)
+[2019.06.20-23.28.36:875][592]LogHttp: Warning: 000002B47004AC00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.06.20-23.28.36:875][592]LogHttp: Warning: 000002B47004AC00: libcurl info message cache 1 (  Trying 52.5.92.97...)
+[2019.06.20-23.28.36:875][592]LogHttp: Warning: 000002B47004AC00: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.06.20-23.28.36:875][592]LogHttp: Warning: 000002B47004AC00: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.5.92.97) port 443 (#8))
+[2019.06.20-23.28.36:875][592]LogHttp: Warning: 000002B47004AC00: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.06.20-23.28.36:875][592]LogHttp: Warning: 000002B47004AC00: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.06.20-23.28.36:875][592]LogHttp: Warning: 000002B47004AC00: libcurl info message cache 6 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2019.06.20-23.28.36:875][592]LogHttp: Warning: 000002B47004AC00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2019.06.20-23.28.36:875][592]LogHttp: Warning: 000002B47004AC00: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.06.20-23.28.36:875][592]LogHttp: Warning: 000002B47004AC00: libcurl info message cache 9 (Closing connection 8)
+[2019.06.20-23.28.36:875][592]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB6EC79D3-4167-5611-1D1F-7B95A7573148%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=2f086403475df2ec7b2756a0d1f21e2f%7Cacb3fb157f884c1c9ad3d2f6cb952a77%7C43bdc317-89a1-4ad4-aa7a-120458e236ff&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.06.20-23.28.44:376][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.28.57:326][800]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Ben/Texture_Materials/Textures/M_DarkWood_AP_Inst.M_DarkWood_AP_Inst
+[2019.06.20-23.28.59:109][897]LogSlate: Window 'M_DarkWood_AP_Inst*' being destroyed
+[2019.06.20-23.28.59:114][897]LogSlate: Window 'M_DarkWood_AP_Inst*' being destroyed
+[2019.06.20-23.29.08:749][471]LogSavePackage: Moving '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/M_DarkWood_AP_Inst18A0E318046781BAD10DF32962CD7B7E1.tmp' to '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_DarkWood_AP_Inst1.uasset'
+[2019.06.20-23.29.08:918][471]LogFileManager: Warning: Error deleting file: ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_DarkWood_AP_Inst.uasset (Error Code 32)
+[2019.06.20-23.29.15:935][879]LogSavePackage: Moving '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/M_LightWood_AP_Inst2456DCD014B4C7BDECB8FE1970CBC5D22.tmp' to '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_LightWood_AP_Inst2.uasset'
+[2019.06.20-23.29.16:101][879]LogFileManager: Warning: Error deleting file: ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_LightWood_AP_Inst.uasset (Error Code 32)
+[2019.06.20-23.29.22:512][249]LogSavePackage: Moving '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/M_MasterWoodBlock_AP3E70C40A042CFCBBF0F9670B13CF7D6EB.tmp' to '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_MasterWoodBlock_AP3.uasset'
+[2019.06.20-23.29.22:676][249]LogFileManager: Warning: Error deleting file: ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_MasterWoodBlock_AP.uasset (Error Code 32)
+[2019.06.20-23.29.29:522][647]LogSavePackage: Moving '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/M_MedWood1_AP_Inst42ABC9C534F9282DDFA145AABD986D597.tmp' to '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_MedWood1_AP_Inst4.uasset'
+[2019.06.20-23.29.29:687][647]LogFileManager: Warning: Error deleting file: ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_MedWood1_AP_Inst.uasset (Error Code 32)
+[2019.06.20-23.29.36:297][ 32]LogSavePackage: Moving '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/M_MedWood2_AP_Inst5ECA352804C606BC0C9572395E18941ED.tmp' to '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_MedWood2_AP_Inst5.uasset'
+[2019.06.20-23.29.36:462][ 32]LogFileManager: Warning: Error deleting file: ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_MedWood2_AP_Inst.uasset (Error Code 32)
+[2019.06.20-23.29.42:862][403]LogSavePackage: Moving '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/M_SidewalkBlock_AP_Inst687E4ADC64B56C9E49D90CA9EB97E463E.tmp' to '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_SidewalkBlock_AP_Inst6.uasset'
+[2019.06.20-23.29.43:034][403]LogFileManager: Warning: Error deleting file: ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_SidewalkBlock_AP_Inst.uasset (Error Code 32)
+[2019.06.20-23.29.55:832][159]LogSavePackage: Moving '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/M_StreetBlock_AP_Inst744AF0E27430FB41C03887FBBF3757841.tmp' to '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_StreetBlock_AP_Inst7.uasset'
+[2019.06.20-23.29.56:001][159]LogFileManager: Warning: Error deleting file: ../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Texture_Materials/Textures/M_StreetBlock_AP_Inst.uasset (Error Code 32)
+[2019.06.20-23.30.07:282][606]LogSavePackage: Moving '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/StreetSceneLarge95E414D743A1F2E9373938BA6470FF53.tmp' to '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge.umap'
+[2019.06.20-23.30.13:581][969]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_streetBlocksCWcenter001)
+[2019.06.20-23.30.13:706][970]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.20-23.30.36:488][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.20-23.30.39:582][410]LogHttp: Warning: 000002B477F38F40: request failed, libcurl error: 35 (SSL connect error)
+[2019.06.20-23.30.39:582][410]LogHttp: Warning: 000002B477F38F40: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.06.20-23.30.39:582][410]LogHttp: Warning: 000002B477F38F40: libcurl info message cache 1 (  Trying 34.235.3.78...)
+[2019.06.20-23.30.39:582][410]LogHttp: Warning: 000002B477F38F40: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.06.20-23.30.39:582][410]LogHttp: Warning: 000002B477F38F40: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.235.3.78) port 443 (#9))
+[2019.06.20-23.30.39:582][410]LogHttp: Warning: 000002B477F38F40: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.06.20-23.30.39:582][410]LogHttp: Warning: 000002B477F38F40: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.06.20-23.30.39:582][410]LogHttp: Warning: 000002B477F38F40: libcurl info message cache 6 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2019.06.20-23.30.39:582][410]LogHttp: Warning: 000002B477F38F40: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2019.06.20-23.30.39:582][410]LogHttp: Warning: 000002B477F38F40: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.06.20-23.30.39:582][410]LogHttp: Warning: 000002B477F38F40: libcurl info message cache 9 (Closing connection 9)
+[2019.06.20-23.30.39:582][410]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB6EC79D3-4167-5611-1D1F-7B95A7573148%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=2f086403475df2ec7b2756a0d1f21e2f%7Cacb3fb157f884c1c9ad3d2f6cb952a77%7C43bdc317-89a1-4ad4-aa7a-120458e236ff&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.06.20-23.30.49:847][782]LogSavePackage: Moving '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/StreetSceneLarge5A4AE3464E57A052DB94778DF5B765EC.tmp' to '../../../../../School/Asset Pipeline/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge.umap'
+[2019.06.20-23.30.51:415][869]LogSlate: Window 'BaseCityBlock - Unreal Editor' being destroyed
+[2019.06.20-23.30.51:583][870]Cmd: QUIT_EDITOR
+[2019.06.20-23.30.51:596][870]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.20-23.30.51:607][870]LogExit: Preparing to exit.
+[2019.06.20-23.30.52:501][870]LogExit: Editor shut down
+[2019.06.20-23.30.52:502][870]LogExit: Transaction tracking system shut down
+[2019.06.20-23.30.52:710][870]LogExit: Object subsystem successfully closed.
+[2019.06.20-23.30.52:733][870]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.06.20-23.30.52:737][870]LogD3D11RHI: Shutdown
+[2019.06.20-23.30.52:737][870]LogD3D11RHI: CleanupD3DDevice
+[2019.06.20-23.30.52:741][870]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.06.20-23.30.52:750][870]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (624)
+[2019.06.20-23.30.52:750][870]LogModuleManager: Shutting down and abandoning module SceneOutliner (622)
+[2019.06.20-23.30.52:750][870]LogModuleManager: Shutting down and abandoning module AddContentDialog (620)
+[2019.06.20-23.30.52:750][870]LogModuleManager: Shutting down and abandoning module WidgetCarousel (619)
+[2019.06.20-23.30.52:750][870]LogModuleManager: Shutting down and abandoning module EditorWidgets (616)
+[2019.06.20-23.30.52:750][870]LogModuleManager: Shutting down and abandoning module CollectionManager (614)
+[2019.06.20-23.30.52:750][870]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (612)
+[2019.06.20-23.30.52:750][870]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.06.20-23.30.52:750][870]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.06.20-23.30.52:750][870]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.06.20-23.30.52:750][870]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.06.20-23.30.52:750][870]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.06.20-23.30.52:750][870]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.06.20-23.30.52:750][870]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.06.20-23.30.52:750][870]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.06.20-23.30.52:750][870]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.06.20-23.30.52:750][870]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.06.20-23.30.52:750][870]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.06.20-23.30.52:750][870]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.06.20-23.30.52:750][870]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.06.20-23.30.52:750][870]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.06.20-23.30.52:750][870]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.06.20-23.30.52:750][870]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.06.20-23.30.52:750][870]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.06.20-23.30.52:750][870]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.06.20-23.30.52:750][870]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.06.20-23.30.52:750][870]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.06.20-23.30.52:750][870]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.06.20-23.30.52:751][870]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.06.20-23.30.52:751][870]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.06.20-23.30.52:751][870]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.06.20-23.30.52:751][870]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.06.20-23.30.52:751][870]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.06.20-23.30.52:751][870]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.06.20-23.30.52:751][870]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.06.20-23.30.52:751][870]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.06.20-23.30.52:751][870]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.06.20-23.30.52:751][870]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.06.20-23.30.52:751][870]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.06.20-23.30.52:751][870]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.06.20-23.30.52:751][870]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.06.20-23.30.52:751][870]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.06.20-23.30.52:751][870]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.06.20-23.30.52:751][870]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.06.20-23.30.52:751][870]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.06.20-23.30.52:751][870]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.06.20-23.30.52:751][870]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.06.20-23.30.52:751][870]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.06.20-23.30.52:751][870]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.06.20-23.30.52:751][870]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.06.20-23.30.52:751][870]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.06.20-23.30.52:751][870]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.06.20-23.30.52:751][870]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.06.20-23.30.52:751][870]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.06.20-23.30.52:751][870]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.06.20-23.30.52:751][870]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.06.20-23.30.52:751][870]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.06.20-23.30.53:472][870]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.06.20-23.30.53:472][870]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.06.20-23.30.53:472][870]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.06.20-23.30.53:472][870]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.06.20-23.30.53:472][870]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.06.20-23.30.53:472][870]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.06.20-23.30.53:472][870]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.06.20-23.30.53:472][870]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.06.20-23.30.53:472][870]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.06.20-23.30.53:472][870]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.06.20-23.30.53:472][870]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.06.20-23.30.53:472][870]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.06.20-23.30.53:472][870]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.06.20-23.30.53:472][870]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.06.20-23.30.53:472][870]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.06.20-23.30.53:472][870]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.06.20-23.30.53:473][870]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.06.20-23.30.53:473][870]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.06.20-23.30.53:473][870]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.06.20-23.30.53:473][870]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.06.20-23.30.53:473][870]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.06.20-23.30.53:473][870]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.06.20-23.30.53:473][870]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.06.20-23.30.53:528][870]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.06.20-23.30.53:528][870]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.06.20-23.30.53:528][870]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.06.20-23.30.53:528][870]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.06.20-23.30.53:528][870]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.06.20-23.30.53:528][870]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.06.20-23.30.53:528][870]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.06.20-23.30.53:528][870]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.06.20-23.30.53:528][870]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.06.20-23.30.53:528][870]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.06.20-23.30.53:528][870]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.06.20-23.30.53:528][870]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.06.20-23.30.53:528][870]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.06.20-23.30.53:528][870]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.06.20-23.30.53:528][870]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.06.20-23.30.53:528][870]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.06.20-23.30.53:528][870]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.06.20-23.30.53:528][870]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.06.20-23.30.53:528][870]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.06.20-23.30.53:528][870]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.06.20-23.30.53:528][870]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.06.20-23.30.53:528][870]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.06.20-23.30.53:528][870]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.06.20-23.30.53:528][870]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.06.20-23.30.53:528][870]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.06.20-23.30.53:528][870]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.06.20-23.30.53:528][870]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.06.20-23.30.53:529][870]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.06.20-23.30.53:529][870]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.06.20-23.30.53:529][870]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.06.20-23.30.53:529][870]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.06.20-23.30.53:529][870]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.06.20-23.30.53:531][870]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.06.20-23.30.53:661][870]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.06.20-23.30.53:661][870]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.06.20-23.30.53:661][870]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.06.20-23.30.53:661][870]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.06.20-23.30.53:661][870]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.06.20-23.30.53:661][870]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.06.20-23.30.53:661][870]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.06.20-23.30.53:661][870]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.06.20-23.30.53:661][870]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.06.20-23.30.53:661][870]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.06.20-23.30.53:661][870]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.06.20-23.30.53:661][870]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.06.20-23.30.53:661][870]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.06.20-23.30.53:661][870]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.06.20-23.30.53:661][870]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.06.20-23.30.53:661][870]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.06.20-23.30.53:661][870]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.06.20-23.30.53:664][870]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.06.20-23.30.53:664][870]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.06.20-23.30.53:664][870]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.06.20-23.30.53:664][870]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.06.20-23.30.53:664][870]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.06.20-23.30.53:664][870]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.06.20-23.30.53:664][870]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.06.20-23.30.53:664][870]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.06.20-23.30.53:664][870]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.06.20-23.30.53:664][870]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.06.20-23.30.53:664][870]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.06.20-23.30.53:664][870]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.06.20-23.30.53:664][870]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.06.20-23.30.53:664][870]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.06.20-23.30.53:664][870]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.06.20-23.30.53:664][870]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.06.20-23.30.53:664][870]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.06.20-23.30.53:664][870]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.06.20-23.30.53:664][870]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.06.20-23.30.53:664][870]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.06.20-23.30.53:664][870]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.06.20-23.30.53:665][870]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.06.20-23.30.53:665][870]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.06.20-23.30.53:665][870]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.06.20-23.30.53:665][870]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.06.20-23.30.53:665][870]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.06.20-23.30.53:665][870]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.06.20-23.30.53:665][870]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.06.20-23.30.53:665][870]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.06.20-23.30.53:665][870]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.06.20-23.30.53:665][870]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.06.20-23.30.53:665][870]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.06.20-23.30.53:665][870]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.06.20-23.30.53:665][870]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.06.20-23.30.53:665][870]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.06.20-23.30.53:665][870]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.06.20-23.30.53:665][870]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.06.20-23.30.53:665][870]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.06.20-23.30.53:665][870]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.06.20-23.30.53:665][870]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.06.20-23.30.53:665][870]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.06.20-23.30.53:665][870]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.06.20-23.30.53:766][870]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.06.20-23.30.53:867][870]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.06.20-23.30.53:867][870]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.06.20-23.30.53:867][870]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.06.20-23.30.53:867][870]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.06.20-23.30.53:867][870]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.06.20-23.30.53:867][870]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.06.20-23.30.53:867][870]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.06.20-23.30.53:867][870]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.06.20-23.30.53:867][870]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.06.20-23.30.53:867][870]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.06.20-23.30.53:867][870]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.06.20-23.30.53:868][870]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.06.20-23.30.53:868][870]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.06.20-23.30.53:868][870]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.06.20-23.30.53:868][870]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.06.20-23.30.53:868][870]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.06.20-23.30.53:868][870]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.06.20-23.30.53:868][870]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.06.20-23.30.53:868][870]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.06.20-23.30.53:870][870]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.06.20-23.30.53:876][870]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.06.20-23.30.53:876][870]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.06.20-23.30.53:876][870]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.06.20-23.30.53:876][870]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.06.20-23.30.53:876][870]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.06.20-23.30.53:876][870]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.06.20-23.30.53:876][870]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.06.20-23.30.53:876][870]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.06.20-23.30.53:876][870]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.06.20-23.30.53:876][870]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.06.20-23.30.53:876][870]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.06.20-23.30.53:876][870]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.06.20-23.30.53:876][870]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.06.20-23.30.53:876][870]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.06.20-23.30.53:876][870]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.06.20-23.30.53:876][870]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.06.20-23.30.53:877][870]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.06.20-23.30.53:877][870]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.06.20-23.30.53:877][870]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.06.20-23.30.53:877][870]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.06.20-23.30.53:878][870]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.06.20-23.30.53:878][870]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.06.20-23.30.53:878][870]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.06.20-23.30.53:878][870]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.06.20-23.30.53:878][870]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.06.20-23.30.53:878][870]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.06.20-23.30.53:878][870]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.06.20-23.30.53:878][870]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.06.20-23.30.53:878][870]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.06.20-23.30.53:878][870]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.06.20-23.30.53:878][870]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.06.20-23.30.53:878][870]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.06.20-23.30.53:878][870]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.06.20-23.30.53:878][870]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.06.20-23.30.53:878][870]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.06.20-23.30.53:878][870]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.06.20-23.30.53:878][870]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.06.20-23.30.53:878][870]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.06.20-23.30.53:901][870]LogDerivedDataCache: Shutdown
+[2019.06.20-23.30.53:901][870]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.06.20-23.30.53:901][870]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.06.20-23.30.53:901][870]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.06.20-23.30.53:901][870]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.06.20-23.30.53:901][870]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.06.20-23.30.53:901][870]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.06.20-23.30.53:901][870]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.06.20-23.30.53:901][870]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.06.20-23.30.53:901][870]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.06.20-23.30.53:902][870]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.06.20-23.30.53:902][870]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.06.20-23.30.53:902][870]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.06.20-23.30.53:902][870]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.06.20-23.30.53:902][870]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.06.20-23.30.53:902][870]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.06.20-23.30.53:902][870]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.06.20-23.30.53:902][870]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.06.20-23.30.53:902][870]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.06.20-23.30.53:902][870]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.06.20-23.30.53:902][870]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.06.20-23.30.53:902][870]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.06.20-23.30.53:902][870]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.06.20-23.30.53:902][870]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.06.20-23.30.53:903][870]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.06.20-23.30.53:903][870]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.06.20-23.30.53:903][870]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.06.20-23.30.53:904][870]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.06.20-23.30.53:908][870]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.06.20-23.30.53:908][870]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.06.20-23.30.53:908][870]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.06.20-23.30.53:908][870]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.06.20-23.30.53:908][870]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.06.20-23.30.53:908][870]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.06.20-23.30.53:908][870]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.06.20-23.30.53:908][870]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.06.20-23.30.53:908][870]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.06.20-23.30.53:908][870]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.06.20-23.30.53:908][870]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.06.20-23.30.53:908][870]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.06.20-23.30.53:908][870]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.06.20-23.30.53:908][870]LogHMD: Freeing OpenVRDLLHandle.
+[2019.06.20-23.30.53:908][870]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.06.20-23.30.53:908][870]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.06.20-23.30.53:908][870]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.06.20-23.30.53:908][870]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.06.20-23.30.53:908][870]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.06.20-23.30.53:909][870]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.06.20-23.30.53:909][870]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.06.20-23.30.53:913][870]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.06.20-23.30.53:914][870]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.06.20-23.30.53:914][870]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB6EC79D3-4167-5611-1D1F-7B95A7573148%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=2f086403475df2ec7b2756a0d1f21e2f%7Cacb3fb157f884c1c9ad3d2f6cb952a77%7C43bdc317-89a1-4ad4-aa7a-120458e236ff&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.06.20-23.30.53:914][870]LogHttp: Warning: 000002B470069080: request failed, libcurl error: 35 (SSL connect error)
+[2019.06.20-23.30.53:914][870]LogHttp: Warning: 000002B470069080: libcurl info message cache 0 (Hostname datarouter.ol.epicgames.com was found in DNS cache)
+[2019.06.20-23.30.53:914][870]LogHttp: Warning: 000002B470069080: libcurl info message cache 1 (  Trying 34.235.3.78...)
+[2019.06.20-23.30.53:914][870]LogHttp: Warning: 000002B470069080: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.06.20-23.30.53:914][870]LogHttp: Warning: 000002B470069080: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (34.235.3.78) port 443 (#10))
+[2019.06.20-23.30.53:914][870]LogHttp: Warning: 000002B470069080: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.06.20-23.30.53:914][870]LogHttp: Warning: 000002B470069080: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.06.20-23.30.53:914][870]LogHttp: Warning: 000002B470069080: libcurl info message cache 6 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2019.06.20-23.30.53:914][870]LogHttp: Warning: 000002B470069080: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2019.06.20-23.30.53:914][870]LogHttp: Warning: 000002B470069080: libcurl info message cache 8 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2019.06.20-23.30.53:914][870]LogHttp: Warning: 000002B470069080: libcurl info message cache 9 (Closing connection 10)
+[2019.06.20-23.30.53:946][870]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.06.20-23.30.53:947][870]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.06.20-23.30.53:947][870]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.06.20-23.30.53:947][870]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.06.20-23.30.53:947][870]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.06.20-23.30.53:947][870]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.06.20-23.30.53:947][870]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.06.20-23.30.53:947][870]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.06.20-23.30.53:948][870]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.06.20-23.30.53:948][870]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.06.20-23.30.53:948][870]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.06.20-23.30.53:948][870]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.06.20-23.30.53:948][870]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.06.20-23.30.53:948][870]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.06.20-23.30.53:948][870]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.06.20-23.30.53:948][870]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.06.20-23.30.53:948][870]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.06.20-23.30.53:948][870]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.06.20-23.30.53:948][870]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.06.20-23.30.53:948][870]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.06.20-23.30.53:948][870]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.06.20-23.30.53:948][870]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.06.20-23.30.53:948][870]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.06.20-23.30.53:948][870]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.06.20-23.30.53:948][870]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.06.20-23.30.53:948][870]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.06.20-23.30.53:948][870]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.06.20-23.30.53:948][870]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.06.20-23.30.53:948][870]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.06.20-23.30.53:957][870]LogExit: Exiting.
+[2019.06.20-23.30.53:966][870]Log file closed, 06/20/19 17:30:53
