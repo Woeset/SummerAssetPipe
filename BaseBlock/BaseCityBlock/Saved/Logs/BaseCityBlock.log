@@ -1869,3 +1869,155 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.24-21.34.01:157][327]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.06.24-21.34.04:971][327]LogSavePackage: Moving '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/StreetSceneLarge5358FCED475145C47D84C4BA8A5FDD99.tmp' to '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge.umap'
 [2019.06.24-21.34.04:992][327]LogFileHelpers: Saving map 'StreetSceneLarge' took 3.832
+[2019.06.24-21.37.37:067][701]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.24-21.37.40:463][101]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.24-21.37.44:148][101]LogSlate: Window 'Save Level As' being destroyed
+[2019.06.24-21.37.45:672][239]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.24-21.37.47:515][450]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.24-21.37.47:543][450]LogSavePackage: Moving '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/walkingAnimation_Anim5E2D26654CFB0CA377F624880E946501.tmp' to '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Alejandro/Animation/walkingAnimation_Anim.uasset'
+[2019.06.24-21.37.47:575][450]LogSavePackage: Moving '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/walkingAnimation_PhysicsAsset4EDCA64C444F8E88D5EA05AEB6F808E2.tmp' to '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Alejandro/Animation/walkingAnimation_PhysicsAsset.uasset'
+[2019.06.24-21.37.47:585][450]LogSavePackage: Moving '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/walkingAnimation_Skeleton3C6511F841F86B88C2E7269455D206F0.tmp' to '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Alejandro/Animation/walkingAnimation_Skeleton.uasset'
+[2019.06.24-21.37.47:610][450]LogSavePackage: Moving '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/lambert162159FCE4FE5A540F2D7F4B0859BDC1E.tmp' to '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Alejandro/Animation/lambert1.uasset'
+[2019.06.24-21.37.47:663][450]LogSavePackage: Moving '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/walkingAnimation3C43FA6A4777915B02486690E1D6197D.tmp' to '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Alejandro/Animation/walkingAnimation.uasset'
+[2019.06.24-21.37.47:687][450]LogSavePackage: Moving '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/M_woodA3D78ADC41BDCF474D8D73B2103B8271.tmp' to '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Alejandro/Animation/M_wood.uasset'
+[2019.06.24-21.37.48:723][550]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.24-21.37.49:156][600]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.24-21.37.49:664][658]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.24-21.37.50:973][810]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.24-21.37.54:725][810]LogSavePackage: Moving '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/StreetSceneLargeAED0D6754416A103A9460EA7F1B78DCC.tmp' to '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge.umap'
+[2019.06.24-21.37.58:167][159]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.24-21.39.01:761][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_baseTop)
+[2019.06.24-21.39.05:107][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.24-21.39.34:845][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_MERGED_baseTop)
+[2019.06.24-21.39.59:779][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.24-21.40.13:480][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.24-21.40.13:649][224]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/XavierDavis/woodBlocksContent/M_DarkWood_AP_Inst.M_DarkWood_AP_Inst
+[2019.06.24-21.40.13:800][224]LogRenderer: Reallocating scene render targets to support 1616x984 Format 10 NumSamples 1 (Frame:1).
+[2019.06.24-21.40.19:962][657]LogSlate: Window 'M_DarkWood_AP_Inst' being destroyed
+[2019.06.24-21.40.19:969][657]LogSlate: Window 'M_DarkWood_AP_Inst' being destroyed
+[2019.06.24-21.40.43:100][269]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Alejandro/M_DarkWood_AP_Inst_Inst2.M_DarkWood_AP_Inst_Inst2
+[2019.06.24-21.40.58:169][312]LogSlate: Window 'Color Picker' being destroyed
+[2019.06.24-21.41.16:450][591]LogSlate: Took 0.000629 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.24-21.41.25:810][591]LogSlate: Window 'Save Asset As' being destroyed
+[2019.06.24-21.41.28:588][784]LogSlate: Window 'M_DarkWood_AP_Inst_Inst2*' being destroyed
+[2019.06.24-21.41.28:593][784]LogSlate: Window 'M_DarkWood_AP_Inst_Inst2*' being destroyed
+[2019.06.24-21.41.28:628][784]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_DarkWood_AP_Inst_Inst2, compiling. 
+[2019.06.24-21.41.29:914][784]TextureStreamingBuild: Display: Compiling optional shaders took 1.291 seconds.
+[2019.06.24-21.41.59:496][817]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Alejandro/M_helmettipes_AP_Inst1_Inst_Inst_Helmet.M_helmettipes_AP_Inst1_Inst_Inst_Helmet
+[2019.06.24-21.42.36:061][563]LogSlate: Window 'Save Asset As' being destroyed
+[2019.06.24-21.42.38:124][712]LogSlate: Window 'M_helmettipes_AP_Inst1_Inst_Inst_Helmet*' being destroyed
+[2019.06.24-21.42.38:129][712]LogSlate: Window 'M_helmettipes_AP_Inst1_Inst_Inst_Helmet*' being destroyed
+[2019.06.24-21.42.38:162][712]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_helmettipes_AP_Inst1_Inst_Inst_Helmet, compiling. 
+[2019.06.24-21.42.39:339][712]TextureStreamingBuild: Display: Compiling optional shaders took 1.182 seconds.
+[2019.06.24-21.42.41:407][835]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Alejandro/M_helmettipes_AP_Inst1_Inst_Inst_Helmet.M_helmettipes_AP_Inst1_Inst_Inst_Helmet
+[2019.06.24-21.43.04:028][498]LogSlate: Window 'Color Picker' being destroyed
+[2019.06.24-21.43.16:594][413]LogSlate: Window 'M_helmettipes_AP_Inst1_Inst_Inst_Helmet*' being destroyed
+[2019.06.24-21.43.16:600][413]LogSlate: Window 'M_helmettipes_AP_Inst1_Inst_Inst_Helmet*' being destroyed
+[2019.06.24-21.43.16:634][413]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_helmettipes_AP_Inst1_Inst_Inst_Helmet, compiling. 
+[2019.06.24-21.43.17:811][413]TextureStreamingBuild: Display: Compiling optional shaders took 1.182 seconds.
+[2019.06.24-21.43.31:644][382]LogAssetEditorManager: Opening Asset editor for Material /Game/Alejandro/M_helmettipes_AP_Inst1_Inst.M_helmettipes_AP_Inst1_Inst
+[2019.06.24-21.43.31:647][382]LogMaterial: Display: Missing cached shader map for material M_helmettipes_AP_Inst1_Inst, compiling. 
+[2019.06.24-21.43.31:722][382]LogMaterial: Display: Missing cached shader map for material M_helmettipes_AP_Inst1_Inst, compiling. 
+[2019.06.24-21.43.31:735][382]LogMaterial: Display: Missing cached shader map for material M_helmettipes_AP_Inst1_Inst, compiling. 
+[2019.06.24-21.43.31:781][382]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.24-21.43.42:324][ 75]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.06.24-21.43.42:324][ 75]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.06.24-21.43.42:324][ 75]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.06.24-21.43.42:324][ 75]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.24-21.44.02:303][515]LogSlate: Window 'M_helmettipes_AP_Inst1_Inst' being destroyed
+[2019.06.24-21.44.02:308][515]LogSlate: Window 'M_helmettipes_AP_Inst1_Inst' being destroyed
+[2019.06.24-21.44.47:045][423]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Alejandro/M_helmettipes_AP_Inst1_Inst_Inst_Helmet.M_helmettipes_AP_Inst1_Inst_Inst_Helmet
+[2019.06.24-21.45.19:736][831]LogSlate: Window 'Save Asset As' being destroyed
+[2019.06.24-21.45.21:588][831]LogSlate: Window 'Message' being destroyed
+[2019.06.24-21.45.28:179][290]LogSlate: Window 'M_helmettipes_AP_Inst1_Inst_Inst_Helmet*' being destroyed
+[2019.06.24-21.45.28:184][290]LogSlate: Window 'M_helmettipes_AP_Inst1_Inst_Inst_Helmet*' being destroyed
+[2019.06.24-21.45.28:214][290]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_helmettipes_AP_Inst1_Inst_Inst_Helmet, compiling. 
+[2019.06.24-21.45.29:410][290]TextureStreamingBuild: Display: Compiling optional shaders took 1.200 seconds.
+[2019.06.24-21.45.34:137][604]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/woodBlocksContent/M_DarkWood_AP_Inst.M_DarkWood_AP_Inst
+[2019.06.24-21.46.17:738][166]LogSlate: Window 'M_DarkWood_AP_Inst' being destroyed
+[2019.06.24-21.46.17:744][166]LogSlate: Window 'M_DarkWood_AP_Inst' being destroyed
+[2019.06.24-21.46.30:239][155]LogAssetEditorManager: Opening Asset editor for Material /Game/Alejandro/building/helmetOBJ_UV_Texture.helmetOBJ_UV_Texture
+[2019.06.24-21.46.30:242][155]LogMaterial: Display: Missing cached shader map for material helmetOBJ_UV_Texture, compiling. 
+[2019.06.24-21.46.30:300][155]LogMaterial: Display: Missing cached shader map for material helmetOBJ_UV_Texture, compiling. 
+[2019.06.24-21.46.30:313][155]LogMaterial: Display: Missing cached shader map for material helmetOBJ_UV_Texture, compiling. 
+[2019.06.24-21.46.38:274][661]MaterialEditorStats: Base pass shader: 103 instructions
+[2019.06.24-21.46.38:274][661]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2019.06.24-21.46.38:274][661]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.06.24-21.46.38:274][661]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.24-21.46.47:069][275]LogSlate: Window 'helmetOBJ_UV_Texture*' being destroyed
+[2019.06.24-21.46.47:074][275]LogSlate: Window 'helmetOBJ_UV_Texture*' being destroyed
+[2019.06.24-21.47.55:230][796]LogSavePackage: Moving '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/StreetSceneLarge_Auto153A8AB46415D0191D5F8F792D7A6B65B.tmp' to '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Autosaves/Game/StreetSceneLarge_Auto1.umap'
+[2019.06.24-21.47.55:238][796]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StreetSceneLarge' took 3.817
+[2019.06.24-21.47.55:238][796]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.817
+[2019.06.24-21.47.55:241][796]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Alejandro/M_DarkWood_AP_Inst_Inst2] ([1] browsable assets)...
+[2019.06.24-21.47.55:257][796]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Alejandro/M_DarkWood_AP_Inst_Inst2.M_DarkWood_AP_Inst_Inst2]
+[2019.06.24-21.47.55:257][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/Alejandro/M_DarkWood_AP_Inst_Inst2]
+[2019.06.24-21.47.55:268][796]LogSavePackage: Moving '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/M_DarkWood_AP_Inst_Inst2_Auto1F6CE27C840F7C411C8F33999027230BC.tmp' to '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Autosaves/Game/Alejandro/M_DarkWood_AP_Inst_Inst2_Auto1.uasset'
+[2019.06.24-21.47.55:272][796]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Alejandro/building/helmetOBJ_UV_Texture] ([1] browsable assets)...
+[2019.06.24-21.47.55:287][796]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Alejandro/building/helmetOBJ_UV_Texture.helmetOBJ_UV_Texture]
+[2019.06.24-21.47.55:287][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/Alejandro/building/helmetOBJ_UV_Texture]
+[2019.06.24-21.47.55:304][796]LogSavePackage: Moving '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/helmetOBJ_UV_Texture_Auto1D76D511D44D3AA0C4659D8A242A7593F.tmp' to '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Autosaves/Game/Alejandro/building/helmetOBJ_UV_Texture_Auto1.uasset'
+[2019.06.24-21.47.55:307][796]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Alejandro/M_DarkWood_AP_Inst_Inst2_Inst_VikingTexture] ([1] browsable assets)...
+[2019.06.24-21.47.55:323][796]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Alejandro/M_DarkWood_AP_Inst_Inst2_Inst_VikingTexture.M_DarkWood_AP_Inst_Inst2_Inst_VikingTexture]
+[2019.06.24-21.47.55:323][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/Alejandro/M_DarkWood_AP_Inst_Inst2_Inst_VikingTexture]
+[2019.06.24-21.47.55:335][796]LogSavePackage: Moving '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/M_DarkWood_AP_Inst_Inst2_Inst_ViE343DB024DFB2D506F6C31B043753FA2.tmp' to '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Autosaves/Game/Alejandro/M_DarkWood_AP_Inst_Inst2_Inst_VikingTexture_Auto1.uasset'
+[2019.06.24-21.47.55:338][796]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Alejandro/M_helmettipes_AP_Inst1_Inst_Inst_Helmet] ([1] browsable assets)...
+[2019.06.24-21.47.55:353][796]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Alejandro/M_helmettipes_AP_Inst1_Inst_Inst_Helmet.M_helmettipes_AP_Inst1_Inst_Inst_Helmet]
+[2019.06.24-21.47.55:353][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/Alejandro/M_helmettipes_AP_Inst1_Inst_Inst_Helmet]
+[2019.06.24-21.47.55:364][796]LogSavePackage: Moving '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/M_helmettipes_AP_Inst1_Inst_InstC6F74B3645809528B75E83BF88DB0B7D.tmp' to '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Autosaves/Game/Alejandro/M_helmettipes_AP_Inst1_Inst_Inst_Helmet_Auto1.uasset'
+[2019.06.24-21.47.55:367][796]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Alejandro/M_helmettipes_AP_Inst1_Inst_Inst] ([1] browsable assets)...
+[2019.06.24-21.47.55:383][796]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Alejandro/M_helmettipes_AP_Inst1_Inst_Inst.M_helmettipes_AP_Inst1_Inst_Inst]
+[2019.06.24-21.47.55:383][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/Alejandro/M_helmettipes_AP_Inst1_Inst_Inst]
+[2019.06.24-21.47.55:393][796]LogSavePackage: Moving '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/M_helmettipes_AP_Inst1_Inst_InstE981F123460AAE1E6421D2929C002929.tmp' to '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Autosaves/Game/Alejandro/M_helmettipes_AP_Inst1_Inst_Inst_Auto1.uasset'
+[2019.06.24-21.47.55:395][796]LogFileHelpers: Auto-saving content packages took 0.155
+[2019.06.24-21.49.39:769][674]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/u1214728/Downloads/helmetOBJ_UV_Texture.jpg)
+[2019.06.24-21.49.39:862][674]LogTexture: Display: Building textures: helmetOBJ_UV_Texture (AutoDXT, 2048X2048)
+[2019.06.24-21.50.43:127][195]LogAssetEditorManager: Opening Asset editor for Material /Game/Alejandro/M_DarkWood_AP_Inst.M_DarkWood_AP_Inst
+[2019.06.24-21.50.43:131][195]LogMaterial: Display: Missing cached shader map for material M_DarkWood_AP_Inst, compiling. 
+[2019.06.24-21.50.43:208][195]LogMaterial: Display: Missing cached shader map for material M_DarkWood_AP_Inst, compiling. 
+[2019.06.24-21.50.43:221][195]LogMaterial: Display: Missing cached shader map for material M_DarkWood_AP_Inst, compiling. 
+[2019.06.24-21.50.43:262][195]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.24-21.50.50:768][684]MaterialEditorStats: Base pass shader: 105 instructions
+[2019.06.24-21.50.50:768][684]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2019.06.24-21.50.50:768][684]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.06.24-21.50.50:768][684]MaterialEditorStats: Texture samplers: 3/16
+[2019.06.24-21.51.12:126][ 77]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.24-21.51.12:132][ 77]LogMaterial: Display: Missing cached shader map for material M_DarkWood_AP_Inst, compiling. 
+[2019.06.24-21.51.12:181][ 77]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.24-21.51.12:187][ 77]LogMaterial: Display: Missing cached shader map for material M_DarkWood_AP_Inst, compiling. 
+[2019.06.24-21.51.12:228][ 77]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.24-21.51.12:234][ 77]LogMaterial: Display: Missing cached shader map for material M_DarkWood_AP_Inst, compiling. 
+[2019.06.24-21.51.12:275][ 77]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.24-21.51.12:282][ 77]LogMaterial: Display: Missing cached shader map for material M_DarkWood_AP_Inst, compiling. 
+[2019.06.24-21.51.12:322][ 77]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.24-21.51.12:328][ 77]LogMaterial: Display: Missing cached shader map for material M_DarkWood_AP_Inst, compiling. 
+[2019.06.24-21.51.12:377][ 77]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.24-21.51.12:383][ 77]LogMaterial: Display: Missing cached shader map for material M_DarkWood_AP_Inst, compiling. 
+[2019.06.24-21.51.12:424][ 77]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2019.06.24-21.51.12:433][ 77]LogMaterial: Display: Missing cached shader map for material M_DarkWood_AP_Inst, compiling. 
+[2019.06.24-21.51.18:448][394]LogSlate: Window 'Color Picker' being destroyed
+[2019.06.24-21.51.19:803][394]LogSlate: Window 'Message' being destroyed
+[2019.06.24-21.51.19:808][394]LogSlate: Window 'M_DarkWood_AP_Inst*' being destroyed
+[2019.06.24-21.51.19:810][394]LogSlate: Window 'M_DarkWood_AP_Inst*' being destroyed
+[2019.06.24-21.52.01:029][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.24-21.52.01:221][960]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/XavierDavis/woodBlocksContent/M_LightWood_AP_Inst.M_LightWood_AP_Inst
+[2019.06.24-21.52.11:752][728]LogSlate: Window 'M_LightWood_AP_Inst*' being destroyed
+[2019.06.24-21.52.11:758][728]LogSlate: Window 'M_LightWood_AP_Inst*' being destroyed
+[2019.06.24-21.52.11:789][728]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_LightWood_AP_Inst, compiling. 
+[2019.06.24-21.52.13:075][728]TextureStreamingBuild: Display: Compiling optional shaders took 1.290 seconds.
+[2019.06.24-21.52.28:068][701]LogSavePackage: Moving '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/StreetSceneLargeF08BA038430B819796362DA277C71972.tmp' to '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge.umap'
+[2019.06.24-21.52.28:088][701]LogEditorTransaction: Non zero active count in UTransBuffer::Reset
+ActiveCount : 2
+SessionName : 
+Reason      : Map Saved
+
+Purging the undo buffer...
+
+[2019.06.24-21.52.28:091][701]LogFileHelpers: Saving map 'StreetSceneLarge' took 3.804
+[2019.06.24-21.52.32:119][994]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Alejandro/M_helmettipes_AP_Inst1_Inst_Inst_Helmet.M_helmettipes_AP_Inst1_Inst_Inst_Helmet
+[2019.06.24-21.53.13:753][217]LogSlate: Window 'Save Asset As' being destroyed
+[2019.06.24-21.53.16:288][403]LogSlate: Window 'M_helmettipes_AP_Inst1_Inst_Inst_Helmet*' being destroyed
+[2019.06.24-21.53.16:293][403]LogSlate: Window 'M_helmettipes_AP_Inst1_Inst_Inst_Helmet*' being destroyed
+[2019.06.24-21.53.16:323][403]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_helmettipes_AP_Inst1_Inst_Inst_Helmet, compiling. 
+[2019.06.24-21.53.17:600][403]TextureStreamingBuild: Display: Compiling optional shaders took 1.282 seconds.
+[2019.06.24-21.53.34:986][694]LogSavePackage: Moving '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/StreetSceneLarge17D33E04460AA54BE708149EE4CEE929.tmp' to '../../../../../../Users/u1214728/Documents/GitHub/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge.umap'
