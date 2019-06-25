@@ -1,0 +1,1719 @@
+﻿Log file open, 06/24/19 21:01:01
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BaseCityBlock
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.152079
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.734s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1070 Ti
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.016s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.25-03.01.04:827][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.25-03.01.04:827][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.25-03.01.04:828][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.25-03.01.04:828][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.25-03.01.04:828][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.25-03.01.04:828][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.25-03.01.04:828][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.25-03.01.04:828][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.25-03.01.04:828][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.25-03.01.04:828][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.25-03.01.04:828][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.25-03.01.04:828][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.25-03.01.04:828][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.25-03.01.04:828][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.25-03.01.04:828][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.25-03.01.04:828][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.25-03.01.04:828][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.25-03.01.04:828][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.25-03.01.04:828][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.25-03.01.04:828][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.25-03.01.04:828][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.25-03.01.04:828][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.25-03.01.04:828][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.25-03.01.04:828][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.25-03.01.04:828][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.25-03.01.04:828][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.25-03.01.04:828][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.06.25-03.01.04:828][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.25-03.01.04:828][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.25-03.01.04:828][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.06.25-03.01.04:828][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.25-03.01.04:828][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.25-03.01.04:828][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.25-03.01.04:828][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.25-03.01.04:828][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.25-03.01.04:828][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.25-03.01.04:886][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.25-03.01.04:886][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.25-03.01.04:887][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.25-03.01.04:887][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.25-03.01.04:887][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.25-03.01.04:887][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.25-03.01.04:887][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.25-03.01.04:887][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.25-03.01.04:887][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-03.01.04:887][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.25-03.01.04:887][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.25-03.01.04:899][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.25-03.01.04:900][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.25-03.01.04:990][  0]LogHAL: Display: Platform has ~ 32 GB [34318262272 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.25-03.01.05:004][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.06.25-03.01.05:004][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.25-03.01.05:005][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-03.01.05:005][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.25-03.01.05:005][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.25-03.01.05:005][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-03.01.05:005][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.25-03.01.05:005][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-03.01.05:005][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.25-03.01.05:005][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.25-03.01.05:005][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.25-03.01.05:005][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.25-03.01.05:005][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.25-03.01.05:005][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.25-03.01.05:005][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.25-03.01.05:005][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.25-03.01.05:005][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.25-03.01.05:005][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.25-03.01.05:005][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.25-03.01.05:005][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.25-03.01.05:005][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.25-03.01.05:005][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.25-03.01.05:005][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.25-03.01.05:005][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.25-03.01.05:005][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.25-03.01.05:005][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.25-03.01.05:005][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-03.01.05:005][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.25-03.01.05:005][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.25-03.01.05:005][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.25-03.01.05:005][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.25-03.01.05:005][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.25-03.01.05:005][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.25-03.01.05:005][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.25-03.01.05:005][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.25-03.01.05:006][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.25-03.01.05:029][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.25-03.01.05:029][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.25-03.01.05:046][  0]LogInit: Computer: DESKTOP-H877M52
+[2019.06.25-03.01.05:046][  0]LogInit: User: Holden
+[2019.06.25-03.01.05:046][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.06.25-03.01.05:046][  0]LogInit: High frequency timer resolution =3.515628 MHz
+[2019.06.25-03.01.05:046][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2019.06.25-03.01.05:046][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.25-03.01.05:046][  0]LogMemory: Process Physical Memory: 103.08 MB used, 103.08 MB peak
+[2019.06.25-03.01.05:046][  0]LogMemory: Process Virtual Memory: 85.46 MB used, 85.46 MB peak
+[2019.06.25-03.01.05:046][  0]LogMemory: Physical Memory: 7661.39 MB used,  25067.06 MB free, 32728.45 MB total
+[2019.06.25-03.01.05:046][  0]LogMemory: Virtual Memory: 4642.54 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.06.25-03.01.05:952][  0]LogInit: Using OS detected language (en-US).
+[2019.06.25-03.01.05:952][  0]LogInit: Using OS detected locale (en-US).
+[2019.06.25-03.01.05:960][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.06.25-03.01.06:725][  0]LogStreaming: Display: Took  0.782s to InitEngineTextLocalization.
+[2019.06.25-03.01.06:741][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.25-03.01.07:275][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.25-03.01.07:275][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.25-03.01.10:108][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.25-03.01.10:108][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.25-03.01.10:183][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070 Ti' (Feature Level 11_0)
+[2019.06.25-03.01.10:183][  0]LogD3D11RHI:       8080/0/16364 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.25-03.01.10:187][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.25-03.01.10:187][  0]LogD3D11RHI:       0/0/16364 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.25-03.01.10:187][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.25-03.01.10:196][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.25-03.01.10:196][  0]LogD3D11RHI:     GPU DeviceId: 0x1b82 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.25-03.01.10:196][  0]LogWindows: EnumDisplayDevices:
+[2019.06.25-03.01.10:196][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070 Ti' (P:1 D:1)
+[2019.06.25-03.01.10:204][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2019.06.25-03.01.10:204][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2019.06.25-03.01.10:205][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070 Ti' (P:0 D:0)
+[2019.06.25-03.01.10:205][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.06.25-03.01.10:205][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070 Ti
+[2019.06.25-03.01.10:205][  0]LogD3D11RHI:   Driver Version: 430.86 (internal:26.21.14.3086, unified:430.86)
+[2019.06.25-03.01.10:205][  0]LogD3D11RHI:      Driver Date: 5-22-2019
+[2019.06.25-03.01.10:206][  0]LogRHI: Texture pool is 5656 MB (70% of 8080 MB)
+[2019.06.25-03.01.10:242][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.25-03.01.10:499][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.06.25-03.01.11:594][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.25-03.01.11:633][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.25-03.01.11:657][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.25-03.01.11:684][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.25-03.01.11:739][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.25-03.01.11:795][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.25-03.01.11:823][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.25-03.01.11:841][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.25-03.01.11:857][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.25-03.01.11:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-03.01.11:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-03.01.11:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-03.01.11:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-03.01.11:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-03.01.11:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-03.01.11:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-03.01.11:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-03.01.11:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-03.01.11:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-03.01.11:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-03.01.11:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-03.01.11:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-03.01.11:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-03.01.11:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-03.01.11:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-03.01.11:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-03.01.11:946][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.25-03.01.11:968][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.25-03.01.12:119][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.25-03.01.12:119][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.25-03.01.12:150][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.25-03.01.12:150][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.25-03.01.12:180][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.25-03.01.12:207][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.25-03.01.12:232][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.25-03.01.12:256][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.25-03.01.12:312][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.25-03.01.12:312][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.25-03.01.12:312][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.25-03.01.13:113][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Intermediate/Shaders/WorkingDirectory/6312/).
+[2019.06.25-03.01.13:113][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Holden/AppData/Local/Temp/UnrealShaderWorkingDir/57DBF96F4C5FB539FB7514BB4D676C5A/'.
+[2019.06.25-03.01.13:137][  0]LogXGEController: Cleaning working directory: C:/Users/Holden/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.25-03.01.13:137][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.25-03.01.13:137][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.25-03.01.13:137][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.25-03.01.15:573][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.25-03.01.15:765][  0]LogDerivedDataCache: Loaded boot cache 0.19s 71MB C:/Users/Holden/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.25-03.01.15:765][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Holden/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.06.25-03.01.15:765][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.25-03.01.15:765][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.25-03.01.15:765][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.25-03.01.15:765][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.25-03.01.15:827][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.25-03.01.15:827][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.25-03.01.15:827][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.25-03.01.15:840][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Holden/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.25-03.01.15:840][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.25-03.01.15:840][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.25-03.01.15:913][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.25-03.01.15:986][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.25-03.01.16:086][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.25-03.01.16:777][  0]LogAssetRegistry: FAssetRegistry took 0.0391 seconds to start up
+[2019.06.25-03.01.20:394][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.25-03.01.22:079][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.25-03.01.22:292][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.25-03.01.22:292][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.25-03.01.22:301][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.25-03.01.22:301][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.25-03.01.23:330][  0]LogNetVersion: BaseCityBlock 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 574320730)
+[2019.06.25-03.01.29:079][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.682536 seconds
+[2019.06.25-03.01.29:105][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.06.25-03.01.29:105][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.06.25-03.01.29:105][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.25-03.01.49:499][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.25-03.01.49:535][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.25-03.01.49:545][  0]FUdpSocketBuilder: Failed to bind UdpMessageMulticastSocket to 0.0.0.0:6666
+[2019.06.25-03.01.49:545][  0]FUdpSocketBuilder: Failed to configure multicast for UdpMessageMulticastSocket (loopback: 1, ttl: 1)
+[2019.06.25-03.01.49:545][  0]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2019.06.25-03.01.49:545][  0]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2019.06.25-03.01.52:507][  0]SourceControl: Source control is disabled
+[2019.06.25-03.01.52:518][  0]SourceControl: Source control is disabled
+[2019.06.25-03.01.52:726][  0]SourceControl: Source control is disabled
+[2019.06.25-03.01.52:813][  0]SourceControl: Source control is disabled
+[2019.06.25-03.01.56:113][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.25-03.01.56:635][  0]LogOcInput: OculusInput pre-init called
+[2019.06.25-03.02.00:240][  0]LogEngine: Initializing Engine...
+[2019.06.25-03.02.00:339][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.25-03.02.00:407][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.25-03.02.00:407][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.25-03.02.00:429][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.022 s
+[2019.06.25-03.02.00:429][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.25-03.02.01:354][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.25-03.02.03:064][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.25-03.02.03:489][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.25-03.02.03:509][  0]LogInit: FAudioDevice initialized.
+[2019.06.25-03.02.03:514][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.25-03.02.03:579][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/Holden/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.25-03.02.03:604][  0]LogInit: Texture streaming: Enabled
+[2019.06.25-03.02.03:779][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.25-03.02.04:081][  0]LogInit: Transaction tracking system initialized
+[2019.06.25-03.02.04:769][  0]BlueprintLog: New page: Editor Load
+[2019.06.25-03.02.06:136][  0]LocalizationService: Localization service is disabled
+[2019.06.25-03.02.07:926][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.25-03.02.07:928][  0]LogFileCache: Scanning file cache for directory 'D:/SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/' took 0.08s
+[2019.06.25-03.02.07:929][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.25-03.02.07:937][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.25-03.02.07:937][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.25-03.02.07:937][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.25-03.02.07:938][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2019.06.25-03.02.07:938][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.25-03.02.09:627][  0]SourceControl: Source control is disabled
+[2019.06.25-03.02.09:656][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.25-03.02.09:700][  0]LightingResults: New page: Lighting Build
+[2019.06.25-03.02.09:850][  0]MapCheck: New page: Map Check
+[2019.06.25-03.02.09:850][  0]LightingResults: New page: Lighting Build
+[2019.06.25-03.02.11:298][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.06.25-03.02.11:750][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.25-03.02.11:864][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.25-03.02.11:869][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.092ms to complete.
+[2019.06.25-03.02.11:879][  0]LogFileHelpers: Loading map 'Template_Default' took 2.244
+[2019.06.25-03.02.13:370][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.25-03.02.13:414][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.25-03.02.13:419][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.25-03.02.13:424][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.25-03.02.13:562][  0]LogCollectionManager: Loaded 0 collections in 0.000741 seconds
+[2019.06.25-03.02.13:723][  0]LogFileCache: Scanning file cache for directory 'D:/SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Collections/' took 0.01s
+[2019.06.25-03.02.13:723][  0]LogFileCache: Scanning file cache for directory 'D:/SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Developers/Holden/Collections/' took 0.01s
+[2019.06.25-03.02.13:723][  0]LogFileCache: Scanning file cache for directory 'D:/SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Collections/' took 0.01s
+[2019.06.25-03.02.13:723][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.06.25-03.02.13:739][  0]LogContentBrowser: Native class hierarchy populated in 0.0114 seconds. Added 2651 classes and 620 folders.
+[2019.06.25-03.02.13:846][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.06.25-03.02.13:886][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-03.02.13:919][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-03.02.13:939][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-03.02.13:948][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-03.02.13:956][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-03.02.13:964][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-03.02.13:977][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-03.02.13:987][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-03.02.14:001][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-03.02.14:011][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-03.02.14:021][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-03.02.14:032][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-03.02.14:048][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-03.02.14:059][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-03.02.14:068][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-03.02.14:077][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-03.02.14:094][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-03.02.14:107][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-03.02.14:115][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-03.02.14:124][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-03.02.14:151][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-03.02.14:155][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-03.02.14:160][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-03.02.14:175][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-03.02.14:184][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-03.02.14:208][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.25-03.02.14:732][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.25-03.02.14:763][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.06.25-03.02.15:154][  0]LogSlate: Took 0.036708 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.25-03.02.15:203][  0]LogSlate: Took 0.026907 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.25-03.02.15:252][  0]LogSlate: Took 0.012116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.25-03.02.15:721][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.06.25-03.02.16:405][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.25-03.02.16:405][  0]LogLoad: (Engine Initialization) Total time: 83.72 seconds
+[2019.06.25-03.02.16:405][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.01 seconds
+[2019.06.25-03.02.17:250][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.25-03.02.17:773][  0]LogSlate: Took 0.056435 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.25-03.02.17:926][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/' took 1.21s
+[2019.06.25-03.02.18:102][  2]LogAssetRegistry: Asset discovery search completed in 61.3496 seconds
+[2019.06.25-03.02.18:109][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.25-03.02.18:109][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000054 seconds (updated 0 objects)
+[2019.06.25-03.02.19:767][  7]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.25-03.03.01:512][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-03.03.01:799][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Mannequin/MannequinANIMATION_Anim'
+[2019.06.25-03.03.01:800][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Mannequin/MannequinANIMATION_Anim' while loading ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap.
+[2019.06.25-03.03.01:800][714]LoadErrors: Error: /Game/Brandon/StreetSceneLarge : Can't find file for asset. /Game/Wood_Blocks/Mannequin/MannequinANIMATION_Anim
+[2019.06.25-03.03.01:821][714]LogLinker: Warning: Asset '../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge_BuiltData.uasset' has been saved with engine version newer than current and therefore can't be loaded. CurrEngineVersion: 4.21.2-4753647+++UE4+Release-4.21 AssetEngineVersion: 4.22.0-5660361+++UE4+Release-4.22
+[2019.06.25-03.03.01:821][714]LogLinker: Warning: Asset '../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge_BuiltData.uasset' has been saved with engine version newer than current and therefore can't be loaded. CurrEngineVersion: 4.21.2-4753647+++UE4+Release-4.21 AssetEngineVersion: 4.22.0-5660361+++UE4+Release-4.22
+[2019.06.25-03.03.01:821][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Rail'
+[2019.06.25-03.03.01:822][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Rail' while loading ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap.
+[2019.06.25-03.03.01:831][714]LoadErrors: Error: /Game/Brandon/StreetSceneLarge : Can't find file for asset. /Game/WB_Materials/Rail
+[2019.06.25-03.03.01:831][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Cover_Block_INST'
+[2019.06.25-03.03.01:831][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Cover_Block_INST' while loading ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap.
+[2019.06.25-03.03.01:831][714]LoadErrors: Error: /Game/Brandon/StreetSceneLarge : Can't find file for asset. /Game/WB_Materials/Station_Cover_Block_INST
+[2019.06.25-03.03.01:831][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Platform_Block_INST'
+[2019.06.25-03.03.01:831][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Platform_Block_INST' while loading ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap.
+[2019.06.25-03.03.01:831][714]LoadErrors: Error: /Game/Brandon/StreetSceneLarge : Can't find file for asset. /Game/WB_Materials/Station_Platform_Block_INST
+[2019.06.25-03.03.01:832][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Support_Block_INST'
+[2019.06.25-03.03.01:832][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Support_Block_INST' while loading ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap.
+[2019.06.25-03.03.01:832][714]LoadErrors: Error: /Game/Brandon/StreetSceneLarge : Can't find file for asset. /Game/WB_Materials/Station_Support_Block_INST
+[2019.06.25-03.03.01:832][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Ticket_Box'
+[2019.06.25-03.03.01:832][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Ticket_Box' while loading ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap.
+[2019.06.25-03.03.01:832][714]LoadErrors: Error: /Game/Brandon/StreetSceneLarge : Can't find file for asset. /Game/WB_Materials/Ticket_Box
+[2019.06.25-03.03.01:832][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.01:832][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap.
+[2019.06.25-03.03.01:832][714]LoadErrors: Error: /Game/Brandon/StreetSceneLarge : Can't find file for asset. /Game/WB_Materials/Tree
+[2019.06.25-03.03.02:062][714]LogLinker: Warning: Asset '../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge_BuiltData.uasset' has been saved with engine version newer than current and therefore can't be loaded. CurrEngineVersion: 4.21.2-4753647+++UE4+Release-4.21 AssetEngineVersion: 4.22.0-5660361+++UE4+Release-4.22
+[2019.06.25-03.03.02:062][714]LogLinker: Warning: Asset '../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge_BuiltData.uasset' has been saved with engine version newer than current and therefore can't be loaded. CurrEngineVersion: 4.21.2-4753647+++UE4+Release-4.21 AssetEngineVersion: 4.22.0-5660361+++UE4+Release-4.22
+[2019.06.25-03.03.02:062][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Rail'
+[2019.06.25-03.03.02:062][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Rail' while loading ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap.
+[2019.06.25-03.03.02:062][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Cover_Block_INST'
+[2019.06.25-03.03.02:063][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Cover_Block_INST' while loading ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap.
+[2019.06.25-03.03.02:063][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Platform_Block_INST'
+[2019.06.25-03.03.02:063][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Platform_Block_INST' while loading ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap.
+[2019.06.25-03.03.02:063][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Support_Block_INST'
+[2019.06.25-03.03.02:063][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Support_Block_INST' while loading ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap.
+[2019.06.25-03.03.02:063][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Ticket_Box'
+[2019.06.25-03.03.02:063][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Ticket_Box' while loading ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap.
+[2019.06.25-03.03.02:063][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:063][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap.
+[2019.06.25-03.03.02:063][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Mannequin/MannequinANIMATION'
+[2019.06.25-03.03.02:063][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Mannequin/MannequinANIMATION' while loading ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap.
+[2019.06.25-03.03.02:064][714]LoadErrors: Error: /Game/Brandon/StreetSceneLarge : Can't find file for asset. /Game/Wood_Blocks/Mannequin/MannequinANIMATION
+[2019.06.25-03.03.02:064][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Mannequin/MannequinANIMATION_Anim'
+[2019.06.25-03.03.02:064][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Mannequin/MannequinANIMATION_Anim' while loading ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap.
+[2019.06.25-03.03.02:064][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Cover_BlocK/Station_Cover_Block'
+[2019.06.25-03.03.02:064][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Cover_BlocK/Station_Cover_Block' while loading ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap.
+[2019.06.25-03.03.02:064][714]LoadErrors: Error: /Game/Brandon/StreetSceneLarge : Can't find file for asset. /Game/Wood_Blocks/Station_Cover_BlocK/Station_Cover_Block
+[2019.06.25-03.03.02:064][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block'
+[2019.06.25-03.03.02:064][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block' while loading ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap.
+[2019.06.25-03.03.02:064][714]LoadErrors: Error: /Game/Brandon/StreetSceneLarge : Can't find file for asset. /Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block
+[2019.06.25-03.03.02:064][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Rail/Station_Rail'
+[2019.06.25-03.03.02:064][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Rail/Station_Rail' while loading ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap.
+[2019.06.25-03.03.02:065][714]LoadErrors: Error: /Game/Brandon/StreetSceneLarge : Can't find file for asset. /Game/Wood_Blocks/Station_Rail/Station_Rail
+[2019.06.25-03.03.02:065][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Ramp_Block/Station_Ramp'
+[2019.06.25-03.03.02:065][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Ramp_Block/Station_Ramp' while loading ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap.
+[2019.06.25-03.03.02:065][714]LoadErrors: Error: /Game/Brandon/StreetSceneLarge : Can't find file for asset. /Game/Wood_Blocks/Station_Ramp_Block/Station_Ramp
+[2019.06.25-03.03.02:065][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block'
+[2019.06.25-03.03.02:065][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block' while loading ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap.
+[2019.06.25-03.03.02:065][714]LoadErrors: Error: /Game/Brandon/StreetSceneLarge : Can't find file for asset. /Game/Wood_Blocks/Station_Support_Block/Station_Support_Block
+[2019.06.25-03.03.02:065][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Ticket_Box/Station_Ticket_Box'
+[2019.06.25-03.03.02:065][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Ticket_Box/Station_Ticket_Box' while loading ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap.
+[2019.06.25-03.03.02:065][714]LoadErrors: Error: /Game/Brandon/StreetSceneLarge : Can't find file for asset. /Game/Wood_Blocks/Station_Ticket_Box/Station_Ticket_Box
+[2019.06.25-03.03.02:065][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:065][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap.
+[2019.06.25-03.03.02:066][714]LoadErrors: Error: /Game/Brandon/StreetSceneLarge : Can't find file for asset. /Game/Wood_Blocks/Tree/Tree
+[2019.06.25-03.03.02:066][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Mannequin/MannequinANIMATION'
+[2019.06.25-03.03.02:067][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Mannequin/MannequinANIMATION' while loading ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap.
+[2019.06.25-03.03.02:068][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Cover_BlocK/Station_Cover_Block'
+[2019.06.25-03.03.02:068][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Cover_BlocK/Station_Cover_Block' while loading ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap.
+[2019.06.25-03.03.02:068][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block'
+[2019.06.25-03.03.02:068][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block' while loading ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap.
+[2019.06.25-03.03.02:068][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Rail/Station_Rail'
+[2019.06.25-03.03.02:068][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Rail/Station_Rail' while loading ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap.
+[2019.06.25-03.03.02:068][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Ramp_Block/Station_Ramp'
+[2019.06.25-03.03.02:069][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Ramp_Block/Station_Ramp' while loading ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap.
+[2019.06.25-03.03.02:069][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block'
+[2019.06.25-03.03.02:069][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block' while loading ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap.
+[2019.06.25-03.03.02:069][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Ticket_Box/Station_Ticket_Box'
+[2019.06.25-03.03.02:069][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Ticket_Box/Station_Ticket_Box' while loading ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap.
+[2019.06.25-03.03.02:069][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:069][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading ../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap.
+[2019.06.25-03.03.02:135][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Mannequin/MannequinANIMATION_Anim'
+[2019.06.25-03.03.02:135][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Mannequin/MannequinANIMATION_Anim' while loading NULL.
+[2019.06.25-03.03.02:135][714]LogLinker: Warning: Asset '../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge_BuiltData.uasset' has been saved with engine version newer than current and therefore can't be loaded. CurrEngineVersion: 4.21.2-4753647+++UE4+Release-4.21 AssetEngineVersion: 4.22.0-5660361+++UE4+Release-4.22
+[2019.06.25-03.03.02:136][714]LogLinker: Warning: Asset '../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge_BuiltData.uasset' has been saved with engine version newer than current and therefore can't be loaded. CurrEngineVersion: 4.21.2-4753647+++UE4+Release-4.21 AssetEngineVersion: 4.22.0-5660361+++UE4+Release-4.22
+[2019.06.25-03.03.02:136][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Rail'
+[2019.06.25-03.03.02:136][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Rail' while loading NULL.
+[2019.06.25-03.03.02:136][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Cover_Block_INST'
+[2019.06.25-03.03.02:136][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Cover_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:136][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Platform_Block_INST'
+[2019.06.25-03.03.02:136][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Platform_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:136][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Support_Block_INST'
+[2019.06.25-03.03.02:136][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Support_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:136][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Ticket_Box'
+[2019.06.25-03.03.02:137][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Ticket_Box' while loading NULL.
+[2019.06.25-03.03.02:137][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:137][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:137][714]LogLinker: Warning: Asset '../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge_BuiltData.uasset' has been saved with engine version newer than current and therefore can't be loaded. CurrEngineVersion: 4.21.2-4753647+++UE4+Release-4.21 AssetEngineVersion: 4.22.0-5660361+++UE4+Release-4.22
+[2019.06.25-03.03.02:137][714]LogLinker: Warning: Asset '../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge_BuiltData.uasset' has been saved with engine version newer than current and therefore can't be loaded. CurrEngineVersion: 4.21.2-4753647+++UE4+Release-4.21 AssetEngineVersion: 4.22.0-5660361+++UE4+Release-4.22
+[2019.06.25-03.03.02:137][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Rail'
+[2019.06.25-03.03.02:138][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Rail' while loading NULL.
+[2019.06.25-03.03.02:138][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Cover_Block_INST'
+[2019.06.25-03.03.02:138][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Cover_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:138][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Platform_Block_INST'
+[2019.06.25-03.03.02:138][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Platform_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:138][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Support_Block_INST'
+[2019.06.25-03.03.02:138][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Support_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:138][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Ticket_Box'
+[2019.06.25-03.03.02:138][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Ticket_Box' while loading NULL.
+[2019.06.25-03.03.02:138][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:138][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:138][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Mannequin/MannequinANIMATION'
+[2019.06.25-03.03.02:138][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Mannequin/MannequinANIMATION' while loading NULL.
+[2019.06.25-03.03.02:139][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Mannequin/MannequinANIMATION_Anim'
+[2019.06.25-03.03.02:139][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Mannequin/MannequinANIMATION_Anim' while loading NULL.
+[2019.06.25-03.03.02:139][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Cover_BlocK/Station_Cover_Block'
+[2019.06.25-03.03.02:139][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Cover_BlocK/Station_Cover_Block' while loading NULL.
+[2019.06.25-03.03.02:139][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block'
+[2019.06.25-03.03.02:139][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block' while loading NULL.
+[2019.06.25-03.03.02:139][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Rail/Station_Rail'
+[2019.06.25-03.03.02:139][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Rail/Station_Rail' while loading NULL.
+[2019.06.25-03.03.02:139][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Ramp_Block/Station_Ramp'
+[2019.06.25-03.03.02:139][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Ramp_Block/Station_Ramp' while loading NULL.
+[2019.06.25-03.03.02:139][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block'
+[2019.06.25-03.03.02:139][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block' while loading NULL.
+[2019.06.25-03.03.02:139][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Ticket_Box/Station_Ticket_Box'
+[2019.06.25-03.03.02:140][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Ticket_Box/Station_Ticket_Box' while loading NULL.
+[2019.06.25-03.03.02:140][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:140][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:140][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Mannequin/MannequinANIMATION'
+[2019.06.25-03.03.02:140][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Mannequin/MannequinANIMATION' while loading NULL.
+[2019.06.25-03.03.02:140][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Cover_BlocK/Station_Cover_Block'
+[2019.06.25-03.03.02:140][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Cover_BlocK/Station_Cover_Block' while loading NULL.
+[2019.06.25-03.03.02:140][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block'
+[2019.06.25-03.03.02:140][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block' while loading NULL.
+[2019.06.25-03.03.02:140][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Rail/Station_Rail'
+[2019.06.25-03.03.02:140][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Rail/Station_Rail' while loading NULL.
+[2019.06.25-03.03.02:140][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Ramp_Block/Station_Ramp'
+[2019.06.25-03.03.02:140][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Ramp_Block/Station_Ramp' while loading NULL.
+[2019.06.25-03.03.02:141][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block'
+[2019.06.25-03.03.02:141][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block' while loading NULL.
+[2019.06.25-03.03.02:141][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Ticket_Box/Station_Ticket_Box'
+[2019.06.25-03.03.02:141][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Ticket_Box/Station_Ticket_Box' while loading NULL.
+[2019.06.25-03.03.02:141][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:141][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:173][714]LogLinker: Warning: Asset '../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge_BuiltData.uasset' has been saved with engine version newer than current and therefore can't be loaded. CurrEngineVersion: 4.21.2-4753647+++UE4+Release-4.21 AssetEngineVersion: 4.22.0-5660361+++UE4+Release-4.22
+[2019.06.25-03.03.02:173][714]LogLinker: Warning: Asset '../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge_BuiltData.uasset' has been saved with engine version newer than current and therefore can't be loaded. CurrEngineVersion: 4.21.2-4753647+++UE4+Release-4.21 AssetEngineVersion: 4.22.0-5660361+++UE4+Release-4.22
+[2019.06.25-03.03.02:173][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Mannequin/MannequinANIMATION_Anim'
+[2019.06.25-03.03.02:174][714]LoadErrors: Failed to load /Game/Wood_Blocks/Mannequin/MannequinANIMATION_Anim.MannequinANIMATION_Anim Referenced by MannequinANIMATION_Anim2
+[2019.06.25-03.03.02:174][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Mannequin/MannequinANIMATION_Anim' while loading NULL.
+[2019.06.25-03.03.02:174][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Mannequin/MannequinANIMATION'
+[2019.06.25-03.03.02:174][714]LoadErrors: Failed to load /Game/Wood_Blocks/Mannequin/MannequinANIMATION.MannequinANIMATION Referenced by MannequinANIMATION_Anim2
+[2019.06.25-03.03.02:174][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Mannequin/MannequinANIMATION' while loading NULL.
+[2019.06.25-03.03.02:174][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Mannequin/MannequinANIMATION_Anim'
+[2019.06.25-03.03.02:174][714]LoadErrors: Failed to load /Game/Wood_Blocks/Mannequin/MannequinANIMATION_Anim.MannequinANIMATION_Anim Referenced by MannequinANIMATION_Anim_5
+[2019.06.25-03.03.02:174][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Mannequin/MannequinANIMATION_Anim' while loading NULL.
+[2019.06.25-03.03.02:174][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Mannequin/MannequinANIMATION'
+[2019.06.25-03.03.02:174][714]LoadErrors: Failed to load /Game/Wood_Blocks/Mannequin/MannequinANIMATION.MannequinANIMATION Referenced by MannequinANIMATION_Anim_5
+[2019.06.25-03.03.02:174][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Mannequin/MannequinANIMATION' while loading NULL.
+[2019.06.25-03.03.02:180][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Cover_BlocK/Station_Cover_Block'
+[2019.06.25-03.03.02:180][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Cover_BlocK/Station_Cover_Block.Station_Cover_Block Referenced by Station_Cover_Block2
+[2019.06.25-03.03.02:180][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Cover_BlocK/Station_Cover_Block' while loading NULL.
+[2019.06.25-03.03.02:180][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Cover_Block_INST'
+[2019.06.25-03.03.02:180][714]LoadErrors: Failed to load /Game/WB_Materials/Station_Cover_Block_INST.Station_Cover_Block_INST Referenced by Station_Cover_Block2
+[2019.06.25-03.03.02:180][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Cover_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:181][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Cover_BlocK/Station_Cover_Block'
+[2019.06.25-03.03.02:181][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Cover_BlocK/Station_Cover_Block.Station_Cover_Block Referenced by Station_Cover_Block3
+[2019.06.25-03.03.02:181][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Cover_BlocK/Station_Cover_Block' while loading NULL.
+[2019.06.25-03.03.02:181][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Cover_Block_INST'
+[2019.06.25-03.03.02:181][714]LoadErrors: Failed to load /Game/WB_Materials/Station_Cover_Block_INST.Station_Cover_Block_INST Referenced by Station_Cover_Block3
+[2019.06.25-03.03.02:181][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Cover_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:181][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Cover_BlocK/Station_Cover_Block'
+[2019.06.25-03.03.02:181][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Cover_BlocK/Station_Cover_Block.Station_Cover_Block Referenced by Station_Cover_Block4
+[2019.06.25-03.03.02:181][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Cover_BlocK/Station_Cover_Block' while loading NULL.
+[2019.06.25-03.03.02:181][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Cover_Block_INST'
+[2019.06.25-03.03.02:181][714]LoadErrors: Failed to load /Game/WB_Materials/Station_Cover_Block_INST.Station_Cover_Block_INST Referenced by Station_Cover_Block4
+[2019.06.25-03.03.02:181][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Cover_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:182][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Cover_BlocK/Station_Cover_Block'
+[2019.06.25-03.03.02:182][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Cover_BlocK/Station_Cover_Block.Station_Cover_Block Referenced by Station_Cover_Block_43
+[2019.06.25-03.03.02:182][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Cover_BlocK/Station_Cover_Block' while loading NULL.
+[2019.06.25-03.03.02:182][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Cover_Block_INST'
+[2019.06.25-03.03.02:182][714]LoadErrors: Failed to load /Game/WB_Materials/Station_Cover_Block_INST.Station_Cover_Block_INST Referenced by Station_Cover_Block_43
+[2019.06.25-03.03.02:182][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Cover_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:182][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block'
+[2019.06.25-03.03.02:182][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block.Station_Platform_Block Referenced by Station_Platform_Block2
+[2019.06.25-03.03.02:182][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block' while loading NULL.
+[2019.06.25-03.03.02:182][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Platform_Block_INST'
+[2019.06.25-03.03.02:182][714]LoadErrors: Failed to load /Game/WB_Materials/Station_Platform_Block_INST.Station_Platform_Block_INST Referenced by Station_Platform_Block2
+[2019.06.25-03.03.02:183][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Platform_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:183][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block'
+[2019.06.25-03.03.02:183][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block.Station_Platform_Block Referenced by Station_Platform_Block3
+[2019.06.25-03.03.02:183][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block' while loading NULL.
+[2019.06.25-03.03.02:183][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Platform_Block_INST'
+[2019.06.25-03.03.02:183][714]LoadErrors: Failed to load /Game/WB_Materials/Station_Platform_Block_INST.Station_Platform_Block_INST Referenced by Station_Platform_Block3
+[2019.06.25-03.03.02:183][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Platform_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:183][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block'
+[2019.06.25-03.03.02:183][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block.Station_Platform_Block Referenced by Station_Platform_Block4
+[2019.06.25-03.03.02:183][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block' while loading NULL.
+[2019.06.25-03.03.02:184][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Platform_Block_INST'
+[2019.06.25-03.03.02:184][714]LoadErrors: Failed to load /Game/WB_Materials/Station_Platform_Block_INST.Station_Platform_Block_INST Referenced by Station_Platform_Block4
+[2019.06.25-03.03.02:184][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Platform_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:184][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block'
+[2019.06.25-03.03.02:184][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block.Station_Platform_Block Referenced by Station_Platform_Block5_34
+[2019.06.25-03.03.02:184][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block' while loading NULL.
+[2019.06.25-03.03.02:184][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Platform_Block_INST'
+[2019.06.25-03.03.02:184][714]LoadErrors: Failed to load /Game/WB_Materials/Station_Platform_Block_INST.Station_Platform_Block_INST Referenced by Station_Platform_Block5_34
+[2019.06.25-03.03.02:184][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Platform_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:184][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block'
+[2019.06.25-03.03.02:185][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block.Station_Platform_Block Referenced by Station_Platform_Block6
+[2019.06.25-03.03.02:185][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block' while loading NULL.
+[2019.06.25-03.03.02:185][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Platform_Block_INST'
+[2019.06.25-03.03.02:185][714]LoadErrors: Failed to load /Game/WB_Materials/Station_Platform_Block_INST.Station_Platform_Block_INST Referenced by Station_Platform_Block6
+[2019.06.25-03.03.02:185][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Platform_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:185][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block'
+[2019.06.25-03.03.02:185][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block.Station_Platform_Block Referenced by Station_Platform_Block7_35
+[2019.06.25-03.03.02:185][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block' while loading NULL.
+[2019.06.25-03.03.02:185][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Platform_Block_INST'
+[2019.06.25-03.03.02:185][714]LoadErrors: Failed to load /Game/WB_Materials/Station_Platform_Block_INST.Station_Platform_Block_INST Referenced by Station_Platform_Block7_35
+[2019.06.25-03.03.02:186][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Platform_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:186][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block'
+[2019.06.25-03.03.02:186][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block.Station_Platform_Block Referenced by Station_Platform_Block8
+[2019.06.25-03.03.02:186][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block' while loading NULL.
+[2019.06.25-03.03.02:186][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Platform_Block_INST'
+[2019.06.25-03.03.02:186][714]LoadErrors: Failed to load /Game/WB_Materials/Station_Platform_Block_INST.Station_Platform_Block_INST Referenced by Station_Platform_Block8
+[2019.06.25-03.03.02:186][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Platform_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:186][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block'
+[2019.06.25-03.03.02:186][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block.Station_Platform_Block Referenced by Station_Platform_Block9
+[2019.06.25-03.03.02:187][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Platform_Block/Station_Platform_Block' while loading NULL.
+[2019.06.25-03.03.02:187][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Platform_Block_INST'
+[2019.06.25-03.03.02:187][714]LoadErrors: Failed to load /Game/WB_Materials/Station_Platform_Block_INST.Station_Platform_Block_INST Referenced by Station_Platform_Block9
+[2019.06.25-03.03.02:187][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Platform_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:187][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Rail/Station_Rail'
+[2019.06.25-03.03.02:187][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Rail/Station_Rail.Station_Rail Referenced by Station_Rail10
+[2019.06.25-03.03.02:187][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Rail/Station_Rail' while loading NULL.
+[2019.06.25-03.03.02:187][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Rail'
+[2019.06.25-03.03.02:187][714]LoadErrors: Failed to load /Game/WB_Materials/Rail.Rail Referenced by Station_Rail10
+[2019.06.25-03.03.02:187][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Rail' while loading NULL.
+[2019.06.25-03.03.02:188][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Rail/Station_Rail'
+[2019.06.25-03.03.02:188][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Rail/Station_Rail.Station_Rail Referenced by Station_Rail2
+[2019.06.25-03.03.02:188][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Rail/Station_Rail' while loading NULL.
+[2019.06.25-03.03.02:188][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Rail'
+[2019.06.25-03.03.02:188][714]LoadErrors: Failed to load /Game/WB_Materials/Rail.Rail Referenced by Station_Rail2
+[2019.06.25-03.03.02:188][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Rail' while loading NULL.
+[2019.06.25-03.03.02:188][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Rail/Station_Rail'
+[2019.06.25-03.03.02:188][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Rail/Station_Rail.Station_Rail Referenced by Station_Rail3
+[2019.06.25-03.03.02:188][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Rail/Station_Rail' while loading NULL.
+[2019.06.25-03.03.02:189][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Rail'
+[2019.06.25-03.03.02:189][714]LoadErrors: Failed to load /Game/WB_Materials/Rail.Rail Referenced by Station_Rail3
+[2019.06.25-03.03.02:189][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Rail' while loading NULL.
+[2019.06.25-03.03.02:189][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Rail/Station_Rail'
+[2019.06.25-03.03.02:189][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Rail/Station_Rail.Station_Rail Referenced by Station_Rail4
+[2019.06.25-03.03.02:189][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Rail/Station_Rail' while loading NULL.
+[2019.06.25-03.03.02:189][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Rail'
+[2019.06.25-03.03.02:189][714]LoadErrors: Failed to load /Game/WB_Materials/Rail.Rail Referenced by Station_Rail4
+[2019.06.25-03.03.02:189][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Rail' while loading NULL.
+[2019.06.25-03.03.02:190][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Rail/Station_Rail'
+[2019.06.25-03.03.02:190][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Rail/Station_Rail.Station_Rail Referenced by Station_Rail5
+[2019.06.25-03.03.02:190][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Rail/Station_Rail' while loading NULL.
+[2019.06.25-03.03.02:190][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Rail'
+[2019.06.25-03.03.02:190][714]LoadErrors: Failed to load /Game/WB_Materials/Rail.Rail Referenced by Station_Rail5
+[2019.06.25-03.03.02:190][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Rail' while loading NULL.
+[2019.06.25-03.03.02:190][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Rail/Station_Rail'
+[2019.06.25-03.03.02:190][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Rail/Station_Rail.Station_Rail Referenced by Station_Rail6
+[2019.06.25-03.03.02:190][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Rail/Station_Rail' while loading NULL.
+[2019.06.25-03.03.02:191][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Rail'
+[2019.06.25-03.03.02:191][714]LoadErrors: Failed to load /Game/WB_Materials/Rail.Rail Referenced by Station_Rail6
+[2019.06.25-03.03.02:191][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Rail' while loading NULL.
+[2019.06.25-03.03.02:191][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Rail/Station_Rail'
+[2019.06.25-03.03.02:191][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Rail/Station_Rail.Station_Rail Referenced by Station_Rail7
+[2019.06.25-03.03.02:191][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Rail/Station_Rail' while loading NULL.
+[2019.06.25-03.03.02:191][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Rail'
+[2019.06.25-03.03.02:191][714]LoadErrors: Failed to load /Game/WB_Materials/Rail.Rail Referenced by Station_Rail7
+[2019.06.25-03.03.02:191][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Rail' while loading NULL.
+[2019.06.25-03.03.02:192][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Rail/Station_Rail'
+[2019.06.25-03.03.02:192][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Rail/Station_Rail.Station_Rail Referenced by Station_Rail8
+[2019.06.25-03.03.02:192][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Rail/Station_Rail' while loading NULL.
+[2019.06.25-03.03.02:192][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Rail'
+[2019.06.25-03.03.02:192][714]LoadErrors: Failed to load /Game/WB_Materials/Rail.Rail Referenced by Station_Rail8
+[2019.06.25-03.03.02:192][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Rail' while loading NULL.
+[2019.06.25-03.03.02:192][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Rail/Station_Rail'
+[2019.06.25-03.03.02:192][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Rail/Station_Rail.Station_Rail Referenced by Station_Rail9
+[2019.06.25-03.03.02:192][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Rail/Station_Rail' while loading NULL.
+[2019.06.25-03.03.02:193][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Rail'
+[2019.06.25-03.03.02:193][714]LoadErrors: Failed to load /Game/WB_Materials/Rail.Rail Referenced by Station_Rail9
+[2019.06.25-03.03.02:193][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Rail' while loading NULL.
+[2019.06.25-03.03.02:193][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Rail/Station_Rail'
+[2019.06.25-03.03.02:193][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Rail/Station_Rail.Station_Rail Referenced by Station_Rail_6
+[2019.06.25-03.03.02:193][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Rail/Station_Rail' while loading NULL.
+[2019.06.25-03.03.02:193][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Rail'
+[2019.06.25-03.03.02:193][714]LoadErrors: Failed to load /Game/WB_Materials/Rail.Rail Referenced by Station_Rail_6
+[2019.06.25-03.03.02:193][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Rail' while loading NULL.
+[2019.06.25-03.03.02:194][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Ramp_Block/Station_Ramp'
+[2019.06.25-03.03.02:194][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Ramp_Block/Station_Ramp.Station_Ramp Referenced by Station_Ramp2
+[2019.06.25-03.03.02:194][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Ramp_Block/Station_Ramp' while loading NULL.
+[2019.06.25-03.03.02:194][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Platform_Block_INST'
+[2019.06.25-03.03.02:194][714]LoadErrors: Failed to load /Game/WB_Materials/Station_Platform_Block_INST.Station_Platform_Block_INST Referenced by Station_Ramp2
+[2019.06.25-03.03.02:194][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Platform_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:194][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Ramp_Block/Station_Ramp'
+[2019.06.25-03.03.02:195][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Ramp_Block/Station_Ramp.Station_Ramp Referenced by Station_Ramp_18
+[2019.06.25-03.03.02:195][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Ramp_Block/Station_Ramp' while loading NULL.
+[2019.06.25-03.03.02:195][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Platform_Block_INST'
+[2019.06.25-03.03.02:195][714]LoadErrors: Failed to load /Game/WB_Materials/Station_Platform_Block_INST.Station_Platform_Block_INST Referenced by Station_Ramp_18
+[2019.06.25-03.03.02:195][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Platform_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:195][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block'
+[2019.06.25-03.03.02:195][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Support_Block/Station_Support_Block.Station_Support_Block Referenced by Station_Support_Block10
+[2019.06.25-03.03.02:195][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block' while loading NULL.
+[2019.06.25-03.03.02:196][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Support_Block_INST'
+[2019.06.25-03.03.02:196][714]LoadErrors: Failed to load /Game/WB_Materials/Station_Support_Block_INST.Station_Support_Block_INST Referenced by Station_Support_Block10
+[2019.06.25-03.03.02:196][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Support_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:196][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block'
+[2019.06.25-03.03.02:196][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Support_Block/Station_Support_Block.Station_Support_Block Referenced by Station_Support_Block11
+[2019.06.25-03.03.02:196][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block' while loading NULL.
+[2019.06.25-03.03.02:196][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Support_Block_INST'
+[2019.06.25-03.03.02:196][714]LoadErrors: Failed to load /Game/WB_Materials/Station_Support_Block_INST.Station_Support_Block_INST Referenced by Station_Support_Block11
+[2019.06.25-03.03.02:196][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Support_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:197][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block'
+[2019.06.25-03.03.02:197][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Support_Block/Station_Support_Block.Station_Support_Block Referenced by Station_Support_Block12
+[2019.06.25-03.03.02:197][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block' while loading NULL.
+[2019.06.25-03.03.02:197][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Support_Block_INST'
+[2019.06.25-03.03.02:197][714]LoadErrors: Failed to load /Game/WB_Materials/Station_Support_Block_INST.Station_Support_Block_INST Referenced by Station_Support_Block12
+[2019.06.25-03.03.02:197][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Support_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:197][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block'
+[2019.06.25-03.03.02:197][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Support_Block/Station_Support_Block.Station_Support_Block Referenced by Station_Support_Block2
+[2019.06.25-03.03.02:198][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block' while loading NULL.
+[2019.06.25-03.03.02:198][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Support_Block_INST'
+[2019.06.25-03.03.02:198][714]LoadErrors: Failed to load /Game/WB_Materials/Station_Support_Block_INST.Station_Support_Block_INST Referenced by Station_Support_Block2
+[2019.06.25-03.03.02:198][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Support_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:198][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block'
+[2019.06.25-03.03.02:198][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Support_Block/Station_Support_Block.Station_Support_Block Referenced by Station_Support_Block3
+[2019.06.25-03.03.02:198][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block' while loading NULL.
+[2019.06.25-03.03.02:199][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Support_Block_INST'
+[2019.06.25-03.03.02:199][714]LoadErrors: Failed to load /Game/WB_Materials/Station_Support_Block_INST.Station_Support_Block_INST Referenced by Station_Support_Block3
+[2019.06.25-03.03.02:199][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Support_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:199][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block'
+[2019.06.25-03.03.02:199][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Support_Block/Station_Support_Block.Station_Support_Block Referenced by Station_Support_Block4
+[2019.06.25-03.03.02:199][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block' while loading NULL.
+[2019.06.25-03.03.02:199][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Support_Block_INST'
+[2019.06.25-03.03.02:199][714]LoadErrors: Failed to load /Game/WB_Materials/Station_Support_Block_INST.Station_Support_Block_INST Referenced by Station_Support_Block4
+[2019.06.25-03.03.02:200][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Support_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:200][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block'
+[2019.06.25-03.03.02:200][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Support_Block/Station_Support_Block.Station_Support_Block Referenced by Station_Support_Block5
+[2019.06.25-03.03.02:200][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block' while loading NULL.
+[2019.06.25-03.03.02:200][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Support_Block_INST'
+[2019.06.25-03.03.02:200][714]LoadErrors: Failed to load /Game/WB_Materials/Station_Support_Block_INST.Station_Support_Block_INST Referenced by Station_Support_Block5
+[2019.06.25-03.03.02:200][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Support_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:201][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block'
+[2019.06.25-03.03.02:201][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Support_Block/Station_Support_Block.Station_Support_Block Referenced by Station_Support_Block6
+[2019.06.25-03.03.02:201][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block' while loading NULL.
+[2019.06.25-03.03.02:201][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Support_Block_INST'
+[2019.06.25-03.03.02:201][714]LoadErrors: Failed to load /Game/WB_Materials/Station_Support_Block_INST.Station_Support_Block_INST Referenced by Station_Support_Block6
+[2019.06.25-03.03.02:201][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Support_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:201][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block'
+[2019.06.25-03.03.02:202][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Support_Block/Station_Support_Block.Station_Support_Block Referenced by Station_Support_Block7
+[2019.06.25-03.03.02:202][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block' while loading NULL.
+[2019.06.25-03.03.02:202][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Support_Block_INST'
+[2019.06.25-03.03.02:202][714]LoadErrors: Failed to load /Game/WB_Materials/Station_Support_Block_INST.Station_Support_Block_INST Referenced by Station_Support_Block7
+[2019.06.25-03.03.02:202][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Support_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:202][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block'
+[2019.06.25-03.03.02:202][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Support_Block/Station_Support_Block.Station_Support_Block Referenced by Station_Support_Block8
+[2019.06.25-03.03.02:202][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block' while loading NULL.
+[2019.06.25-03.03.02:203][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Support_Block_INST'
+[2019.06.25-03.03.02:203][714]LoadErrors: Failed to load /Game/WB_Materials/Station_Support_Block_INST.Station_Support_Block_INST Referenced by Station_Support_Block8
+[2019.06.25-03.03.02:203][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Support_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:203][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block'
+[2019.06.25-03.03.02:203][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Support_Block/Station_Support_Block.Station_Support_Block Referenced by Station_Support_Block9
+[2019.06.25-03.03.02:203][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block' while loading NULL.
+[2019.06.25-03.03.02:204][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Support_Block_INST'
+[2019.06.25-03.03.02:204][714]LoadErrors: Failed to load /Game/WB_Materials/Station_Support_Block_INST.Station_Support_Block_INST Referenced by Station_Support_Block9
+[2019.06.25-03.03.02:204][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Support_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:204][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block'
+[2019.06.25-03.03.02:204][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Support_Block/Station_Support_Block.Station_Support_Block Referenced by Station_Support_Block_46
+[2019.06.25-03.03.02:204][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Support_Block/Station_Support_Block' while loading NULL.
+[2019.06.25-03.03.02:205][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Station_Support_Block_INST'
+[2019.06.25-03.03.02:205][714]LoadErrors: Failed to load /Game/WB_Materials/Station_Support_Block_INST.Station_Support_Block_INST Referenced by Station_Support_Block_46
+[2019.06.25-03.03.02:205][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Station_Support_Block_INST' while loading NULL.
+[2019.06.25-03.03.02:205][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Ticket_Box/Station_Ticket_Box'
+[2019.06.25-03.03.02:205][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Ticket_Box/Station_Ticket_Box.Station_Ticket_Box Referenced by Station_Ticket_Box2
+[2019.06.25-03.03.02:205][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Ticket_Box/Station_Ticket_Box' while loading NULL.
+[2019.06.25-03.03.02:205][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Ticket_Box'
+[2019.06.25-03.03.02:206][714]LoadErrors: Failed to load /Game/WB_Materials/Ticket_Box.Ticket_Box Referenced by Station_Ticket_Box2
+[2019.06.25-03.03.02:206][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Ticket_Box' while loading NULL.
+[2019.06.25-03.03.02:206][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Station_Ticket_Box/Station_Ticket_Box'
+[2019.06.25-03.03.02:206][714]LoadErrors: Failed to load /Game/Wood_Blocks/Station_Ticket_Box/Station_Ticket_Box.Station_Ticket_Box Referenced by Station_Ticket_Box_38
+[2019.06.25-03.03.02:206][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Station_Ticket_Box/Station_Ticket_Box' while loading NULL.
+[2019.06.25-03.03.02:206][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Ticket_Box'
+[2019.06.25-03.03.02:206][714]LoadErrors: Failed to load /Game/WB_Materials/Ticket_Box.Ticket_Box Referenced by Station_Ticket_Box_38
+[2019.06.25-03.03.02:206][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Ticket_Box' while loading NULL.
+[2019.06.25-03.03.02:209][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:209][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree10
+[2019.06.25-03.03.02:209][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:209][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:209][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree10
+[2019.06.25-03.03.02:209][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:210][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:210][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree11
+[2019.06.25-03.03.02:210][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:210][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:210][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree11
+[2019.06.25-03.03.02:210][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:210][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:210][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree12
+[2019.06.25-03.03.02:211][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:211][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:211][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree12
+[2019.06.25-03.03.02:211][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:211][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:211][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree13
+[2019.06.25-03.03.02:212][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:212][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:212][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree13
+[2019.06.25-03.03.02:212][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:212][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:212][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree14
+[2019.06.25-03.03.02:212][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:213][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:213][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree14
+[2019.06.25-03.03.02:213][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:213][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:213][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree15
+[2019.06.25-03.03.02:213][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:213][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:214][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree15
+[2019.06.25-03.03.02:214][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:214][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:214][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree16
+[2019.06.25-03.03.02:214][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:214][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:214][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree16
+[2019.06.25-03.03.02:215][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:215][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:215][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree17
+[2019.06.25-03.03.02:215][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:215][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:215][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree17
+[2019.06.25-03.03.02:215][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:216][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:216][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree18
+[2019.06.25-03.03.02:216][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:216][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:216][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree18
+[2019.06.25-03.03.02:216][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:217][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:217][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree19
+[2019.06.25-03.03.02:217][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:217][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:217][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree19
+[2019.06.25-03.03.02:217][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:218][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:218][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree2
+[2019.06.25-03.03.02:218][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:218][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:218][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree2
+[2019.06.25-03.03.02:218][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:218][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:219][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree20
+[2019.06.25-03.03.02:219][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:219][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:219][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree20
+[2019.06.25-03.03.02:219][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:219][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:220][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree21
+[2019.06.25-03.03.02:220][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:220][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:220][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree21
+[2019.06.25-03.03.02:220][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:220][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:220][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree22
+[2019.06.25-03.03.02:221][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:221][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:221][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree22
+[2019.06.25-03.03.02:221][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:221][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:221][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree23
+[2019.06.25-03.03.02:222][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:222][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:222][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree23
+[2019.06.25-03.03.02:222][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:222][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:223][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree24
+[2019.06.25-03.03.02:223][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:223][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:223][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree24
+[2019.06.25-03.03.02:223][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:223][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:224][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree25
+[2019.06.25-03.03.02:224][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:224][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:224][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree25
+[2019.06.25-03.03.02:224][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:224][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:225][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree26
+[2019.06.25-03.03.02:225][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:225][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:225][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree26
+[2019.06.25-03.03.02:225][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:225][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:226][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree27
+[2019.06.25-03.03.02:226][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:226][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:226][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree27
+[2019.06.25-03.03.02:226][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:226][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:227][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree28
+[2019.06.25-03.03.02:227][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:227][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:227][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree28
+[2019.06.25-03.03.02:227][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:227][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:228][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree29
+[2019.06.25-03.03.02:228][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:228][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:228][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree29
+[2019.06.25-03.03.02:228][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:228][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:229][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree3
+[2019.06.25-03.03.02:229][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:229][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:229][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree3
+[2019.06.25-03.03.02:229][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:230][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:230][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree30
+[2019.06.25-03.03.02:230][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:230][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:230][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree30
+[2019.06.25-03.03.02:230][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:231][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:231][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree31
+[2019.06.25-03.03.02:231][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:231][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:231][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree31
+[2019.06.25-03.03.02:231][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:232][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:232][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree32
+[2019.06.25-03.03.02:232][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:232][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:232][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree32
+[2019.06.25-03.03.02:233][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:233][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:233][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree33
+[2019.06.25-03.03.02:233][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:233][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:234][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree33
+[2019.06.25-03.03.02:234][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:234][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:234][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree34
+[2019.06.25-03.03.02:234][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:235][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:235][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree34
+[2019.06.25-03.03.02:235][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:235][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:235][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree35
+[2019.06.25-03.03.02:235][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:236][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:236][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree35
+[2019.06.25-03.03.02:236][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:236][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:236][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree36
+[2019.06.25-03.03.02:237][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:237][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:237][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree36
+[2019.06.25-03.03.02:237][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:237][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:238][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree37
+[2019.06.25-03.03.02:238][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:238][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:238][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree37
+[2019.06.25-03.03.02:238][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:239][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:239][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree38
+[2019.06.25-03.03.02:239][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:239][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:239][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree38
+[2019.06.25-03.03.02:240][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:240][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:240][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree39
+[2019.06.25-03.03.02:240][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:240][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:241][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree39
+[2019.06.25-03.03.02:241][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:241][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:241][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree4
+[2019.06.25-03.03.02:241][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:242][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:242][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree4
+[2019.06.25-03.03.02:242][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:242][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:242][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree40
+[2019.06.25-03.03.02:243][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:243][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:243][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree40
+[2019.06.25-03.03.02:243][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:243][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:244][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree41
+[2019.06.25-03.03.02:244][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:244][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:244][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree41
+[2019.06.25-03.03.02:244][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:245][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:245][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree42
+[2019.06.25-03.03.02:245][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:245][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:246][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree42
+[2019.06.25-03.03.02:246][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:246][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:246][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree43
+[2019.06.25-03.03.02:246][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:247][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:247][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree43
+[2019.06.25-03.03.02:247][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:247][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:247][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree44
+[2019.06.25-03.03.02:248][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:248][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:248][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree44
+[2019.06.25-03.03.02:248][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:249][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:249][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree45
+[2019.06.25-03.03.02:249][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:249][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:249][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree45
+[2019.06.25-03.03.02:249][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:250][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:250][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree46
+[2019.06.25-03.03.02:250][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:250][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:251][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree46
+[2019.06.25-03.03.02:251][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:251][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:251][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree47
+[2019.06.25-03.03.02:251][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:252][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:252][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree47
+[2019.06.25-03.03.02:252][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:252][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:253][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree48
+[2019.06.25-03.03.02:253][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:253][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:253][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree48
+[2019.06.25-03.03.02:253][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:254][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:254][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree49
+[2019.06.25-03.03.02:254][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:254][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:255][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree49
+[2019.06.25-03.03.02:255][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:255][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:255][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree5
+[2019.06.25-03.03.02:255][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:256][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:256][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree5
+[2019.06.25-03.03.02:256][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:256][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:257][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree50
+[2019.06.25-03.03.02:257][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:257][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:257][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree50
+[2019.06.25-03.03.02:257][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:258][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:258][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree51
+[2019.06.25-03.03.02:258][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:258][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:259][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree51
+[2019.06.25-03.03.02:259][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:259][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:259][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree52
+[2019.06.25-03.03.02:259][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:260][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:260][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree52
+[2019.06.25-03.03.02:260][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:260][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:261][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree53
+[2019.06.25-03.03.02:261][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:261][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:261][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree53
+[2019.06.25-03.03.02:261][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:262][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:262][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree54
+[2019.06.25-03.03.02:262][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:262][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:263][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree54
+[2019.06.25-03.03.02:263][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:263][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:263][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree55
+[2019.06.25-03.03.02:263][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:264][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:264][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree55
+[2019.06.25-03.03.02:264][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:264][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:265][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree56
+[2019.06.25-03.03.02:265][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:265][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:265][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree56
+[2019.06.25-03.03.02:265][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:266][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:266][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree57
+[2019.06.25-03.03.02:266][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:267][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:267][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree57
+[2019.06.25-03.03.02:267][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:267][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:268][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree58
+[2019.06.25-03.03.02:268][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:268][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:268][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree58
+[2019.06.25-03.03.02:268][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:269][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:269][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree59
+[2019.06.25-03.03.02:269][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:269][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:270][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree59
+[2019.06.25-03.03.02:270][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:270][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:270][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree6
+[2019.06.25-03.03.02:270][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:271][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:271][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree6
+[2019.06.25-03.03.02:271][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:272][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:272][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree60
+[2019.06.25-03.03.02:272][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:272][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:273][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree60
+[2019.06.25-03.03.02:273][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:273][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:273][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree61
+[2019.06.25-03.03.02:273][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:274][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:274][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree61
+[2019.06.25-03.03.02:274][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:274][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:275][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree62
+[2019.06.25-03.03.02:275][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:275][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:275][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree62
+[2019.06.25-03.03.02:276][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:276][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:276][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree63
+[2019.06.25-03.03.02:276][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:277][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:277][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree63
+[2019.06.25-03.03.02:277][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:277][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:278][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree64
+[2019.06.25-03.03.02:278][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:278][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:278][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree64
+[2019.06.25-03.03.02:279][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:279][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:279][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree65
+[2019.06.25-03.03.02:279][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:280][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:280][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree65
+[2019.06.25-03.03.02:280][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:281][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:281][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree66
+[2019.06.25-03.03.02:281][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:281][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:282][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree66
+[2019.06.25-03.03.02:282][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:282][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:282][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree7
+[2019.06.25-03.03.02:282][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:283][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:283][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree7
+[2019.06.25-03.03.02:283][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:284][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:284][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree8
+[2019.06.25-03.03.02:284][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:284][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:285][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree8
+[2019.06.25-03.03.02:285][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:285][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:285][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree9
+[2019.06.25-03.03.02:285][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:286][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:286][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree9
+[2019.06.25-03.03.02:286][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.02:287][714]LogLinker: Warning: Can't find file '/Game/Wood_Blocks/Tree/Tree'
+[2019.06.25-03.03.02:287][714]LoadErrors: Failed to load /Game/Wood_Blocks/Tree/Tree.Tree Referenced by Tree_72
+[2019.06.25-03.03.02:287][714]LogLinker: Warning: Can't find file for asset '/Game/Wood_Blocks/Tree/Tree' while loading NULL.
+[2019.06.25-03.03.02:287][714]LogLinker: Warning: Can't find file '/Game/WB_Materials/Tree'
+[2019.06.25-03.03.02:288][714]LoadErrors: Failed to load /Game/WB_Materials/Tree.Tree Referenced by Tree_72
+[2019.06.25-03.03.02:288][714]LogLinker: Warning: Can't find file for asset '/Game/WB_Materials/Tree' while loading NULL.
+[2019.06.25-03.03.03:378][714]LogTexture: Display: Building textures: streetLines001 (AutoDXT, 2048X2048)
+[2019.06.25-03.03.03:378][714]LogTexture: Display: Building textures: WoodTexture004 (AutoDXT, 2048X2048)
+[2019.06.25-03.03.03:378][714]LogTexture: Display: Building textures: N_WoodTexture001_AP (BGRA8, 2299X2299)
+[2019.06.25-03.03.03:378][714]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock_AP, compiling. 
+[2019.06.25-03.03.03:569][714]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.06.25-03.03.03:569][714]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.06.25-03.03.03:656][714]LogStaticMesh: Building static mesh streetBlocks100X100X20...
+[2019.06.25-03.03.03:758][714]LogStaticMesh: Built static mesh [0.10s] /Game/StreetBlocks/streetBlocks100X100X20.streetBlocks100X100X20
+[2019.06.25-03.03.03:879][714]LogStaticMesh: Building static mesh streetBlocks50RCorner...
+[2019.06.25-03.03.03:882][714]LogStaticMesh: Built static mesh [0.00s] /Game/StreetBlocks/streetBlocks50RCorner.streetBlocks50RCorner
+[2019.06.25-03.03.03:886][714]LogStaticMesh: Building static mesh streetBlocks100X50X30...
+[2019.06.25-03.03.03:889][714]LogStaticMesh: Built static mesh [0.00s] /Game/StreetBlocks/streetBlocks100X50X30.streetBlocks100X50X30
+[2019.06.25-03.03.03:892][714]LogStaticMesh: Building static mesh streetBlocks50X50X20...
+[2019.06.25-03.03.03:893][714]LogStaticMesh: Built static mesh [0.00s] /Game/StreetBlocks/streetBlocks50X50X20.streetBlocks50X50X20
+[2019.06.25-03.03.03:896][714]LogStaticMesh: Building static mesh streetBlocks100X50X20...
+[2019.06.25-03.03.03:899][714]LogStaticMesh: Built static mesh [0.00s] /Game/StreetBlocks/streetBlocks100X50X20.streetBlocks100X50X20
+[2019.06.25-03.03.03:903][714]LogStaticMesh: Building static mesh streetBlocks100X100X30...
+[2019.06.25-03.03.03:904][714]LogStaticMesh: Built static mesh [0.00s] /Game/StreetBlocks/streetBlocks100X100X30.streetBlocks100X100X30
+[2019.06.25-03.03.03:927][714]LogAIModule: Creating AISystem for world StreetSceneLarge
+[2019.06.25-03.03.04:112][714]LogAssetEditorManager: Opening Asset editor for World /Game/Brandon/StreetSceneLarge.StreetSceneLarge
+[2019.06.25-03.03.04:261][714]Cmd: MAP LOAD FILE="../../../../../SummerAssetPipeClass/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Brandon/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.25-03.03.04:261][714]LightingResults: New page: Lighting Build
+[2019.06.25-03.03.04:262][714]LoadErrors: New page: Loading map: StreetSceneLarge.umap
+[2019.06.25-03.03.04:322][714]MapCheck: New page: Map Check
+[2019.06.25-03.03.04:322][714]LightingResults: New page: Lighting Build
+[2019.06.25-03.03.04:647][714]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.25-03.03.04:730][714]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.25-03.03.04:731][714]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.158ms to complete.
+[2019.06.25-03.03.04:731][714]LogFileHelpers: Loading map 'StreetSceneLarge' took 0.551
+[2019.06.25-03.03.06:492][870]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.06.25-03.03.07:225][954]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.06.25-03.03.08:431][ 96]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.06.25-03.03.08:722][131]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.25-03.03.10:198][308]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.25-03.05.22:797][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlockBase8)
+[2019.06.25-03.05.24:660][653]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.25-03.05.38:251][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-03.06.00:617][902]LogSlate: Window 'BaseCityBlock - Unreal Editor' being destroyed
+[2019.06.25-03.06.00:618][902]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.25-03.06.01:069][903]Cmd: QUIT_EDITOR
+[2019.06.25-03.06.01:350][903]LogExit: Preparing to exit.
+[2019.06.25-03.06.02:185][903]LogExit: Editor shut down
+[2019.06.25-03.06.02:185][903]LogExit: Transaction tracking system shut down
+[2019.06.25-03.06.03:510][903]LogExit: Object subsystem successfully closed.
+[2019.06.25-03.06.03:627][903]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.06.25-03.06.03:646][903]LogD3D11RHI: Shutdown
+[2019.06.25-03.06.03:646][903]LogD3D11RHI: CleanupD3DDevice
+[2019.06.25-03.06.03:697][903]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.06.25-03.06.04:867][903]LogModuleManager: Shutting down and abandoning module MeshBuilder (626)
+[2019.06.25-03.06.04:867][903]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (624)
+[2019.06.25-03.06.04:867][903]LogModuleManager: Shutting down and abandoning module SceneOutliner (622)
+[2019.06.25-03.06.04:876][903]LogModuleManager: Shutting down and abandoning module AddContentDialog (620)
+[2019.06.25-03.06.04:888][903]LogModuleManager: Shutting down and abandoning module WidgetCarousel (619)
+[2019.06.25-03.06.04:888][903]LogModuleManager: Shutting down and abandoning module EditorWidgets (616)
+[2019.06.25-03.06.04:888][903]LogModuleManager: Shutting down and abandoning module CollectionManager (614)
+[2019.06.25-03.06.04:895][903]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (612)
+[2019.06.25-03.06.04:901][903]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.06.25-03.06.04:913][903]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.06.25-03.06.04:916][903]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.06.25-03.06.04:928][903]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.06.25-03.06.04:939][903]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.06.25-03.06.04:939][903]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.06.25-03.06.04:939][903]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.06.25-03.06.04:939][903]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.06.25-03.06.04:939][903]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.06.25-03.06.04:939][903]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.06.25-03.06.04:953][903]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.06.25-03.06.04:959][903]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.06.25-03.06.04:959][903]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.06.25-03.06.04:960][903]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.06.25-03.06.04:965][903]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.06.25-03.06.04:986][903]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.06.25-03.06.04:986][903]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.06.25-03.06.05:018][903]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.06.25-03.06.05:018][903]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.06.25-03.06.05:018][903]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.06.25-03.06.05:018][903]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.06.25-03.06.05:018][903]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.06.25-03.06.05:037][903]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.06.25-03.06.05:049][903]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.06.25-03.06.05:063][903]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.06.25-03.06.05:063][903]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.06.25-03.06.05:064][903]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.06.25-03.06.05:064][903]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.06.25-03.06.05:064][903]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.06.25-03.06.05:064][903]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.06.25-03.06.05:064][903]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.06.25-03.06.05:064][903]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.06.25-03.06.05:064][903]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.06.25-03.06.05:064][903]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.06.25-03.06.05:064][903]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.06.25-03.06.05:064][903]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.06.25-03.06.05:064][903]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.06.25-03.06.05:064][903]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.06.25-03.06.05:064][903]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.06.25-03.06.05:064][903]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.06.25-03.06.05:064][903]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.06.25-03.06.05:080][903]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.06.25-03.06.05:090][903]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.06.25-03.06.05:103][903]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.06.25-03.06.05:121][903]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.06.25-03.06.05:127][903]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.06.25-03.06.05:127][903]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.06.25-03.06.05:127][903]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.06.25-03.06.05:127][903]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.06.25-03.06.05:127][903]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.06.25-03.06.05:769][903]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.06.25-03.06.05:769][903]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.06.25-03.06.05:769][903]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.06.25-03.06.05:769][903]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.06.25-03.06.05:769][903]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.06.25-03.06.05:769][903]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.06.25-03.06.05:791][903]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.06.25-03.06.05:810][903]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.06.25-03.06.05:820][903]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.06.25-03.06.05:828][903]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.06.25-03.06.05:829][903]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.06.25-03.06.05:842][903]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.06.25-03.06.05:857][903]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.06.25-03.06.05:857][903]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.06.25-03.06.05:865][903]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.06.25-03.06.05:865][903]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.06.25-03.06.05:865][903]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.06.25-03.06.05:865][903]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.06.25-03.06.05:874][903]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.06.25-03.06.05:880][903]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.06.25-03.06.05:890][903]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.06.25-03.06.05:895][903]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.06.25-03.06.05:905][903]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.06.25-03.06.05:959][903]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.06.25-03.06.05:965][903]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.06.25-03.06.05:972][903]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.06.25-03.06.05:983][903]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.06.25-03.06.05:983][903]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.06.25-03.06.05:983][903]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.06.25-03.06.05:993][903]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.06.25-03.06.06:009][903]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.06.25-03.06.06:009][903]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.06.25-03.06.06:015][903]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.06.25-03.06.06:036][903]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.06.25-03.06.06:055][903]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.06.25-03.06.06:055][903]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.06.25-03.06.06:055][903]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.06.25-03.06.06:062][903]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.06.25-03.06.06:062][903]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.06.25-03.06.06:062][903]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.06.25-03.06.06:070][903]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.06.25-03.06.06:070][903]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.06.25-03.06.06:070][903]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.06.25-03.06.06:081][903]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.06.25-03.06.06:091][903]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.06.25-03.06.06:092][903]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.06.25-03.06.06:092][903]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.06.25-03.06.06:092][903]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.06.25-03.06.06:092][903]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.06.25-03.06.06:092][903]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.06.25-03.06.06:112][903]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.06.25-03.06.06:121][903]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.06.25-03.06.06:130][903]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.06.25-03.06.06:130][903]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.06.25-03.06.06:139][903]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.06.25-03.06.06:141][903]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.06.25-03.06.06:277][903]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.06.25-03.06.06:291][903]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.06.25-03.06.06:291][903]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.06.25-03.06.06:291][903]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.06.25-03.06.06:300][903]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.06.25-03.06.06:300][903]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.06.25-03.06.06:300][903]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.06.25-03.06.06:309][903]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.06.25-03.06.06:309][903]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.06.25-03.06.06:317][903]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.06.25-03.06.06:317][903]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.06.25-03.06.06:317][903]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.06.25-03.06.06:317][903]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.06.25-03.06.06:322][903]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.06.25-03.06.06:332][903]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.06.25-03.06.06:332][903]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.06.25-03.06.06:332][903]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.06.25-03.06.06:336][903]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.06.25-03.06.06:336][903]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.06.25-03.06.06:336][903]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.06.25-03.06.06:336][903]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.06.25-03.06.06:342][903]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.06.25-03.06.06:342][903]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.06.25-03.06.06:342][903]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.06.25-03.06.06:342][903]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.06.25-03.06.06:342][903]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.06.25-03.06.06:342][903]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.06.25-03.06.06:342][903]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.06.25-03.06.06:342][903]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.06.25-03.06.06:342][903]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.06.25-03.06.06:346][903]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.06.25-03.06.06:346][903]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.06.25-03.06.06:366][903]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.06.25-03.06.06:376][903]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.06.25-03.06.06:376][903]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.06.25-03.06.06:384][903]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.06.25-03.06.06:396][903]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.06.25-03.06.06:396][903]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.06.25-03.06.06:396][903]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.06.25-03.06.06:396][903]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.06.25-03.06.06:396][903]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.06.25-03.06.06:416][903]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.06.25-03.06.06:430][903]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.06.25-03.06.06:438][903]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.06.25-03.06.06:438][903]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.06.25-03.06.06:446][903]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.06.25-03.06.06:446][903]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.06.25-03.06.06:446][903]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.06.25-03.06.06:446][903]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.06.25-03.06.06:446][903]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.06.25-03.06.06:450][903]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.06.25-03.06.06:462][903]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.06.25-03.06.06:468][903]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.06.25-03.06.06:468][903]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.06.25-03.06.06:468][903]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.06.25-03.06.06:468][903]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.06.25-03.06.06:478][903]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.06.25-03.06.06:478][903]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.06.25-03.06.06:478][903]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.06.25-03.06.06:585][903]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.06.25-03.06.06:700][903]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.06.25-03.06.06:700][903]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.06.25-03.06.06:704][903]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.06.25-03.06.06:704][903]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.06.25-03.06.06:704][903]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.06.25-03.06.06:704][903]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.06.25-03.06.06:722][903]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.06.25-03.06.06:733][903]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.06.25-03.06.06:749][903]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.06.25-03.06.06:749][903]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.06.25-03.06.06:749][903]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.06.25-03.06.06:757][903]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.06.25-03.06.06:758][903]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.06.25-03.06.06:764][903]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.06.25-03.06.06:764][903]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.06.25-03.06.06:764][903]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.06.25-03.06.06:772][903]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.06.25-03.06.06:782][903]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.06.25-03.06.06:782][903]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.06.25-03.06.06:788][903]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.06.25-03.06.06:794][903]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.06.25-03.06.06:794][903]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.06.25-03.06.06:794][903]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.06.25-03.06.06:812][903]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.06.25-03.06.06:812][903]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.06.25-03.06.06:812][903]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.06.25-03.06.06:812][903]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.06.25-03.06.06:837][903]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.06.25-03.06.06:855][903]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.06.25-03.06.06:855][903]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.06.25-03.06.06:869][903]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.06.25-03.06.06:874][903]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.06.25-03.06.06:894][903]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.06.25-03.06.06:894][903]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.06.25-03.06.06:904][903]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.06.25-03.06.06:934][903]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.06.25-03.06.06:961][903]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.06.25-03.06.06:969][903]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.06.25-03.06.06:993][903]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.06.25-03.06.06:993][903]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.06.25-03.06.06:994][903]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.06.25-03.06.07:012][903]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.06.25-03.06.07:012][903]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.06.25-03.06.07:012][903]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.06.25-03.06.07:012][903]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.06.25-03.06.07:012][903]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.06.25-03.06.07:012][903]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.06.25-03.06.07:012][903]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.06.25-03.06.07:012][903]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.06.25-03.06.07:017][903]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.06.25-03.06.07:027][903]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.06.25-03.06.07:027][903]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.06.25-03.06.07:037][903]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.06.25-03.06.07:052][903]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.06.25-03.06.07:052][903]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.06.25-03.06.07:059][903]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.06.25-03.06.07:066][903]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.06.25-03.06.07:066][903]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.06.25-03.06.07:126][903]LogDerivedDataCache: Shutdown
+[2019.06.25-03.06.07:126][903]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.06.25-03.06.07:132][903]LogXGEController: Cleaning working directory: C:/Users/Holden/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.25-03.06.07:132][903]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.06.25-03.06.07:132][903]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.06.25-03.06.07:149][903]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.06.25-03.06.07:165][903]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.06.25-03.06.07:172][903]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.06.25-03.06.07:172][903]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.06.25-03.06.07:187][903]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.06.25-03.06.07:187][903]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.06.25-03.06.07:187][903]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.06.25-03.06.07:187][903]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.06.25-03.06.07:198][903]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.06.25-03.06.07:198][903]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.06.25-03.06.07:198][903]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.06.25-03.06.07:198][903]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.06.25-03.06.07:198][903]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.06.25-03.06.07:198][903]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.06.25-03.06.07:198][903]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.06.25-03.06.07:203][903]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.06.25-03.06.07:203][903]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.06.25-03.06.07:203][903]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.06.25-03.06.07:203][903]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.06.25-03.06.07:203][903]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.06.25-03.06.07:209][903]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.06.25-03.06.07:209][903]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.06.25-03.06.07:210][903]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.06.25-03.06.07:210][903]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.06.25-03.06.07:213][903]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.06.25-03.06.07:213][903]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.06.25-03.06.07:213][903]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.06.25-03.06.07:214][903]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.06.25-03.06.07:214][903]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.06.25-03.06.07:214][903]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.06.25-03.06.07:214][903]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.06.25-03.06.07:214][903]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.06.25-03.06.07:214][903]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.06.25-03.06.07:214][903]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.06.25-03.06.07:214][903]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.06.25-03.06.07:214][903]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.06.25-03.06.07:214][903]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.06.25-03.06.07:219][903]LogHMD: Freeing OpenVRDLLHandle.
+[2019.06.25-03.06.07:219][903]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.06.25-03.06.07:229][903]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.06.25-03.06.07:229][903]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.06.25-03.06.07:229][903]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.06.25-03.06.07:229][903]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.06.25-03.06.07:247][903]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.06.25-03.06.07:275][903]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.06.25-03.06.07:326][903]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.06.25-03.06.07:326][903]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.06.25-03.06.07:326][903]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B99949679-4206-8197-FC88-109F4B66A9E1%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=1aeef7e3437424f2135f47b1449ca29f%7Cace8522f6aa64cae987dde2d049bb804%7C6b7c609c-3f1a-49eb-92d5-e6102cca0584&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.06.25-03.06.07:333][903]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.06.25-03.06.07:334][903]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.06.25-03.06.07:334][903]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.06.25-03.06.07:334][903]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.06.25-03.06.07:334][903]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.06.25-03.06.07:334][903]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.06.25-03.06.07:334][903]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.06.25-03.06.07:334][903]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.06.25-03.06.07:334][903]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.06.25-03.06.07:334][903]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.06.25-03.06.07:357][903]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.06.25-03.06.07:357][903]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.06.25-03.06.07:371][903]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.06.25-03.06.07:373][903]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.06.25-03.06.07:398][903]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.06.25-03.06.07:398][903]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.06.25-03.06.07:398][903]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.06.25-03.06.07:398][903]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.06.25-03.06.07:405][903]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.06.25-03.06.07:410][903]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.06.25-03.06.07:410][903]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.06.25-03.06.07:416][903]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.06.25-03.06.07:416][903]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.06.25-03.06.07:416][903]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.06.25-03.06.07:416][903]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.06.25-03.06.07:434][903]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.06.25-03.06.07:434][903]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.06.25-03.06.07:442][903]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.06.25-03.06.07:442][903]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.06.25-03.06.07:459][903]LogExit: Exiting.
+[2019.06.25-03.06.07:476][903]Log file closed, 06/24/19 21:06:07
