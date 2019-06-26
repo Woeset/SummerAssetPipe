@@ -1,0 +1,1194 @@
+﻿Log file open, 06/26/19 13:20:58
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BaseCityBlock
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.984556
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.108s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.26-19.20.59:687][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.26-19.20.59:687][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.26-19.20.59:688][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.26-19.20.59:688][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.26-19.20.59:688][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.26-19.20.59:688][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.26-19.20.59:688][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.26-19.20.59:688][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.26-19.20.59:688][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.26-19.20.59:688][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.26-19.20.59:688][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.26-19.20.59:688][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.26-19.20.59:688][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.26-19.20.59:688][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.26-19.20.59:688][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.26-19.20.59:688][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.26-19.20.59:688][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.26-19.20.59:688][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.26-19.20.59:688][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.26-19.20.59:688][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.26-19.20.59:688][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.26-19.20.59:688][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.26-19.20.59:688][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.26-19.20.59:688][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.26-19.20.59:688][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.26-19.20.59:688][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.26-19.20.59:688][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.06.26-19.20.59:688][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.26-19.20.59:688][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.26-19.20.59:688][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.06.26-19.20.59:688][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.26-19.20.59:688][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.26-19.20.59:688][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.26-19.20.59:688][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.26-19.20.59:688][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.26-19.20.59:688][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.26-19.20.59:697][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.26-19.20.59:697][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.26-19.20.59:698][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.26-19.20.59:699][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.26-19.20.59:699][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.26-19.20.59:724][  0]LogHAL: Display: Platform has ~ 16 GB [17057812480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.26-19.20.59:724][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.06.26-19.20.59:724][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.26-19.20.59:725][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [C:/Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [C:/Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [C:/Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [C:/Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [C:/Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [C:/Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2019.06.26-19.20.59:725][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.06.26-19.20.59:726][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.06.26-19.20.59:726][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2019.06.26-19.20.59:726][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2019.06.26-19.20.59:726][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.06.26-19.20.59:726][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.06.26-19.20.59:726][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.26-19.20.59:726][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2019.06.26-19.20.59:726][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.06.26-19.20.59:726][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [C:/Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Scalability.ini]
+[2019.06.26-19.20.59:726][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2019.06.26-19.20.59:726][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2019.06.26-19.20.59:726][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.26-19.20.59:730][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.26-19.20.59:730][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Config/Windows/Engine.ini]
+[2019.06.26-19.20.59:732][  0]LogInit: Computer: LAPTOP-PQO8S6FS
+[2019.06.26-19.20.59:732][  0]LogInit: User: alexs
+[2019.06.26-19.20.59:732][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.06.26-19.20.59:732][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.06.26-19.20.59:733][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.06.26-19.20.59:733][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.26-19.20.59:733][  0]LogMemory: Process Physical Memory: 103.07 MB used, 103.08 MB peak
+[2019.06.26-19.20.59:733][  0]LogMemory: Process Virtual Memory: 89.94 MB used, 89.94 MB peak
+[2019.06.26-19.20.59:733][  0]LogMemory: Physical Memory: 8736.20 MB used,  7531.40 MB free, 16267.60 MB total
+[2019.06.26-19.20.59:733][  0]LogMemory: Virtual Memory: 4649.39 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.06.26-19.21.00:029][  0]LogInit: Using OS detected language (en-US).
+[2019.06.26-19.21.00:029][  0]LogInit: Using OS detected locale (en-US).
+[2019.06.26-19.21.00:033][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.06.26-19.21.00:670][  0]LogStreaming: Display: Took  0.641s to InitEngineTextLocalization.
+[2019.06.26-19.21.00:671][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.26-19.21.00:797][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.26-19.21.00:797][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.26-19.21.03:536][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.26-19.21.03:536][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.26-19.21.03:649][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.06.26-19.21.03:649][  0]LogD3D11RHI:       6052/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.26-19.21.03:671][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.06.26-19.21.03:671][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.06.26-19.21.03:673][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.26-19.21.03:673][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.26-19.21.03:673][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.26-19.21.03:683][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.26-19.21.03:683][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.26-19.21.03:683][  0]LogWindows: EnumDisplayDevices:
+[2019.06.26-19.21.03:683][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2019.06.26-19.21.03:684][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.06.26-19.21.03:684][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.06.26-19.21.03:684][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2019.06.26-19.21.03:685][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2019.06.26-19.21.03:685][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.06.26-19.21.03:685][  0]LogD3D11RHI:   Driver Version: 430.39 (internal:26.21.14.3039, unified:430.39)
+[2019.06.26-19.21.03:685][  0]LogD3D11RHI:      Driver Date: 4-17-2019
+[2019.06.26-19.21.03:686][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.06.26-19.21.03:736][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.26-19.21.03:812][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.06.26-19.21.04:630][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.26-19.21.04:643][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.26-19.21.04:661][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.26-19.21.04:676][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.26-19.21.04:699][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.26-19.21.04:713][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.26-19.21.04:730][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.26-19.21.04:746][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.26-19.21.04:756][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.26-19.21.04:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-19.21.04:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-19.21.04:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-19.21.04:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-19.21.04:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-19.21.04:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-19.21.04:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-19.21.04:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-19.21.04:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-19.21.04:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-19.21.04:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-19.21.04:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-19.21.04:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-19.21.04:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-19.21.04:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-19.21.04:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-19.21.04:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-19.21.04:854][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.26-19.21.04:860][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.26-19.21.04:938][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.26-19.21.04:938][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.26-19.21.04:963][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.26-19.21.04:963][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.26-19.21.04:978][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.26-19.21.04:992][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.26-19.21.05:005][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.26-19.21.05:030][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.26-19.21.05:089][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.26-19.21.05:089][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.26-19.21.05:089][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.26-19.21.05:305][  0]LogShaderCompilers: Guid format shader working directory is -45 characters bigger than the processId version (../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Intermediate/Shaders/WorkingDirectory/4276/).
+[2019.06.26-19.21.05:305][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alexs/AppData/Local/Temp/UnrealShaderWorkingDir/F016E42E49559BDF1A637F81ADE5756E/'.
+[2019.06.26-19.21.05:309][  0]LogXGEController: Cleaning working directory: C:/Users/alexs/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.26-19.21.05:309][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.26-19.21.05:309][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.26-19.21.05:309][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.26-19.21.07:387][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.26-19.21.07:712][  0]LogDerivedDataCache: Loaded boot cache 0.32s 71MB C:/Users/alexs/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.26-19.21.07:712][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/alexs/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.06.26-19.21.07:712][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.26-19.21.07:712][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.26-19.21.07:712][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.26-19.21.07:713][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.26-19.21.07:741][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.26-19.21.07:741][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.26-19.21.07:741][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.26-19.21.07:754][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alexs/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.26-19.21.07:754][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.26-19.21.07:754][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.26-19.21.07:783][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.26-19.21.07:795][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.26-19.21.07:817][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.26-19.21.08:427][  0]LogAssetRegistry: FAssetRegistry took 0.0379 seconds to start up
+[2019.06.26-19.21.09:023][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.26-19.21.09:467][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.26-19.21.09:488][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.26-19.21.09:488][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.26-19.21.09:489][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.26-19.21.09:489][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.26-19.21.09:583][  0]LogNetVersion: BaseCityBlock 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 574320730)
+[2019.06.26-19.21.11:015][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.150289 seconds
+[2019.06.26-19.21.11:027][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.06.26-19.21.11:027][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.06.26-19.21.11:027][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.26-19.21.15:783][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.26-19.21.15:801][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.26-19.21.16:765][  0]SourceControl: Source control is disabled
+[2019.06.26-19.21.16:766][  0]SourceControl: Source control is disabled
+[2019.06.26-19.21.16:779][  0]SourceControl: Source control is disabled
+[2019.06.26-19.21.16:783][  0]SourceControl: Source control is disabled
+[2019.06.26-19.21.17:135][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.26-19.21.17:264][  0]LogOcInput: OculusInput pre-init called
+[2019.06.26-19.21.17:538][  0]LogEngine: Initializing Engine...
+[2019.06.26-19.21.17:541][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.26-19.21.17:546][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.001 s
+[2019.06.26-19.21.17:546][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.26-19.21.17:547][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2019.06.26-19.21.17:547][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.26-19.21.17:851][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.26-19.21.17:925][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.26-19.21.17:995][  0]LogInit: XAudio2 using 'Headset Earphone (HyperX Virtual Surround Sound)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.06.26-19.21.18:026][  0]LogInit: FAudioDevice initialized.
+[2019.06.26-19.21.18:027][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.26-19.21.18:251][  0]LogDerivedDataCache: Saved boot cache 0.22s 71MB C:/Users/alexs/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.26-19.21.18:266][  0]LogInit: Texture streaming: Enabled
+[2019.06.26-19.21.18:299][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.26-19.21.18:337][  0]LogInit: Transaction tracking system initialized
+[2019.06.26-19.21.18:407][  0]BlueprintLog: New page: Editor Load
+[2019.06.26-19.21.18:633][  0]LocalizationService: Localization service is disabled
+[2019.06.26-19.21.19:849][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.26-19.21.19:850][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.26-19.21.19:851][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.26-19.21.19:851][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.26-19.21.19:851][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/' took 0.03s
+[2019.06.26-19.21.19:851][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.26-19.21.19:851][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.26-19.21.19:851][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.26-19.21.20:219][  0]SourceControl: Source control is disabled
+[2019.06.26-19.21.20:221][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.26-19.21.20:223][  0]LightingResults: New page: Lighting Build
+[2019.06.26-19.21.20:240][  0]MapCheck: New page: Map Check
+[2019.06.26-19.21.20:240][  0]LightingResults: New page: Lighting Build
+[2019.06.26-19.21.20:545][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.06.26-19.21.20:590][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.26-19.21.20:623][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.26-19.21.20:624][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.145ms to complete.
+[2019.06.26-19.21.20:624][  0]LogFileHelpers: Loading map 'Template_Default' took 0.404
+[2019.06.26-19.21.20:828][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-19.21.20:839][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-19.21.20:847][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-19.21.20:856][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.26-19.21.20:878][  0]LogCollectionManager: Loaded 0 collections in 0.002823 seconds
+[2019.06.26-19.21.20:938][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/Collections/' took 0.01s
+[2019.06.26-19.21.20:938][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Developers/alexs/Collections/' took 0.01s
+[2019.06.26-19.21.20:938][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Collections/' took 0.01s
+[2019.06.26-19.21.20:938][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.06.26-19.21.20:954][  0]LogContentBrowser: Native class hierarchy populated in 0.0127 seconds. Added 2651 classes and 620 folders.
+[2019.06.26-19.21.20:971][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.06.26-19.21.20:991][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-19.21.21:000][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-19.21.21:019][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-19.21.21:025][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-19.21.21:030][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-19.21.21:036][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-19.21.21:044][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-19.21.21:049][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-19.21.21:056][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-19.21.21:062][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-19.21.21:068][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-19.21.21:075][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-19.21.21:083][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-19.21.21:088][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-19.21.21:093][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-19.21.21:098][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-19.21.21:122][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-19.21.21:127][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-19.21.21:131][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-19.21.21:137][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-19.21.21:163][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-19.21.21:169][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-19.21.21:178][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-19.21.21:184][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-19.21.21:190][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-19.21.21:195][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.26-19.21.21:412][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.26-19.21.21:424][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.06.26-19.21.21:609][  0]LogSlate: Took 0.006073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.26-19.21.23:929][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.06.26-19.21.23:987][  0]LogSlate: Took 0.007747 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.26-19.21.24:004][  0]LogSlate: Took 0.005806 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.26-19.21.24:187][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.BaseCityBlock
+[2019.06.26-19.21.24:187][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.06.26-19.21.24:187][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2019.06.26-19.21.24:187][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2019.06.26-19.21.24:187][  0]LogTemp: BranchPath = LAPTOP-PQO8S6FS/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = LAPTOP-PQO8S6FS/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2019.06.26-19.21.24:187][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\alexs\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2019.06.26-19.21.24:187][  0]LogRenderer: Reallocating scene render targets to support 1132x576 Format 9 NumSamples 1 (Frame:1).
+[2019.06.26-19.21.24:390][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.06.26-19.21.24:390][  0]LogLoad: (Engine Initialization) Total time: 30.63 seconds
+[2019.06.26-19.21.24:390][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.26-19.21.24:515][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.06.26-19.21.24:575][  0]LogSlate: Took 0.007876 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.26-19.21.27:146][139]LogAssetRegistry: Asset discovery search completed in 18.7431 seconds
+[2019.06.26-19.21.27:149][139]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.06.26-19.21.27:149][139]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000651 seconds (updated 0 objects)
+[2019.06.26-19.21.29:612][287]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/' took 5.18s
+[2019.06.26-19.21.36:703][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-19.21.37:040][726]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.26-19.21.37:161][726]LogStaticMesh: Building static mesh streetBlocks100X100X30...
+[2019.06.26-19.21.37:170][726]LogTexture: Display: Building textures: streetLines001 (AutoDXT, 2048X2048)
+[2019.06.26-19.21.37:170][726]LogStaticMesh: Built static mesh [0.01s] /Game/StreetBlocks/streetBlocks100X100X30.streetBlocks100X100X30
+[2019.06.26-19.21.37:178][726]LogStaticMesh: Building static mesh streetBlocks50X50X20...
+[2019.06.26-19.21.37:180][726]LogStaticMesh: Built static mesh [0.00s] /Game/StreetBlocks/streetBlocks50X50X20.streetBlocks50X50X20
+[2019.06.26-19.21.37:186][726]LogStaticMesh: Building static mesh streetBlocks100X50X20...
+[2019.06.26-19.21.37:192][726]LogStaticMesh: Built static mesh [0.01s] /Game/StreetBlocks/streetBlocks100X50X20.streetBlocks100X50X20
+[2019.06.26-19.21.37:197][726]LogStaticMesh: Building static mesh streetBlocks50RCorner...
+[2019.06.26-19.21.37:204][726]LogStaticMesh: Built static mesh [0.01s] /Game/StreetBlocks/streetBlocks50RCorner.streetBlocks50RCorner
+[2019.06.26-19.21.37:223][726]LogStaticMesh: Building static mesh streetBlocks100X50X30...
+[2019.06.26-19.21.37:229][726]LogStaticMesh: Built static mesh [0.01s] /Game/StreetBlocks/streetBlocks100X50X30.streetBlocks100X50X30
+[2019.06.26-19.21.37:234][726]LogStaticMesh: Building static mesh streetBlocks100X100X20...
+[2019.06.26-19.21.37:243][726]LogStaticMesh: Built static mesh [0.01s] /Game/StreetBlocks/streetBlocks100X100X20.streetBlocks100X100X20
+[2019.06.26-19.21.38:413][726]LogTexture: Display: Building textures: WoodTexture004 (AutoDXT, 2048X2048)
+[2019.06.26-19.21.38:414][726]LogTexture: Display: Building textures: N_WoodTexture001_AP (BGRA8, 2299X2299)
+[2019.06.26-19.21.38:414][726]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock_AP, compiling. 
+[2019.06.26-19.21.38:539][726]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.06.26-19.21.38:540][726]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.06.26-19.21.38:540][726]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.06.26-19.21.38:540][726]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.06.26-19.21.38:543][726]LogAIModule: Creating AISystem for world StreetSceneLarge2
+[2019.06.26-19.21.38:554][726]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge2.StreetSceneLarge2
+[2019.06.26-19.21.38:597][726]Cmd: MAP LOAD FILE="../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.26-19.21.38:597][726]LightingResults: New page: Lighting Build
+[2019.06.26-19.21.38:597][726]LoadErrors: New page: Loading map: StreetSceneLarge2.umap
+[2019.06.26-19.21.38:601][726]MapCheck: New page: Map Check
+[2019.06.26-19.21.38:601][726]LightingResults: New page: Lighting Build
+[2019.06.26-19.21.38:655][726]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.26-19.21.38:738][726]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.26-19.21.38:738][726]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.14ms to complete.
+[2019.06.26-19.21.38:738][726]LogFileHelpers: Loading map 'StreetSceneLarge2' took 0.145
+[2019.06.26-19.21.41:437][884]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.06.26-19.21.42:005][917]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.26-19.21.42:856][944]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.26-19.21.46:173][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-19.21.46:851][147]LogLinker: Warning: Can't find file '/Game/Ben/lambert1'
+[2019.06.26-19.21.46:851][147]LogLinker: Warning: Can't find file for asset '/Game/Ben/lambert1' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Manequinn_and_Animations/Manequin_with_animation.uasset.
+[2019.06.26-19.21.46:851][147]LoadErrors: Error: /Game/Ben/Manequinn_and_Animations/Manequin_with_animation : Can't find file for asset. /Game/Ben/lambert1
+[2019.06.26-19.21.46:852][147]LogLinker: Warning: Can't find file '/Game/Ben/M_wood'
+[2019.06.26-19.21.46:852][147]LogLinker: Warning: Can't find file for asset '/Game/Ben/M_wood' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Manequinn_and_Animations/Manequin_with_animation.uasset.
+[2019.06.26-19.21.46:852][147]LoadErrors: Error: /Game/Ben/Manequinn_and_Animations/Manequin_with_animation : Can't find file for asset. /Game/Ben/M_wood
+[2019.06.26-19.21.46:852][147]LogLinker: Warning: Can't find file '/Game/Ben/lambert1'
+[2019.06.26-19.21.46:852][147]LogLinker: Warning: Can't find file for asset '/Game/Ben/lambert1' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Manequinn_and_Animations/Manequin_with_animation.uasset.
+[2019.06.26-19.21.46:852][147]LogLinker: Warning: Can't find file '/Game/Ben/M_wood'
+[2019.06.26-19.21.46:853][147]LogLinker: Warning: Can't find file for asset '/Game/Ben/M_wood' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Ben/Manequinn_and_Animations/Manequin_with_animation.uasset.
+[2019.06.26-19.21.46:907][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/blackside'
+[2019.06.26-19.21.46:907][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/blackside' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/pontoon.uasset.
+[2019.06.26-19.21.46:907][147]LoadErrors: Error: /Game/Bryan/BryansFinalLevel/pontoon : Can't find file for asset. /Game/BryansFinalLevel/blackside
+[2019.06.26-19.21.46:907][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Blacktop'
+[2019.06.26-19.21.46:907][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Blacktop' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/pontoon.uasset.
+[2019.06.26-19.21.46:907][147]LoadErrors: Error: /Game/Bryan/BryansFinalLevel/pontoon : Can't find file for asset. /Game/BryansFinalLevel/Blacktop
+[2019.06.26-19.21.46:907][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/lambert1'
+[2019.06.26-19.21.46:908][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/lambert1' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/pontoon.uasset.
+[2019.06.26-19.21.46:908][147]LoadErrors: Error: /Game/Bryan/BryansFinalLevel/pontoon : Can't find file for asset. /Game/BryansFinalLevel/lambert1
+[2019.06.26-19.21.46:908][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/whiteside'
+[2019.06.26-19.21.46:908][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/whiteside' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/pontoon.uasset.
+[2019.06.26-19.21.46:908][147]LoadErrors: Error: /Game/Bryan/BryansFinalLevel/pontoon : Can't find file for asset. /Game/BryansFinalLevel/whiteside
+[2019.06.26-19.21.46:908][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Whitetop'
+[2019.06.26-19.21.46:908][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Whitetop' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/pontoon.uasset.
+[2019.06.26-19.21.46:908][147]LoadErrors: Error: /Game/Bryan/BryansFinalLevel/pontoon : Can't find file for asset. /Game/BryansFinalLevel/Whitetop
+[2019.06.26-19.21.46:908][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/blackside'
+[2019.06.26-19.21.46:909][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/blackside' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/pontoon.uasset.
+[2019.06.26-19.21.46:909][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Blacktop'
+[2019.06.26-19.21.46:909][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Blacktop' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/pontoon.uasset.
+[2019.06.26-19.21.46:909][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/lambert1'
+[2019.06.26-19.21.46:909][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/lambert1' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/pontoon.uasset.
+[2019.06.26-19.21.46:909][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/whiteside'
+[2019.06.26-19.21.46:909][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/whiteside' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/pontoon.uasset.
+[2019.06.26-19.21.46:909][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Whitetop'
+[2019.06.26-19.21.46:910][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Whitetop' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/pontoon.uasset.
+[2019.06.26-19.21.46:913][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/darkside'
+[2019.06.26-19.21.46:913][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/darkside' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/speedboatdone.uasset.
+[2019.06.26-19.21.46:913][147]LoadErrors: Error: /Game/Bryan/BryansFinalLevel/speedboatdone : Can't find file for asset. /Game/BryansFinalLevel/darkside
+[2019.06.26-19.21.46:913][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/darktop'
+[2019.06.26-19.21.46:913][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/darktop' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/speedboatdone.uasset.
+[2019.06.26-19.21.46:913][147]LoadErrors: Error: /Game/Bryan/BryansFinalLevel/speedboatdone : Can't find file for asset. /Game/BryansFinalLevel/darktop
+[2019.06.26-19.21.46:914][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/lgihttop'
+[2019.06.26-19.21.46:914][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/lgihttop' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/speedboatdone.uasset.
+[2019.06.26-19.21.46:914][147]LoadErrors: Error: /Game/Bryan/BryansFinalLevel/speedboatdone : Can't find file for asset. /Game/BryansFinalLevel/lgihttop
+[2019.06.26-19.21.46:914][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Lightside'
+[2019.06.26-19.21.46:914][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Lightside' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/speedboatdone.uasset.
+[2019.06.26-19.21.46:914][147]LoadErrors: Error: /Game/Bryan/BryansFinalLevel/speedboatdone : Can't find file for asset. /Game/BryansFinalLevel/Lightside
+[2019.06.26-19.21.46:914][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/darkside'
+[2019.06.26-19.21.46:914][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/darkside' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/speedboatdone.uasset.
+[2019.06.26-19.21.46:915][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/darktop'
+[2019.06.26-19.21.46:915][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/darktop' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/speedboatdone.uasset.
+[2019.06.26-19.21.46:915][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/lgihttop'
+[2019.06.26-19.21.46:915][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/lgihttop' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/speedboatdone.uasset.
+[2019.06.26-19.21.46:915][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Lightside'
+[2019.06.26-19.21.46:915][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Lightside' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/speedboatdone.uasset.
+[2019.06.26-19.21.46:919][147]LogLinker: Warning: Can't find file '/Game/OtherBlocks/defaultMat'
+[2019.06.26-19.21.46:919][147]LogLinker: Warning: Can't find file for asset '/Game/OtherBlocks/defaultMat' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/OtherBlocks/CrowsNestBlock1.uasset.
+[2019.06.26-19.21.46:920][147]LoadErrors: Error: /Game/Bryan/OtherBlocks/CrowsNestBlock1 : Can't find file for asset. /Game/OtherBlocks/defaultMat
+[2019.06.26-19.21.46:920][147]LogLinker: Warning: Can't find file '/Game/OtherBlocks/defaultMat'
+[2019.06.26-19.21.46:920][147]LogLinker: Warning: Can't find file for asset '/Game/OtherBlocks/defaultMat' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/OtherBlocks/CrowsNestBlock1.uasset.
+[2019.06.26-19.21.47:013][147]LogLinker: Warning: Can't find file '/Game/StreetBlocks/lambert1'
+[2019.06.26-19.21.47:013][147]LogLinker: Warning: Can't find file for asset '/Game/StreetBlocks/lambert1' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/DylanM/StreetBlocks/TPosePlague.uasset.
+[2019.06.26-19.21.47:013][147]LoadErrors: Error: /Game/DylanM/StreetBlocks/TPosePlague : Can't find file for asset. /Game/StreetBlocks/lambert1
+[2019.06.26-19.21.47:013][147]LogLinker: Warning: Can't find file '/Game/StreetBlocks/M_wood'
+[2019.06.26-19.21.47:013][147]LogLinker: Warning: Can't find file for asset '/Game/StreetBlocks/M_wood' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/DylanM/StreetBlocks/TPosePlague.uasset.
+[2019.06.26-19.21.47:013][147]LoadErrors: Error: /Game/DylanM/StreetBlocks/TPosePlague : Can't find file for asset. /Game/StreetBlocks/M_wood
+[2019.06.26-19.21.47:013][147]LogLinker: Warning: Can't find file '/Game/StreetBlocks/lambert1'
+[2019.06.26-19.21.47:014][147]LogLinker: Warning: Can't find file for asset '/Game/StreetBlocks/lambert1' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/DylanM/StreetBlocks/TPosePlague.uasset.
+[2019.06.26-19.21.47:014][147]LogLinker: Warning: Can't find file '/Game/StreetBlocks/M_wood'
+[2019.06.26-19.21.47:014][147]LogLinker: Warning: Can't find file for asset '/Game/StreetBlocks/M_wood' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/DylanM/StreetBlocks/TPosePlague.uasset.
+[2019.06.26-19.21.47:014][147]LogLinker: Warning: Can't find file '/Game/StreetBlocks/TPosePlague_PhysicsAsset'
+[2019.06.26-19.21.47:014][147]LogLinker: Warning: Can't find file for asset '/Game/StreetBlocks/TPosePlague_PhysicsAsset' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/DylanM/StreetBlocks/TPosePlague.uasset.
+[2019.06.26-19.21.47:014][147]LoadErrors: Error: /Game/DylanM/StreetBlocks/TPosePlague : Can't find file for asset. /Game/StreetBlocks/TPosePlague_PhysicsAsset
+[2019.06.26-19.21.47:014][147]LogLinker: Warning: Can't find file '/Game/StreetBlocks/TPosePlague_Skeleton'
+[2019.06.26-19.21.47:014][147]LogLinker: Warning: Can't find file for asset '/Game/StreetBlocks/TPosePlague_Skeleton' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/DylanM/StreetBlocks/TPosePlague.uasset.
+[2019.06.26-19.21.47:014][147]LoadErrors: Error: /Game/DylanM/StreetBlocks/TPosePlague : Can't find file for asset. /Game/StreetBlocks/TPosePlague_Skeleton
+[2019.06.26-19.21.47:015][147]LogLinker: Warning: Can't find file '/Game/StreetBlocks/TPosePlague_PhysicsAsset'
+[2019.06.26-19.21.47:015][147]LogLinker: Warning: Can't find file for asset '/Game/StreetBlocks/TPosePlague_PhysicsAsset' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/DylanM/StreetBlocks/TPosePlague.uasset.
+[2019.06.26-19.21.47:015][147]LogLinker: Warning: Can't find file '/Game/StreetBlocks/TPosePlague_Skeleton'
+[2019.06.26-19.21.47:015][147]LogLinker: Warning: Can't find file for asset '/Game/StreetBlocks/TPosePlague_Skeleton' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/DylanM/StreetBlocks/TPosePlague.uasset.
+[2019.06.26-19.21.47:022][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/initialShadingGroup1'
+[2019.06.26-19.21.47:022][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/initialShadingGroup1' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Carriage_GuardTower_Man_Clg.uasset.
+[2019.06.26-19.21.47:022][147]LoadErrors: Error: /Game/GabrielsonCameron/SM_MERGED_Carriage_GuardTower_Man_Clg : Can't find file for asset. /Game/woodBlocksContent/initialShadingGroup1
+[2019.06.26-19.21.47:023][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/lambert2'
+[2019.06.26-19.21.47:023][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/lambert2' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Carriage_GuardTower_Man_Clg.uasset.
+[2019.06.26-19.21.47:023][147]LoadErrors: Error: /Game/GabrielsonCameron/SM_MERGED_Carriage_GuardTower_Man_Clg : Can't find file for asset. /Game/woodBlocksContent/lambert2
+[2019.06.26-19.21.47:023][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Roofing_Clg'
+[2019.06.26-19.21.47:023][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Roofing_Clg' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Carriage_GuardTower_Man_Clg.uasset.
+[2019.06.26-19.21.47:023][147]LoadErrors: Error: /Game/GabrielsonCameron/SM_MERGED_Carriage_GuardTower_Man_Clg : Can't find file for asset. /Game/woodBlocksContent/Roofing_Clg
+[2019.06.26-19.21.47:023][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg'
+[2019.06.26-19.21.47:024][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Carriage_GuardTower_Man_Clg.uasset.
+[2019.06.26-19.21.47:024][147]LoadErrors: Error: /Game/GabrielsonCameron/SM_MERGED_Carriage_GuardTower_Man_Clg : Can't find file for asset. /Game/woodBlocksContent/Wood_House_Clg
+[2019.06.26-19.21.47:024][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst'
+[2019.06.26-19.21.47:024][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Carriage_GuardTower_Man_Clg.uasset.
+[2019.06.26-19.21.47:024][147]LoadErrors: Error: /Game/GabrielsonCameron/SM_MERGED_Carriage_GuardTower_Man_Clg : Can't find file for asset. /Game/woodBlocksContent/Wood_House_Clg_Inst
+[2019.06.26-19.21.47:025][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst2'
+[2019.06.26-19.21.47:025][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst2' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Carriage_GuardTower_Man_Clg.uasset.
+[2019.06.26-19.21.47:025][147]LoadErrors: Error: /Game/GabrielsonCameron/SM_MERGED_Carriage_GuardTower_Man_Clg : Can't find file for asset. /Game/woodBlocksContent/Wood_House_Clg_Inst2
+[2019.06.26-19.21.47:025][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst3'
+[2019.06.26-19.21.47:025][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst3' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Carriage_GuardTower_Man_Clg.uasset.
+[2019.06.26-19.21.47:026][147]LoadErrors: Error: /Game/GabrielsonCameron/SM_MERGED_Carriage_GuardTower_Man_Clg : Can't find file for asset. /Game/woodBlocksContent/Wood_House_Clg_Inst3
+[2019.06.26-19.21.47:026][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst4'
+[2019.06.26-19.21.47:026][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst4' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Carriage_GuardTower_Man_Clg.uasset.
+[2019.06.26-19.21.47:026][147]LoadErrors: Error: /Game/GabrielsonCameron/SM_MERGED_Carriage_GuardTower_Man_Clg : Can't find file for asset. /Game/woodBlocksContent/Wood_House_Clg_Inst4
+[2019.06.26-19.21.47:026][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/initialShadingGroup1'
+[2019.06.26-19.21.47:026][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/initialShadingGroup1' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Carriage_GuardTower_Man_Clg.uasset.
+[2019.06.26-19.21.47:026][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/lambert2'
+[2019.06.26-19.21.47:026][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/lambert2' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Carriage_GuardTower_Man_Clg.uasset.
+[2019.06.26-19.21.47:027][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Roofing_Clg'
+[2019.06.26-19.21.47:027][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Roofing_Clg' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Carriage_GuardTower_Man_Clg.uasset.
+[2019.06.26-19.21.47:027][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg'
+[2019.06.26-19.21.47:027][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Carriage_GuardTower_Man_Clg.uasset.
+[2019.06.26-19.21.47:027][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst'
+[2019.06.26-19.21.47:027][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Carriage_GuardTower_Man_Clg.uasset.
+[2019.06.26-19.21.47:027][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst2'
+[2019.06.26-19.21.47:027][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst2' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Carriage_GuardTower_Man_Clg.uasset.
+[2019.06.26-19.21.47:027][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst3'
+[2019.06.26-19.21.47:027][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst3' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Carriage_GuardTower_Man_Clg.uasset.
+[2019.06.26-19.21.47:027][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst4'
+[2019.06.26-19.21.47:027][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst4' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Carriage_GuardTower_Man_Clg.uasset.
+[2019.06.26-19.21.47:033][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_MedWood005_AP_Inst_Inst'
+[2019.06.26-19.21.47:033][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_MedWood005_AP_Inst_Inst' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_GroundBase.uasset.
+[2019.06.26-19.21.47:033][147]LoadErrors: Error: /Game/GabrielsonCameron/SM_MERGED_GroundBase : Can't find file for asset. /Game/woodBlocksContent/M_MedWood005_AP_Inst_Inst
+[2019.06.26-19.21.47:033][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_MedWood005_AP_Inst_Inst'
+[2019.06.26-19.21.47:034][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_MedWood005_AP_Inst_Inst' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_GroundBase.uasset.
+[2019.06.26-19.21.47:037][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg'
+[2019.06.26-19.21.47:037][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_House_Walls.uasset.
+[2019.06.26-19.21.47:037][147]LoadErrors: Error: /Game/GabrielsonCameron/SM_MERGED_House_Walls : Can't find file for asset. /Game/woodBlocksContent/Wood_House_Clg
+[2019.06.26-19.21.47:037][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst'
+[2019.06.26-19.21.47:037][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_House_Walls.uasset.
+[2019.06.26-19.21.47:037][147]LoadErrors: Error: /Game/GabrielsonCameron/SM_MERGED_House_Walls : Can't find file for asset. /Game/woodBlocksContent/Wood_House_Clg_Inst
+[2019.06.26-19.21.47:039][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst2'
+[2019.06.26-19.21.47:039][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst2' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_House_Walls.uasset.
+[2019.06.26-19.21.47:039][147]LoadErrors: Error: /Game/GabrielsonCameron/SM_MERGED_House_Walls : Can't find file for asset. /Game/woodBlocksContent/Wood_House_Clg_Inst2
+[2019.06.26-19.21.47:039][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst3'
+[2019.06.26-19.21.47:039][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst3' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_House_Walls.uasset.
+[2019.06.26-19.21.47:039][147]LoadErrors: Error: /Game/GabrielsonCameron/SM_MERGED_House_Walls : Can't find file for asset. /Game/woodBlocksContent/Wood_House_Clg_Inst3
+[2019.06.26-19.21.47:039][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg'
+[2019.06.26-19.21.47:039][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_House_Walls.uasset.
+[2019.06.26-19.21.47:039][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst'
+[2019.06.26-19.21.47:039][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_House_Walls.uasset.
+[2019.06.26-19.21.47:040][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst2'
+[2019.06.26-19.21.47:040][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst2' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_House_Walls.uasset.
+[2019.06.26-19.21.47:040][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst3'
+[2019.06.26-19.21.47:040][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst3' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_House_Walls.uasset.
+[2019.06.26-19.21.47:043][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg'
+[2019.06.26-19.21.47:043][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Poles_Clg.uasset.
+[2019.06.26-19.21.47:043][147]LoadErrors: Error: /Game/GabrielsonCameron/SM_MERGED_Poles_Clg : Can't find file for asset. /Game/woodBlocksContent/Wood_House_Clg
+[2019.06.26-19.21.47:043][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg'
+[2019.06.26-19.21.47:043][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Poles_Clg.uasset.
+[2019.06.26-19.21.47:047][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Roofing_Clg'
+[2019.06.26-19.21.47:047][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Roofing_Clg' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Roofing_CLG4.uasset.
+[2019.06.26-19.21.47:047][147]LoadErrors: Error: /Game/GabrielsonCameron/SM_MERGED_Roofing_CLG4 : Can't find file for asset. /Game/woodBlocksContent/Roofing_Clg
+[2019.06.26-19.21.47:047][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Roofing_Clg'
+[2019.06.26-19.21.47:047][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Roofing_Clg' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Roofing_CLG4.uasset.
+[2019.06.26-19.21.47:058][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg'
+[2019.06.26-19.21.47:058][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Steps.uasset.
+[2019.06.26-19.21.47:058][147]LoadErrors: Error: /Game/GabrielsonCameron/SM_MERGED_Steps : Can't find file for asset. /Game/woodBlocksContent/Wood_House_Clg
+[2019.06.26-19.21.47:059][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst'
+[2019.06.26-19.21.47:059][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Steps.uasset.
+[2019.06.26-19.21.47:059][147]LoadErrors: Error: /Game/GabrielsonCameron/SM_MERGED_Steps : Can't find file for asset. /Game/woodBlocksContent/Wood_House_Clg_Inst
+[2019.06.26-19.21.47:059][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst1'
+[2019.06.26-19.21.47:059][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst1' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Steps.uasset.
+[2019.06.26-19.21.47:059][147]LoadErrors: Error: /Game/GabrielsonCameron/SM_MERGED_Steps : Can't find file for asset. /Game/woodBlocksContent/Wood_House_Clg_Inst1
+[2019.06.26-19.21.47:059][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg'
+[2019.06.26-19.21.47:059][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Steps.uasset.
+[2019.06.26-19.21.47:059][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst'
+[2019.06.26-19.21.47:060][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Steps.uasset.
+[2019.06.26-19.21.47:060][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst1'
+[2019.06.26-19.21.47:060][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst1' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Steps.uasset.
+[2019.06.26-19.21.47:069][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg'
+[2019.06.26-19.21.47:069][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Tower_CLG10.uasset.
+[2019.06.26-19.21.47:069][147]LoadErrors: Error: /Game/GabrielsonCameron/SM_MERGED_Tower_CLG10 : Can't find file for asset. /Game/woodBlocksContent/Wood_House_Clg
+[2019.06.26-19.21.47:069][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg'
+[2019.06.26-19.21.47:069][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Tower_CLG10.uasset.
+[2019.06.26-19.21.47:074][147]LogLinker: Warning: Can't find file '/Game/lambert2'
+[2019.06.26-19.21.47:074][147]LogLinker: Warning: Can't find file for asset '/Game/lambert2' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Wall_Clg.uasset.
+[2019.06.26-19.21.47:074][147]LoadErrors: Error: /Game/GabrielsonCameron/SM_MERGED_Wall_Clg : Can't find file for asset. /Game/lambert2
+[2019.06.26-19.21.47:074][147]LogLinker: Warning: Can't find file '/Game/lambert3'
+[2019.06.26-19.21.47:074][147]LogLinker: Warning: Can't find file for asset '/Game/lambert3' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Wall_Clg.uasset.
+[2019.06.26-19.21.47:074][147]LoadErrors: Error: /Game/GabrielsonCameron/SM_MERGED_Wall_Clg : Can't find file for asset. /Game/lambert3
+[2019.06.26-19.21.47:074][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Roofing_Clg'
+[2019.06.26-19.21.47:075][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Roofing_Clg' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Wall_Clg.uasset.
+[2019.06.26-19.21.47:075][147]LoadErrors: Error: /Game/GabrielsonCameron/SM_MERGED_Wall_Clg : Can't find file for asset. /Game/woodBlocksContent/Roofing_Clg
+[2019.06.26-19.21.47:075][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg'
+[2019.06.26-19.21.47:075][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Wall_Clg.uasset.
+[2019.06.26-19.21.47:075][147]LoadErrors: Error: /Game/GabrielsonCameron/SM_MERGED_Wall_Clg : Can't find file for asset. /Game/woodBlocksContent/Wood_House_Clg
+[2019.06.26-19.21.47:075][147]LogLinker: Warning: Can't find file '/Game/lambert2'
+[2019.06.26-19.21.47:075][147]LogLinker: Warning: Can't find file for asset '/Game/lambert2' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Wall_Clg.uasset.
+[2019.06.26-19.21.47:075][147]LogLinker: Warning: Can't find file '/Game/lambert3'
+[2019.06.26-19.21.47:075][147]LogLinker: Warning: Can't find file for asset '/Game/lambert3' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Wall_Clg.uasset.
+[2019.06.26-19.21.47:075][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Roofing_Clg'
+[2019.06.26-19.21.47:076][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Roofing_Clg' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Wall_Clg.uasset.
+[2019.06.26-19.21.47:076][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg'
+[2019.06.26-19.21.47:076][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/GabrielsonCameron/SM_MERGED_Wall_Clg.uasset.
+[2019.06.26-19.21.47:080][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/hatpaint_1_Mat'
+[2019.06.26-19.21.47:080][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/hatpaint_1_Mat' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.26-19.21.47:080][147]LoadErrors: Error: /Game/Gaoyang/gaoyang/SM_MERGED_tank_4 : Can't find file for asset. /Game/woodBlocksContent/hatpaint_1_Mat
+[2019.06.26-19.21.47:081][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_MasterwallBlock_AP'
+[2019.06.26-19.21.47:081][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_MasterwallBlock_AP' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.26-19.21.47:081][147]LoadErrors: Error: /Game/Gaoyang/gaoyang/SM_MERGED_tank_4 : Can't find file for asset. /Game/woodBlocksContent/M_MasterwallBlock_AP
+[2019.06.26-19.21.47:081][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/mannpaint1_Mat'
+[2019.06.26-19.21.47:082][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/mannpaint1_Mat' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.26-19.21.47:082][147]LoadErrors: Error: /Game/Gaoyang/gaoyang/SM_MERGED_tank_4 : Can't find file for asset. /Game/woodBlocksContent/mannpaint1_Mat
+[2019.06.26-19.21.47:082][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LightWood2_AP_Inst'
+[2019.06.26-19.21.47:082][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LightWood2_AP_Inst' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.26-19.21.47:082][147]LoadErrors: Error: /Game/Gaoyang/gaoyang/SM_MERGED_tank_4 : Can't find file for asset. /Game/woodBlocksContent/M_LightWood2_AP_Inst
+[2019.06.26-19.21.47:082][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterpillar_AP_Inst'
+[2019.06.26-19.21.47:083][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterpillar_AP_Inst' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.26-19.21.47:083][147]LoadErrors: Error: /Game/Gaoyang/gaoyang/SM_MERGED_tank_4 : Can't find file for asset. /Game/woodBlocksContent/M_Masterpillar_AP_Inst
+[2019.06.26-19.21.47:083][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_MasterwallBlock1_AP_Inst'
+[2019.06.26-19.21.47:083][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_MasterwallBlock1_AP_Inst' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.26-19.21.47:083][147]LoadErrors: Error: /Game/Gaoyang/gaoyang/SM_MERGED_tank_4 : Can't find file for asset. /Game/woodBlocksContent/M_MasterwallBlock1_AP_Inst
+[2019.06.26-19.21.47:083][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwallcube_AP_Inst'
+[2019.06.26-19.21.47:083][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwallcube_AP_Inst' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.26-19.21.47:083][147]LoadErrors: Error: /Game/Gaoyang/gaoyang/SM_MERGED_tank_4 : Can't find file for asset. /Game/woodBlocksContent/M_Masterwallcube_AP_Inst
+[2019.06.26-19.21.47:084][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwallinner_AP_Inst'
+[2019.06.26-19.21.47:084][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwallinner_AP_Inst' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.26-19.21.47:084][147]LoadErrors: Error: /Game/Gaoyang/gaoyang/SM_MERGED_tank_4 : Can't find file for asset. /Game/woodBlocksContent/M_Masterwallinner_AP_Inst
+[2019.06.26-19.21.47:084][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwalltop_AP_Inst'
+[2019.06.26-19.21.47:084][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwalltop_AP_Inst' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.26-19.21.47:084][147]LoadErrors: Error: /Game/Gaoyang/gaoyang/SM_MERGED_tank_4 : Can't find file for asset. /Game/woodBlocksContent/M_Masterwalltop_AP_Inst
+[2019.06.26-19.21.47:085][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/hatpaint_1_Mat'
+[2019.06.26-19.21.47:085][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/hatpaint_1_Mat' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.26-19.21.47:086][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LightWood2_AP_Inst'
+[2019.06.26-19.21.47:086][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LightWood2_AP_Inst' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.26-19.21.47:086][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterpillar_AP_Inst'
+[2019.06.26-19.21.47:086][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterpillar_AP_Inst' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.26-19.21.47:087][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_MasterwallBlock1_AP_Inst'
+[2019.06.26-19.21.47:087][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_MasterwallBlock1_AP_Inst' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.26-19.21.47:087][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_MasterwallBlock_AP'
+[2019.06.26-19.21.47:087][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_MasterwallBlock_AP' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.26-19.21.47:088][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwallcube_AP_Inst'
+[2019.06.26-19.21.47:088][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwallcube_AP_Inst' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.26-19.21.47:088][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwallinner_AP_Inst'
+[2019.06.26-19.21.47:088][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwallinner_AP_Inst' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.26-19.21.47:088][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwalltop_AP_Inst'
+[2019.06.26-19.21.47:088][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwalltop_AP_Inst' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.26-19.21.47:090][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/mannpaint1_Mat'
+[2019.06.26-19.21.47:090][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/mannpaint1_Mat' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Gaoyang/gaoyang/SM_MERGED_tank_4.uasset.
+[2019.06.26-19.21.47:136][147]LogLinker: Warning: Can't find file '/Game/NickNa/box/defaultPolygonShader'
+[2019.06.26-19.21.47:136][147]LogLinker: Warning: Can't find file for asset '/Game/NickNa/box/defaultPolygonShader' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/NickNa/NickNa/box/Walk.uasset.
+[2019.06.26-19.21.47:136][147]LoadErrors: Error: /Game/NickNa/NickNa/box/Walk : Can't find file for asset. /Game/NickNa/box/defaultPolygonShader
+[2019.06.26-19.21.47:137][147]LogLinker: Warning: Can't find file '/Game/NickNa/box/defaultPolygonShader'
+[2019.06.26-19.21.47:137][147]LogLinker: Warning: Can't find file for asset '/Game/NickNa/box/defaultPolygonShader' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/NickNa/NickNa/box/Walk.uasset.
+[2019.06.26-19.21.47:137][147]LogLinker: Warning: Can't find file '/Game/NickNa/box/Walk_PhysicsAsset'
+[2019.06.26-19.21.47:137][147]LogLinker: Warning: Can't find file for asset '/Game/NickNa/box/Walk_PhysicsAsset' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/NickNa/NickNa/box/Walk.uasset.
+[2019.06.26-19.21.47:137][147]LoadErrors: Error: /Game/NickNa/NickNa/box/Walk : Can't find file for asset. /Game/NickNa/box/Walk_PhysicsAsset
+[2019.06.26-19.21.47:137][147]LogLinker: Warning: Can't find file '/Game/NickNa/box/Walk_Skeleton'
+[2019.06.26-19.21.47:138][147]LogLinker: Warning: Can't find file for asset '/Game/NickNa/box/Walk_Skeleton' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/NickNa/NickNa/box/Walk.uasset.
+[2019.06.26-19.21.47:138][147]LoadErrors: Error: /Game/NickNa/NickNa/box/Walk : Can't find file for asset. /Game/NickNa/box/Walk_Skeleton
+[2019.06.26-19.21.47:138][147]LogLinker: Warning: Can't find file '/Game/NickNa/box/Walk_PhysicsAsset'
+[2019.06.26-19.21.47:138][147]LogLinker: Warning: Can't find file for asset '/Game/NickNa/box/Walk_PhysicsAsset' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/NickNa/NickNa/box/Walk.uasset.
+[2019.06.26-19.21.47:138][147]LogLinker: Warning: Can't find file '/Game/NickNa/box/Walk_Skeleton'
+[2019.06.26-19.21.47:138][147]LogLinker: Warning: Can't find file for asset '/Game/NickNa/box/Walk_Skeleton' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/NickNa/NickNa/box/Walk.uasset.
+[2019.06.26-19.21.47:141][147]LogLinker: Warning: Can't find file '/Game/box/lambert5'
+[2019.06.26-19.21.47:141][147]LogLinker: Warning: Can't find file for asset '/Game/box/lambert5' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/NickNa/NickNa/SM_MERGED_shadowmoseswhiteboxfinal_20.uasset.
+[2019.06.26-19.21.47:141][147]LoadErrors: Error: /Game/NickNa/NickNa/SM_MERGED_shadowmoseswhiteboxfinal_20 : Can't find file for asset. /Game/box/lambert5
+[2019.06.26-19.21.47:141][147]LogLinker: Warning: Can't find file '/Game/box/lambert6'
+[2019.06.26-19.21.47:141][147]LogLinker: Warning: Can't find file for asset '/Game/box/lambert6' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/NickNa/NickNa/SM_MERGED_shadowmoseswhiteboxfinal_20.uasset.
+[2019.06.26-19.21.47:142][147]LoadErrors: Error: /Game/NickNa/NickNa/SM_MERGED_shadowmoseswhiteboxfinal_20 : Can't find file for asset. /Game/box/lambert6
+[2019.06.26-19.21.47:142][147]LogLinker: Warning: Can't find file '/Game/box/lambert5'
+[2019.06.26-19.21.47:142][147]LogLinker: Warning: Can't find file for asset '/Game/box/lambert5' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/NickNa/NickNa/SM_MERGED_shadowmoseswhiteboxfinal_20.uasset.
+[2019.06.26-19.21.47:142][147]LogLinker: Warning: Can't find file '/Game/box/lambert6'
+[2019.06.26-19.21.47:142][147]LogLinker: Warning: Can't find file for asset '/Game/box/lambert6' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/NickNa/NickNa/SM_MERGED_shadowmoseswhiteboxfinal_20.uasset.
+[2019.06.26-19.21.47:362][147]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/MM_wood002'
+[2019.06.26-19.21.47:362][147]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/MM_wood002' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/XavierDavis/Xavier_Davis/SM_MERGED_streetBlocksCWcenter001.uasset.
+[2019.06.26-19.21.47:363][147]LoadErrors: Error: /Game/XavierDavis/Xavier_Davis/SM_MERGED_streetBlocksCWcenter001 : Can't find file for asset. /Game/Xavier_Davis/woodBlocksContent/MM_wood002
+[2019.06.26-19.21.47:363][147]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst'
+[2019.06.26-19.21.47:364][147]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/XavierDavis/Xavier_Davis/SM_MERGED_streetBlocksCWcenter001.uasset.
+[2019.06.26-19.21.47:364][147]LoadErrors: Error: /Game/XavierDavis/Xavier_Davis/SM_MERGED_streetBlocksCWcenter001 : Can't find file for asset. /Game/Xavier_Davis/woodBlocksContent/wood002_Inst
+[2019.06.26-19.21.47:364][147]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst002'
+[2019.06.26-19.21.47:364][147]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst002' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/XavierDavis/Xavier_Davis/SM_MERGED_streetBlocksCWcenter001.uasset.
+[2019.06.26-19.21.47:364][147]LoadErrors: Error: /Game/XavierDavis/Xavier_Davis/SM_MERGED_streetBlocksCWcenter001 : Can't find file for asset. /Game/Xavier_Davis/woodBlocksContent/wood002_Inst002
+[2019.06.26-19.21.47:364][147]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst003'
+[2019.06.26-19.21.47:364][147]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst003' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/XavierDavis/Xavier_Davis/SM_MERGED_streetBlocksCWcenter001.uasset.
+[2019.06.26-19.21.47:365][147]LoadErrors: Error: /Game/XavierDavis/Xavier_Davis/SM_MERGED_streetBlocksCWcenter001 : Can't find file for asset. /Game/Xavier_Davis/woodBlocksContent/wood002_Inst003
+[2019.06.26-19.21.47:365][147]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst004'
+[2019.06.26-19.21.47:365][147]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst004' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/XavierDavis/Xavier_Davis/SM_MERGED_streetBlocksCWcenter001.uasset.
+[2019.06.26-19.21.47:365][147]LoadErrors: Error: /Game/XavierDavis/Xavier_Davis/SM_MERGED_streetBlocksCWcenter001 : Can't find file for asset. /Game/Xavier_Davis/woodBlocksContent/wood002_Inst004
+[2019.06.26-19.21.47:366][147]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/MM_wood002'
+[2019.06.26-19.21.47:366][147]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/MM_wood002' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/XavierDavis/Xavier_Davis/SM_MERGED_streetBlocksCWcenter001.uasset.
+[2019.06.26-19.21.47:366][147]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst'
+[2019.06.26-19.21.47:366][147]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/XavierDavis/Xavier_Davis/SM_MERGED_streetBlocksCWcenter001.uasset.
+[2019.06.26-19.21.47:367][147]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst002'
+[2019.06.26-19.21.47:367][147]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst002' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/XavierDavis/Xavier_Davis/SM_MERGED_streetBlocksCWcenter001.uasset.
+[2019.06.26-19.21.47:367][147]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst003'
+[2019.06.26-19.21.47:367][147]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst003' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/XavierDavis/Xavier_Davis/SM_MERGED_streetBlocksCWcenter001.uasset.
+[2019.06.26-19.21.47:368][147]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst004'
+[2019.06.26-19.21.47:368][147]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst004' while loading ../../../../../../Users/alexs/source/repos/StudyApp/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/XavierDavis/Xavier_Davis/SM_MERGED_streetBlocksCWcenter001.uasset.
+[2019.06.26-19.21.47:904][147]LogTexture: Display: Building textures: Tree_Colors (AutoDXT, 2048X2048)
+[2019.06.26-19.21.47:904][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst2'
+[2019.06.26-19.21.47:904][147]LoadErrors: Failed to load /Game/woodBlocksContent/Wood_House_Clg_Inst2.Wood_House_Clg_Inst2 Referenced by SM_MERGED_Carriage_GuardTower_Man_Clg
+[2019.06.26-19.21.47:905][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst2' while loading NULL.
+[2019.06.26-19.21.47:905][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/lambert2'
+[2019.06.26-19.21.47:905][147]LoadErrors: Failed to load /Game/woodBlocksContent/lambert2.lambert2 Referenced by SM_MERGED_Carriage_GuardTower_Man_Clg
+[2019.06.26-19.21.47:905][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/lambert2' while loading NULL.
+[2019.06.26-19.21.47:906][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/initialShadingGroup1'
+[2019.06.26-19.21.47:906][147]LoadErrors: Failed to load /Game/woodBlocksContent/initialShadingGroup1.initialShadingGroup1 Referenced by SM_MERGED_Carriage_GuardTower_Man_Clg
+[2019.06.26-19.21.47:906][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/initialShadingGroup1' while loading NULL.
+[2019.06.26-19.21.47:906][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst4'
+[2019.06.26-19.21.47:907][147]LoadErrors: Failed to load /Game/woodBlocksContent/Wood_House_Clg_Inst4.Wood_House_Clg_Inst4 Referenced by SM_MERGED_Carriage_GuardTower_Man_Clg
+[2019.06.26-19.21.47:907][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst4' while loading NULL.
+[2019.06.26-19.21.47:907][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst3'
+[2019.06.26-19.21.47:907][147]LoadErrors: Failed to load /Game/woodBlocksContent/Wood_House_Clg_Inst3.Wood_House_Clg_Inst3 Referenced by SM_MERGED_Carriage_GuardTower_Man_Clg
+[2019.06.26-19.21.47:907][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst3' while loading NULL.
+[2019.06.26-19.21.47:908][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst'
+[2019.06.26-19.21.47:908][147]LoadErrors: Failed to load /Game/woodBlocksContent/Wood_House_Clg_Inst.Wood_House_Clg_Inst Referenced by SM_MERGED_Carriage_GuardTower_Man_Clg
+[2019.06.26-19.21.47:908][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst' while loading NULL.
+[2019.06.26-19.21.47:908][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg'
+[2019.06.26-19.21.47:908][147]LoadErrors: Failed to load /Game/woodBlocksContent/Wood_House_Clg.Wood_House_Clg Referenced by SM_MERGED_Carriage_GuardTower_Man_Clg
+[2019.06.26-19.21.47:909][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg' while loading NULL.
+[2019.06.26-19.21.47:909][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Roofing_Clg'
+[2019.06.26-19.21.47:909][147]LoadErrors: Failed to load /Game/woodBlocksContent/Roofing_Clg.Roofing_Clg Referenced by SM_MERGED_Carriage_GuardTower_Man_Clg
+[2019.06.26-19.21.47:909][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Roofing_Clg' while loading NULL.
+[2019.06.26-19.21.47:910][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst2'
+[2019.06.26-19.21.47:910][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst2' while loading NULL.
+[2019.06.26-19.21.47:910][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/lambert2'
+[2019.06.26-19.21.47:910][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/lambert2' while loading NULL.
+[2019.06.26-19.21.47:910][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/initialShadingGroup1'
+[2019.06.26-19.21.47:911][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/initialShadingGroup1' while loading NULL.
+[2019.06.26-19.21.47:911][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst4'
+[2019.06.26-19.21.47:911][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst4' while loading NULL.
+[2019.06.26-19.21.47:911][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst3'
+[2019.06.26-19.21.47:911][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst3' while loading NULL.
+[2019.06.26-19.21.47:911][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst'
+[2019.06.26-19.21.47:912][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst' while loading NULL.
+[2019.06.26-19.21.47:912][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg'
+[2019.06.26-19.21.47:912][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg' while loading NULL.
+[2019.06.26-19.21.47:912][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Roofing_Clg'
+[2019.06.26-19.21.47:912][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Roofing_Clg' while loading NULL.
+[2019.06.26-19.21.47:914][147]LogLinker: Warning: Can't find file '/Game/StreetBlocks/TPosePlague_Skeleton'
+[2019.06.26-19.21.47:914][147]LoadErrors: Failed to load /Game/StreetBlocks/TPosePlague_Skeleton.TPosePlague_Skeleton Referenced by TPosePlague
+[2019.06.26-19.21.47:914][147]LogLinker: Warning: Can't find file for asset '/Game/StreetBlocks/TPosePlague_Skeleton' while loading NULL.
+[2019.06.26-19.21.47:915][147]LogLinker: Warning: Can't find file '/Game/StreetBlocks/TPosePlague_PhysicsAsset'
+[2019.06.26-19.21.47:915][147]LoadErrors: Failed to load /Game/StreetBlocks/TPosePlague_PhysicsAsset.TPosePlague_PhysicsAsset Referenced by TPosePlague
+[2019.06.26-19.21.47:915][147]LogLinker: Warning: Can't find file for asset '/Game/StreetBlocks/TPosePlague_PhysicsAsset' while loading NULL.
+[2019.06.26-19.21.47:915][147]LogLinker: Warning: Can't find file '/Game/StreetBlocks/M_wood'
+[2019.06.26-19.21.47:915][147]LoadErrors: Failed to load /Game/StreetBlocks/M_wood.M_wood Referenced by TPosePlague
+[2019.06.26-19.21.47:915][147]LogLinker: Warning: Can't find file for asset '/Game/StreetBlocks/M_wood' while loading NULL.
+[2019.06.26-19.21.47:916][147]LogLinker: Warning: Can't find file '/Game/StreetBlocks/lambert1'
+[2019.06.26-19.21.47:916][147]LoadErrors: Failed to load /Game/StreetBlocks/lambert1.lambert1 Referenced by TPosePlague
+[2019.06.26-19.21.47:916][147]LogLinker: Warning: Can't find file for asset '/Game/StreetBlocks/lambert1' while loading NULL.
+[2019.06.26-19.21.47:943][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg'
+[2019.06.26-19.21.47:944][147]LoadErrors: Failed to load /Game/woodBlocksContent/Wood_House_Clg.Wood_House_Clg Referenced by SM_MERGED_Poles_Clg
+[2019.06.26-19.21.47:944][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg' while loading NULL.
+[2019.06.26-19.21.47:944][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg'
+[2019.06.26-19.21.47:944][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg' while loading NULL.
+[2019.06.26-19.21.47:964][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg'
+[2019.06.26-19.21.47:964][147]LoadErrors: Failed to load /Game/woodBlocksContent/Wood_House_Clg.Wood_House_Clg Referenced by SM_MERGED_House_Walls
+[2019.06.26-19.21.47:964][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg' while loading NULL.
+[2019.06.26-19.21.47:964][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst2'
+[2019.06.26-19.21.47:965][147]LoadErrors: Failed to load /Game/woodBlocksContent/Wood_House_Clg_Inst2.Wood_House_Clg_Inst2 Referenced by SM_MERGED_House_Walls
+[2019.06.26-19.21.47:965][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst2' while loading NULL.
+[2019.06.26-19.21.47:965][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst'
+[2019.06.26-19.21.47:965][147]LoadErrors: Failed to load /Game/woodBlocksContent/Wood_House_Clg_Inst.Wood_House_Clg_Inst Referenced by SM_MERGED_House_Walls
+[2019.06.26-19.21.47:965][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst' while loading NULL.
+[2019.06.26-19.21.47:965][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst3'
+[2019.06.26-19.21.47:966][147]LoadErrors: Failed to load /Game/woodBlocksContent/Wood_House_Clg_Inst3.Wood_House_Clg_Inst3 Referenced by SM_MERGED_House_Walls
+[2019.06.26-19.21.47:966][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst3' while loading NULL.
+[2019.06.26-19.21.47:966][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg'
+[2019.06.26-19.21.47:966][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg' while loading NULL.
+[2019.06.26-19.21.47:966][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst2'
+[2019.06.26-19.21.47:967][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst2' while loading NULL.
+[2019.06.26-19.21.47:967][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst'
+[2019.06.26-19.21.47:967][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst' while loading NULL.
+[2019.06.26-19.21.47:967][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst3'
+[2019.06.26-19.21.47:967][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst3' while loading NULL.
+[2019.06.26-19.21.47:969][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Roofing_Clg'
+[2019.06.26-19.21.47:969][147]LoadErrors: Failed to load /Game/woodBlocksContent/Roofing_Clg.Roofing_Clg Referenced by SM_MERGED_Roofing_CLG4
+[2019.06.26-19.21.47:969][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Roofing_Clg' while loading NULL.
+[2019.06.26-19.21.47:970][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Roofing_Clg'
+[2019.06.26-19.21.47:970][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Roofing_Clg' while loading NULL.
+[2019.06.26-19.21.48:000][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_MedWood005_AP_Inst_Inst'
+[2019.06.26-19.21.48:000][147]LoadErrors: Failed to load /Game/woodBlocksContent/M_MedWood005_AP_Inst_Inst.M_MedWood005_AP_Inst_Inst Referenced by SM_MERGED_GroundBase
+[2019.06.26-19.21.48:000][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_MedWood005_AP_Inst_Inst' while loading NULL.
+[2019.06.26-19.21.48:001][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_MedWood005_AP_Inst_Inst'
+[2019.06.26-19.21.48:001][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_MedWood005_AP_Inst_Inst' while loading NULL.
+[2019.06.26-19.21.48:014][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_MasterwallBlock_AP'
+[2019.06.26-19.21.48:015][147]LoadErrors: Failed to load /Game/woodBlocksContent/M_MasterwallBlock_AP.M_MasterwallBlock_AP Referenced by SM_MERGED_tank_4
+[2019.06.26-19.21.48:015][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_MasterwallBlock_AP' while loading NULL.
+[2019.06.26-19.21.48:015][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_MasterwallBlock1_AP_Inst'
+[2019.06.26-19.21.48:015][147]LoadErrors: Failed to load /Game/woodBlocksContent/M_MasterwallBlock1_AP_Inst.M_MasterwallBlock1_AP_Inst Referenced by SM_MERGED_tank_4
+[2019.06.26-19.21.48:015][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_MasterwallBlock1_AP_Inst' while loading NULL.
+[2019.06.26-19.21.48:016][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwallcube_AP_Inst'
+[2019.06.26-19.21.48:016][147]LoadErrors: Failed to load /Game/woodBlocksContent/M_Masterwallcube_AP_Inst.M_Masterwallcube_AP_Inst Referenced by SM_MERGED_tank_4
+[2019.06.26-19.21.48:016][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwallcube_AP_Inst' while loading NULL.
+[2019.06.26-19.21.48:016][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwallinner_AP_Inst'
+[2019.06.26-19.21.48:016][147]LoadErrors: Failed to load /Game/woodBlocksContent/M_Masterwallinner_AP_Inst.M_Masterwallinner_AP_Inst Referenced by SM_MERGED_tank_4
+[2019.06.26-19.21.48:016][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwallinner_AP_Inst' while loading NULL.
+[2019.06.26-19.21.48:017][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwalltop_AP_Inst'
+[2019.06.26-19.21.48:017][147]LoadErrors: Failed to load /Game/woodBlocksContent/M_Masterwalltop_AP_Inst.M_Masterwalltop_AP_Inst Referenced by SM_MERGED_tank_4
+[2019.06.26-19.21.48:017][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwalltop_AP_Inst' while loading NULL.
+[2019.06.26-19.21.48:017][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterpillar_AP_Inst'
+[2019.06.26-19.21.48:017][147]LoadErrors: Failed to load /Game/woodBlocksContent/M_Masterpillar_AP_Inst.M_Masterpillar_AP_Inst Referenced by SM_MERGED_tank_4
+[2019.06.26-19.21.48:017][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterpillar_AP_Inst' while loading NULL.
+[2019.06.26-19.21.48:018][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/mannpaint1_Mat'
+[2019.06.26-19.21.48:018][147]LoadErrors: Failed to load /Game/woodBlocksContent/mannpaint1_Mat.mannpaint1_Mat Referenced by SM_MERGED_tank_4
+[2019.06.26-19.21.48:018][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/mannpaint1_Mat' while loading NULL.
+[2019.06.26-19.21.48:018][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/hatpaint_1_Mat'
+[2019.06.26-19.21.48:018][147]LoadErrors: Failed to load /Game/woodBlocksContent/hatpaint_1_Mat.hatpaint_1_Mat Referenced by SM_MERGED_tank_4
+[2019.06.26-19.21.48:019][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/hatpaint_1_Mat' while loading NULL.
+[2019.06.26-19.21.48:019][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LightWood2_AP_Inst'
+[2019.06.26-19.21.48:019][147]LoadErrors: Failed to load /Game/woodBlocksContent/M_LightWood2_AP_Inst.M_LightWood2_AP_Inst Referenced by SM_MERGED_tank_4
+[2019.06.26-19.21.48:019][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LightWood2_AP_Inst' while loading NULL.
+[2019.06.26-19.21.48:019][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_MasterwallBlock_AP'
+[2019.06.26-19.21.48:020][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_MasterwallBlock_AP' while loading NULL.
+[2019.06.26-19.21.48:020][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_MasterwallBlock1_AP_Inst'
+[2019.06.26-19.21.48:020][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_MasterwallBlock1_AP_Inst' while loading NULL.
+[2019.06.26-19.21.48:020][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwallcube_AP_Inst'
+[2019.06.26-19.21.48:021][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwallcube_AP_Inst' while loading NULL.
+[2019.06.26-19.21.48:021][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwallinner_AP_Inst'
+[2019.06.26-19.21.48:021][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwallinner_AP_Inst' while loading NULL.
+[2019.06.26-19.21.48:021][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterwalltop_AP_Inst'
+[2019.06.26-19.21.48:022][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterwalltop_AP_Inst' while loading NULL.
+[2019.06.26-19.21.48:022][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_Masterpillar_AP_Inst'
+[2019.06.26-19.21.48:022][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_Masterpillar_AP_Inst' while loading NULL.
+[2019.06.26-19.21.48:022][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/mannpaint1_Mat'
+[2019.06.26-19.21.48:022][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/mannpaint1_Mat' while loading NULL.
+[2019.06.26-19.21.48:023][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/hatpaint_1_Mat'
+[2019.06.26-19.21.48:023][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/hatpaint_1_Mat' while loading NULL.
+[2019.06.26-19.21.48:023][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_LightWood2_AP_Inst'
+[2019.06.26-19.21.48:023][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_LightWood2_AP_Inst' while loading NULL.
+[2019.06.26-19.21.48:032][147]LogLinker: Warning: Can't find file '/Game/lambert3'
+[2019.06.26-19.21.48:032][147]LoadErrors: Failed to load /Game/lambert3.lambert3 Referenced by SM_MERGED_Wall_Clg
+[2019.06.26-19.21.48:032][147]LogLinker: Warning: Can't find file for asset '/Game/lambert3' while loading NULL.
+[2019.06.26-19.21.48:033][147]LogLinker: Warning: Can't find file '/Game/lambert2'
+[2019.06.26-19.21.48:033][147]LoadErrors: Failed to load /Game/lambert2.lambert2 Referenced by SM_MERGED_Wall_Clg
+[2019.06.26-19.21.48:033][147]LogLinker: Warning: Can't find file for asset '/Game/lambert2' while loading NULL.
+[2019.06.26-19.21.48:033][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg'
+[2019.06.26-19.21.48:033][147]LoadErrors: Failed to load /Game/woodBlocksContent/Wood_House_Clg.Wood_House_Clg Referenced by SM_MERGED_Wall_Clg
+[2019.06.26-19.21.48:033][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg' while loading NULL.
+[2019.06.26-19.21.48:034][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Roofing_Clg'
+[2019.06.26-19.21.48:034][147]LoadErrors: Failed to load /Game/woodBlocksContent/Roofing_Clg.Roofing_Clg Referenced by SM_MERGED_Wall_Clg
+[2019.06.26-19.21.48:034][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Roofing_Clg' while loading NULL.
+[2019.06.26-19.21.48:034][147]LogLinker: Warning: Can't find file '/Game/lambert3'
+[2019.06.26-19.21.48:034][147]LogLinker: Warning: Can't find file for asset '/Game/lambert3' while loading NULL.
+[2019.06.26-19.21.48:035][147]LogLinker: Warning: Can't find file '/Game/lambert2'
+[2019.06.26-19.21.48:035][147]LogLinker: Warning: Can't find file for asset '/Game/lambert2' while loading NULL.
+[2019.06.26-19.21.48:035][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg'
+[2019.06.26-19.21.48:035][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg' while loading NULL.
+[2019.06.26-19.21.48:036][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Roofing_Clg'
+[2019.06.26-19.21.48:036][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Roofing_Clg' while loading NULL.
+[2019.06.26-19.21.48:038][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg'
+[2019.06.26-19.21.48:039][147]LoadErrors: Failed to load /Game/woodBlocksContent/Wood_House_Clg.Wood_House_Clg Referenced by SM_MERGED_Tower_CLG10
+[2019.06.26-19.21.48:039][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg' while loading NULL.
+[2019.06.26-19.21.48:039][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg'
+[2019.06.26-19.21.48:039][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg' while loading NULL.
+[2019.06.26-19.21.48:080][147]LogTexture: Display: Building textures: BoxUVGreen0_0_6 (AutoDXT, 2048X2048)
+[2019.06.26-19.21.48:080][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst1'
+[2019.06.26-19.21.48:080][147]LoadErrors: Failed to load /Game/woodBlocksContent/Wood_House_Clg_Inst1.Wood_House_Clg_Inst1 Referenced by SM_MERGED_Steps
+[2019.06.26-19.21.48:080][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst1' while loading NULL.
+[2019.06.26-19.21.48:080][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg'
+[2019.06.26-19.21.48:080][147]LoadErrors: Failed to load /Game/woodBlocksContent/Wood_House_Clg.Wood_House_Clg Referenced by SM_MERGED_Steps
+[2019.06.26-19.21.48:081][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg' while loading NULL.
+[2019.06.26-19.21.48:081][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst'
+[2019.06.26-19.21.48:081][147]LoadErrors: Failed to load /Game/woodBlocksContent/Wood_House_Clg_Inst.Wood_House_Clg_Inst Referenced by SM_MERGED_Steps
+[2019.06.26-19.21.48:081][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst' while loading NULL.
+[2019.06.26-19.21.48:082][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst1'
+[2019.06.26-19.21.48:082][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst1' while loading NULL.
+[2019.06.26-19.21.48:082][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg'
+[2019.06.26-19.21.48:082][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg' while loading NULL.
+[2019.06.26-19.21.48:083][147]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/Wood_House_Clg_Inst'
+[2019.06.26-19.21.48:083][147]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/Wood_House_Clg_Inst' while loading NULL.
+[2019.06.26-19.21.48:199][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/lgihttop'
+[2019.06.26-19.21.48:200][147]LoadErrors: Failed to load /Game/BryansFinalLevel/lgihttop.lgihttop Referenced by speedboatdone
+[2019.06.26-19.21.48:200][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/lgihttop' while loading NULL.
+[2019.06.26-19.21.48:200][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Lightside'
+[2019.06.26-19.21.48:200][147]LoadErrors: Failed to load /Game/BryansFinalLevel/Lightside.Lightside Referenced by speedboatdone
+[2019.06.26-19.21.48:200][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Lightside' while loading NULL.
+[2019.06.26-19.21.48:201][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/darktop'
+[2019.06.26-19.21.48:201][147]LoadErrors: Failed to load /Game/BryansFinalLevel/darktop.darktop Referenced by speedboatdone
+[2019.06.26-19.21.48:201][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/darktop' while loading NULL.
+[2019.06.26-19.21.48:201][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/darkside'
+[2019.06.26-19.21.48:201][147]LoadErrors: Failed to load /Game/BryansFinalLevel/darkside.darkside Referenced by speedboatdone
+[2019.06.26-19.21.48:202][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/darkside' while loading NULL.
+[2019.06.26-19.21.48:202][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/lgihttop'
+[2019.06.26-19.21.48:202][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/lgihttop' while loading NULL.
+[2019.06.26-19.21.48:202][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Lightside'
+[2019.06.26-19.21.48:203][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Lightside' while loading NULL.
+[2019.06.26-19.21.48:203][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/darktop'
+[2019.06.26-19.21.48:203][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/darktop' while loading NULL.
+[2019.06.26-19.21.48:204][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/darkside'
+[2019.06.26-19.21.48:204][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/darkside' while loading NULL.
+[2019.06.26-19.21.48:205][147]LogLinker: Warning: Can't find file '/Game/OtherBlocks/defaultMat'
+[2019.06.26-19.21.48:206][147]LoadErrors: Failed to load /Game/OtherBlocks/defaultMat.defaultMat Referenced by CrowsNestBlock1
+[2019.06.26-19.21.48:206][147]LogLinker: Warning: Can't find file for asset '/Game/OtherBlocks/defaultMat' while loading NULL.
+[2019.06.26-19.21.48:206][147]LogLinker: Warning: Can't find file '/Game/OtherBlocks/defaultMat'
+[2019.06.26-19.21.48:207][147]LogLinker: Warning: Can't find file for asset '/Game/OtherBlocks/defaultMat' while loading NULL.
+[2019.06.26-19.21.48:209][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/whiteside'
+[2019.06.26-19.21.48:209][147]LoadErrors: Failed to load /Game/BryansFinalLevel/whiteside.whiteside Referenced by pontoon
+[2019.06.26-19.21.48:210][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/whiteside' while loading NULL.
+[2019.06.26-19.21.48:210][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/blackside'
+[2019.06.26-19.21.48:210][147]LoadErrors: Failed to load /Game/BryansFinalLevel/blackside.blackside Referenced by pontoon
+[2019.06.26-19.21.48:210][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/blackside' while loading NULL.
+[2019.06.26-19.21.48:211][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/lambert1'
+[2019.06.26-19.21.48:211][147]LoadErrors: Failed to load /Game/BryansFinalLevel/lambert1.lambert1 Referenced by pontoon
+[2019.06.26-19.21.48:211][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/lambert1' while loading NULL.
+[2019.06.26-19.21.48:211][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Whitetop'
+[2019.06.26-19.21.48:211][147]LoadErrors: Failed to load /Game/BryansFinalLevel/Whitetop.Whitetop Referenced by pontoon
+[2019.06.26-19.21.48:211][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Whitetop' while loading NULL.
+[2019.06.26-19.21.48:212][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Blacktop'
+[2019.06.26-19.21.48:212][147]LoadErrors: Failed to load /Game/BryansFinalLevel/Blacktop.Blacktop Referenced by pontoon
+[2019.06.26-19.21.48:212][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Blacktop' while loading NULL.
+[2019.06.26-19.21.48:212][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/whiteside'
+[2019.06.26-19.21.48:213][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/whiteside' while loading NULL.
+[2019.06.26-19.21.48:213][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/blackside'
+[2019.06.26-19.21.48:213][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/blackside' while loading NULL.
+[2019.06.26-19.21.48:213][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/lambert1'
+[2019.06.26-19.21.48:214][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/lambert1' while loading NULL.
+[2019.06.26-19.21.48:214][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Whitetop'
+[2019.06.26-19.21.48:214][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Whitetop' while loading NULL.
+[2019.06.26-19.21.48:214][147]LogLinker: Warning: Can't find file '/Game/BryansFinalLevel/Blacktop'
+[2019.06.26-19.21.48:215][147]LogLinker: Warning: Can't find file for asset '/Game/BryansFinalLevel/Blacktop' while loading NULL.
+[2019.06.26-19.21.48:269][147]LogLinker: Warning: Can't find file '/Game/Ben/lambert1'
+[2019.06.26-19.21.48:269][147]LoadErrors: Failed to load /Game/Ben/lambert1.lambert1 Referenced by Manequin_with_animation
+[2019.06.26-19.21.48:270][147]LogLinker: Warning: Can't find file for asset '/Game/Ben/lambert1' while loading NULL.
+[2019.06.26-19.21.48:270][147]LogLinker: Warning: Can't find file '/Game/Ben/M_wood'
+[2019.06.26-19.21.48:270][147]LoadErrors: Failed to load /Game/Ben/M_wood.M_wood Referenced by Manequin_with_animation
+[2019.06.26-19.21.48:270][147]LogLinker: Warning: Can't find file for asset '/Game/Ben/M_wood' while loading NULL.
+[2019.06.26-19.21.48:336][147]LogTexture: Display: Building textures: BoxUVRed0_0_6 (AutoDXT, 2048X2048)
+[2019.06.26-19.21.48:336][147]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/MM_wood002'
+[2019.06.26-19.21.48:337][147]LoadErrors: Failed to load /Game/Xavier_Davis/woodBlocksContent/MM_wood002.MM_wood002 Referenced by SM_MERGED_streetBlocksCWcenter001
+[2019.06.26-19.21.48:337][147]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/MM_wood002' while loading NULL.
+[2019.06.26-19.21.48:338][147]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/MM_wood002'
+[2019.06.26-19.21.48:338][147]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/MM_wood002' while loading NULL.
+[2019.06.26-19.21.48:339][147]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/MM_wood002'
+[2019.06.26-19.21.48:340][147]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/MM_wood002' while loading NULL.
+[2019.06.26-19.21.48:340][147]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst'
+[2019.06.26-19.21.48:340][147]LoadErrors: Failed to load /Game/Xavier_Davis/woodBlocksContent/wood002_Inst.wood002_Inst Referenced by SM_MERGED_streetBlocksCWcenter001
+[2019.06.26-19.21.48:341][147]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst' while loading NULL.
+[2019.06.26-19.21.48:341][147]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst002'
+[2019.06.26-19.21.48:341][147]LoadErrors: Failed to load /Game/Xavier_Davis/woodBlocksContent/wood002_Inst002.wood002_Inst002 Referenced by SM_MERGED_streetBlocksCWcenter001
+[2019.06.26-19.21.48:342][147]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst002' while loading NULL.
+[2019.06.26-19.21.48:343][147]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst003'
+[2019.06.26-19.21.48:343][147]LoadErrors: Failed to load /Game/Xavier_Davis/woodBlocksContent/wood002_Inst003.wood002_Inst003 Referenced by SM_MERGED_streetBlocksCWcenter001
+[2019.06.26-19.21.48:343][147]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst003' while loading NULL.
+[2019.06.26-19.21.48:344][147]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst004'
+[2019.06.26-19.21.48:344][147]LoadErrors: Failed to load /Game/Xavier_Davis/woodBlocksContent/wood002_Inst004.wood002_Inst004 Referenced by SM_MERGED_streetBlocksCWcenter001
+[2019.06.26-19.21.48:344][147]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst004' while loading NULL.
+[2019.06.26-19.21.48:344][147]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/MM_wood002'
+[2019.06.26-19.21.48:344][147]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/MM_wood002' while loading NULL.
+[2019.06.26-19.21.48:345][147]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst'
+[2019.06.26-19.21.48:345][147]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst' while loading NULL.
+[2019.06.26-19.21.48:345][147]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/MM_wood002'
+[2019.06.26-19.21.48:345][147]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/MM_wood002' while loading NULL.
+[2019.06.26-19.21.48:346][147]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/MM_wood002'
+[2019.06.26-19.21.48:346][147]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/MM_wood002' while loading NULL.
+[2019.06.26-19.21.48:346][147]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/MM_wood002'
+[2019.06.26-19.21.48:347][147]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/MM_wood002' while loading NULL.
+[2019.06.26-19.21.48:347][147]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst'
+[2019.06.26-19.21.48:347][147]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst' while loading NULL.
+[2019.06.26-19.21.48:348][147]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst002'
+[2019.06.26-19.21.48:348][147]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst002' while loading NULL.
+[2019.06.26-19.21.48:348][147]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst003'
+[2019.06.26-19.21.48:349][147]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst003' while loading NULL.
+[2019.06.26-19.21.48:349][147]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst004'
+[2019.06.26-19.21.48:349][147]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst004' while loading NULL.
+[2019.06.26-19.21.48:350][147]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/MM_wood002'
+[2019.06.26-19.21.48:350][147]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/MM_wood002' while loading NULL.
+[2019.06.26-19.21.48:350][147]LogLinker: Warning: Can't find file '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst'
+[2019.06.26-19.21.48:350][147]LogLinker: Warning: Can't find file for asset '/Game/Xavier_Davis/woodBlocksContent/wood002_Inst' while loading NULL.
+[2019.06.26-19.21.49:174][147]LogTexture: Display: Building textures: CUVCrane20_1_5 (AutoDXT, 2048X2048)
+[2019.06.26-19.21.49:175][147]LogTexture: Display: Building textures: BoxUVSliver0_0_6 (AutoDXT, 2048X2048)
+[2019.06.26-19.21.49:175][147]LogTexture: Display: Building textures: BoxUVDBlue0_0_6 (AutoDXT, 2048X2048)
+[2019.06.26-19.21.49:175][147]LogTexture: Display: Building textures: BoxUVBrown0_0_6 (AutoDXT, 2048X2048)
+[2019.06.26-19.21.49:176][147]LogLinker: Warning: Can't find file '/Game/box/lambert5'
+[2019.06.26-19.21.49:176][147]LoadErrors: Failed to load /Game/box/lambert5.lambert5 Referenced by SM_MERGED_shadowmoseswhiteboxfinal_20
+[2019.06.26-19.21.49:177][147]LogLinker: Warning: Can't find file for asset '/Game/box/lambert5' while loading NULL.
+[2019.06.26-19.21.49:177][147]LogLinker: Warning: Can't find file '/Game/box/lambert6'
+[2019.06.26-19.21.49:177][147]LoadErrors: Failed to load /Game/box/lambert6.lambert6 Referenced by SM_MERGED_shadowmoseswhiteboxfinal_20
+[2019.06.26-19.21.49:178][147]LogLinker: Warning: Can't find file for asset '/Game/box/lambert6' while loading NULL.
+[2019.06.26-19.21.49:178][147]LogLinker: Warning: Can't find file '/Game/box/lambert5'
+[2019.06.26-19.21.49:178][147]LogLinker: Warning: Can't find file for asset '/Game/box/lambert5' while loading NULL.
+[2019.06.26-19.21.49:179][147]LogLinker: Warning: Can't find file '/Game/box/lambert6'
+[2019.06.26-19.21.49:179][147]LogLinker: Warning: Can't find file for asset '/Game/box/lambert6' while loading NULL.
+[2019.06.26-19.21.49:181][147]LogLinker: Warning: Can't find file '/Game/NickNa/box/Walk_Skeleton'
+[2019.06.26-19.21.49:181][147]LoadErrors: Failed to load /Game/NickNa/box/Walk_Skeleton.Walk_Skeleton Referenced by Walk
+[2019.06.26-19.21.49:182][147]LogLinker: Warning: Can't find file for asset '/Game/NickNa/box/Walk_Skeleton' while loading NULL.
+[2019.06.26-19.21.49:182][147]LogLinker: Warning: Can't find file '/Game/NickNa/box/Walk_PhysicsAsset'
+[2019.06.26-19.21.49:182][147]LoadErrors: Failed to load /Game/NickNa/box/Walk_PhysicsAsset.Walk_PhysicsAsset Referenced by Walk
+[2019.06.26-19.21.49:182][147]LogLinker: Warning: Can't find file for asset '/Game/NickNa/box/Walk_PhysicsAsset' while loading NULL.
+[2019.06.26-19.21.49:183][147]LogLinker: Warning: Can't find file '/Game/NickNa/box/defaultPolygonShader'
+[2019.06.26-19.21.49:183][147]LoadErrors: Failed to load /Game/NickNa/box/defaultPolygonShader.defaultPolygonShader Referenced by Walk
+[2019.06.26-19.21.49:183][147]LogLinker: Warning: Can't find file for asset '/Game/NickNa/box/defaultPolygonShader' while loading NULL.
+[2019.06.26-19.21.49:582][147]LogTexture: Display: Building textures: Second_Wood_High_Pass (BC5, 2048X2048)
+[2019.06.26-19.21.50:754][147]LogTexture: Display: Building textures: Second_Wood (AutoDXT, 2048X2048)
