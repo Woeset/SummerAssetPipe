@@ -5021,3 +5021,781 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.25-22.11.45:076][848]LogSavePackage: Moving '../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/BryansScene6CAD080E47D2E90F3CB775855E15D180.tmp' to '../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/BryansScene.umap'
 [2019.06.25-22.11.46:243][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.06.25-22.11.49:568][932]LogSavePackage: Moving '../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/BryansScene9E54421741653C34D1D2E786C0470F8A.tmp' to '../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/BryansScene.umap'
+[2019.06.25-23.06.16:652][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-23.06.21:170][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-23.09.52:830][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-23.09.55:018][655]LogAIModule: Creating AISystem for world StreetSceneLarge2
+[2019.06.25-23.09.55:025][655]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge2.StreetSceneLarge2
+[2019.06.25-23.09.58:514][655]LogSlate: Window 'Save Content' being destroyed
+[2019.06.25-23.09.58:521][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sheng_Hao/111111111111111111111_2" FILE="../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Sheng_Hao/111111111111111111111_2.uasset" SILENT=true
+[2019.06.25-23.09.58:811][655]LogSavePackage: Moving '../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/111111111111111111111_2D1ADCB834CD47D10EEA9E1A93A63197C.tmp' to '../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Sheng_Hao/111111111111111111111_2.uasset'
+[2019.06.25-23.09.58:851][655]LogSavePackage: Moving '../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/animation_to_unrealanimation0FA0CB6F4F58FDA1261A2C8CF8E65E83.tmp' to '../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Sheng_Hao/animation_to_unrealanimation.uasset'
+[2019.06.25-23.09.58:866][655]LogSavePackage: Moving '../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/animation_to_unrealanimation_Ani130CDF0C4FE40F97B2CCE0A1A71556AF.tmp' to '../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Sheng_Hao/animation_to_unrealanimation_Anim.uasset'
+[2019.06.25-23.09.58:884][655]LogSavePackage: Moving '../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/animation_to_unrealanimation_Phy2A34CF824903652C5A1B37AFB5DDD74C.tmp' to '../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Sheng_Hao/animation_to_unrealanimation_PhysicsAsset.uasset'
+[2019.06.25-23.09.58:897][655]LogSavePackage: Moving '../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/animation_to_unrealanimation_Ske45D4F86A488EFEFF7AB1DC96726E968E.tmp' to '../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Sheng_Hao/animation_to_unrealanimation_Skeleton.uasset'
+[2019.06.25-23.09.58:904][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sheng_Hao/lambert1" FILE="../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Sheng_Hao/lambert1.uasset" SILENT=true
+[2019.06.25-23.09.58:912][655]LogSavePackage: Moving '../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/lambert17FDB32B144FCDE817BC6CFB05A4B80CC.tmp' to '../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Sheng_Hao/lambert1.uasset'
+[2019.06.25-23.09.58:918][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sheng_Hao/new" FILE="../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Sheng_Hao/new.uasset" SILENT=true
+[2019.06.25-23.09.58:931][655]LogSavePackage: Moving '../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/newAE2086274A3ED243FE1DE9ABF47DD509.tmp' to '../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Sheng_Hao/new.uasset'
+[2019.06.25-23.09.58:939][655]Cmd: MAP LOAD FILE="../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/StreetSceneLarge2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.25-23.09.58:939][655]LightingResults: New page: Lighting Build
+[2019.06.25-23.09.58:940][655]LoadErrors: New page: Loading map: StreetSceneLarge2.umap
+[2019.06.25-23.09.58:950][655]MapCheck: New page: Map Check
+[2019.06.25-23.09.58:950][655]LightingResults: New page: Lighting Build
+[2019.06.25-23.09.58:991][655]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.25-23.09.59:043][655]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.25-23.09.59:043][655]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.117ms to complete.
+[2019.06.25-23.09.59:043][655]LogFileHelpers: Loading map 'StreetSceneLarge2' took 0.105
+[2019.06.25-23.10.09:793][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase28)
+[2019.06.25-23.10.10:815][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase2)
+[2019.06.25-23.10.11:409][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlockBase007)
+[2019.06.25-23.10.11:812][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlockIntersect004)
+[2019.06.25-23.10.12:601][797]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.25-23.10.13:043][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlockBase026)
+[2019.06.25-23.10.22:285][371]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.25-23.10.27:330][673]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.25-23.10.27:459][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlockBase003)
+[2019.06.25-23.10.34:454][797]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.25-23.10.36:708][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-23.10.51:370][741]LogStaticMesh: Building static mesh SM_MERGED_PlayerStart...
+[2019.06.25-23.10.53:451][741]LogStaticMesh: Built static mesh [2.08s] /Game/Ben/Ben/SM_MERGED_PlayerStart.SM_MERGED_PlayerStart
+[2019.06.25-23.10.53:788][741]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Ben/Ben/SM_MERGED_PlayerStart.SM_MERGED_PlayerStart
+[2019.06.25-23.11.03:023][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-23.11.34:071][ 14]LogAIModule: Creating AISystem for world BryansScene
+[2019.06.25-23.11.34:115][ 14]LogAssetEditorManager: Opening Asset editor for World /Game/Bryan/BryansFinalLevel/BryansScene.BryansScene
+[2019.06.25-23.11.34:168][ 14]Cmd: MAP LOAD FILE="../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Bryan/BryansFinalLevel/BryansScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.25-23.11.34:168][ 14]LightingResults: New page: Lighting Build
+[2019.06.25-23.11.34:168][ 14]LoadErrors: New page: Loading map: BryansScene.umap
+[2019.06.25-23.11.34:205][ 14]MapCheck: New page: Map Check
+[2019.06.25-23.11.34:205][ 14]LightingResults: New page: Lighting Build
+[2019.06.25-23.11.34:278][ 14]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.25-23.11.34:330][ 14]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.25-23.11.34:332][ 14]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.926ms to complete.
+[2019.06.25-23.11.34:332][ 14]LogFileHelpers: Loading map 'BryansScene' took 0.165
+[2019.06.25-23.11.38:467][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder78)
+[2019.06.25-23.11.50:832][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-23.12.08:164][982]LogTexture: Display: Building textures: Better_Wood_Normal (AutoDXT, 2048X2048)
+[2019.06.25-23.12.08:164][982]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2019.06.25-23.12.08:205][982]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.06.25-23.12.08:205][982]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.25-23.12.08:205][982]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.25-23.12.08:205][982]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2019.06.25-23.12.08:227][982]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2019.06.25-23.12.08:512][982]LogStaticMesh: Building static mesh MERGED_CITY_BLOCK...
+[2019.06.25-23.12.10:699][982]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.06.25-23.12.10:699][982]LogStaticMesh: Built static mesh [2.19s] /Game/CJ/Final_Project/Final_Project/MERGED_CITY_BLOCK.MERGED_CITY_BLOCK
+[2019.06.25-23.12.10:881][982]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/CJ/Final_Project/Final_Project/MERGED_CITY_BLOCK.MERGED_CITY_BLOCK
+[2019.06.25-23.12.11:331][984]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.06.25-23.12.12:573][ 21]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.06.25-23.12.19:682][237]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.06.25-23.12.20:440][261]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.06.25-23.12.21:344][287]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.06.25-23.12.24:445][378]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.06.25-23.12.33:599][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-23.12.43:537][946]LogAIModule: Creating AISystem for world StreetSceneLarge2
+[2019.06.25-23.13.21:241][696]LogAIModule: Creating AISystem for world StreetSceneLarge3
+[2019.06.25-23.13.27:635][368]LogMetaData: Removing '/Game/Sheng_Hao/StreetSceneLarge3.SKEL_StreetSceneLarge3_C' ref from Metadata '/Game/StreetSceneLarge3.PackageMetaData'
+[2019.06.25-23.13.27:635][368]LogMetaData: Removing '/Game/Sheng_Hao/StreetSceneLarge3.StreetSceneLarge3_C' ref from Metadata '/Game/StreetSceneLarge3.PackageMetaData'
+[2019.06.25-23.13.28:168][368]LogSavePackage: Moving '../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/StreetSceneLarge304005B564A83F38AE5F859B41D571B36.tmp' to '../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Sheng_Hao/StreetSceneLarge3.umap'
+[2019.06.25-23.13.28:183][368]LogFileHelpers: Saving map 'StreetSceneLarge3' took 0.532
+[2019.06.25-23.13.31:564][490]LogAssetEditorManager: Opening Asset editor for World /Game/Sheng_Hao/StreetSceneLarge3.StreetSceneLarge3
+[2019.06.25-23.13.31:590][490]Cmd: MAP LOAD FILE="../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Sheng_Hao/StreetSceneLarge3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.25-23.13.31:590][490]LightingResults: New page: Lighting Build
+[2019.06.25-23.13.31:591][490]LoadErrors: New page: Loading map: StreetSceneLarge3.umap
+[2019.06.25-23.13.32:538][490]MapCheck: New page: Map Check
+[2019.06.25-23.13.32:538][490]LightingResults: New page: Lighting Build
+[2019.06.25-23.13.32:634][490]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.25-23.13.32:683][490]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.25-23.13.32:683][490]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.119ms to complete.
+[2019.06.25-23.13.32:686][490]LogFileHelpers: Loading map 'StreetSceneLarge3' took 1.098
+[2019.06.25-23.13.34:934][683]LogActorFactory: Actor Factory created merged
+[2019.06.25-23.13.35:193][707]LogActorFactory: Actor Factory created merged
+[2019.06.25-23.13.39:012][106]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.25-23.13.39:042][106]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.25-23.13.39:775][182]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.25-23.13.40:492][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (merged)
+[2019.06.25-23.13.47:297][ 41]Cmd: TRANSACTION UNDO
+[2019.06.25-23.13.47:297][ 41]LogEditorTransaction: Undo Scale Actors
+[2019.06.25-23.13.57:148][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sideWalkBlock7)
+[2019.06.25-23.14.20:922][200]Cmd: TRANSACTION UNDO
+[2019.06.25-23.14.20:922][200]LogEditorTransaction: Undo Scale Actors
+[2019.06.25-23.14.24:901][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (merged)
+[2019.06.25-23.14.36:696][816]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlockBase13)
+[2019.06.25-23.14.43:306][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (merged)
+[2019.06.25-23.14.57:019][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sideWalkBlock7)
+[2019.06.25-23.14.58:214][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-23.15.02:440][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlockBase36)
+[2019.06.25-23.15.02:817][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlockBase14)
+[2019.06.25-23.15.06:048][357]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (merged)
+[2019.06.25-23.15.06:867][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (merged)
+[2019.06.25-23.15.08:168][587]Cmd: TRANSACTION UNDO
+[2019.06.25-23.15.08:168][587]LogEditorTransaction: Undo Clicking on Actors
+[2019.06.25-23.15.09:722][697]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sideWalkBlock005)
+[2019.06.25-23.15.10:271][732]Cmd: TRANSACTION UNDO
+[2019.06.25-23.15.10:271][732]LogEditorTransaction: Undo Clicking on Actors
+[2019.06.25-23.15.10:900][758]Cmd: TRANSACTION UNDO
+[2019.06.25-23.15.10:900][758]LogEditorTransaction: Undo Clicking on Actors
+[2019.06.25-23.15.11:603][793]Cmd: TRANSACTION UNDO
+[2019.06.25-23.15.11:603][793]LogEditorTransaction: Undo Clicking on Actors
+[2019.06.25-23.15.12:340][838]Cmd: TRANSACTION UNDO
+[2019.06.25-23.15.12:340][838]LogEditorTransaction: Undo Clicking on Actors
+[2019.06.25-23.15.12:668][852]Cmd: TRANSACTION UNDO
+[2019.06.25-23.15.12:668][852]LogEditorTransaction: Undo Set Scale
+[2019.06.25-23.15.12:920][855]Cmd: TRANSACTION UNDO
+[2019.06.25-23.15.12:920][855]LogEditorTransaction: Undo Clicking on Actors
+[2019.06.25-23.15.14:033][921]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.25-23.15.14:398][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase012)
+[2019.06.25-23.15.15:248][  3]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.25-23.15.22:402][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (merged)
+[2019.06.25-23.15.33:994][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-23.15.44:394][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-23.16.15:323][552]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.25-23.16.15:673][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase008)
+[2019.06.25-23.16.19:429][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase007)
+[2019.06.25-23.16.20:015][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-23.16.58:149][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (merged)
+[2019.06.25-23.17.32:277][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-23.17.57:792][733]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.25-23.18.06:727][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (merged)
+[2019.06.25-23.18.34:451][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlockBase40)
+[2019.06.25-23.18.35:853][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlockBase41)
+[2019.06.25-23.18.36:363][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-23.18.47:927][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlockBase2)
+[2019.06.25-23.18.48:531][860]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.25-23.18.49:417][958]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlockBase2)
+[2019.06.25-23.18.50:266][ 11]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.25-23.18.58:726][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-23.19.09:616][855]LogLinker: Warning: Can't find file '/Game/box/lambert5'
+[2019.06.25-23.19.09:616][855]LogLinker: Warning: Can't find file for asset '/Game/box/lambert5' while loading ../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/NickNa/NickNa/SM_MERGED_shadowmoseswhiteboxfinal_20.uasset.
+[2019.06.25-23.19.09:616][855]LoadErrors: Error: /Game/NickNa/NickNa/SM_MERGED_shadowmoseswhiteboxfinal_20 : Can't find file for asset. /Game/box/lambert5
+[2019.06.25-23.19.09:616][855]LogLinker: Warning: Can't find file '/Game/box/lambert6'
+[2019.06.25-23.19.09:617][855]LogLinker: Warning: Can't find file for asset '/Game/box/lambert6' while loading ../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/NickNa/NickNa/SM_MERGED_shadowmoseswhiteboxfinal_20.uasset.
+[2019.06.25-23.19.09:617][855]LoadErrors: Error: /Game/NickNa/NickNa/SM_MERGED_shadowmoseswhiteboxfinal_20 : Can't find file for asset. /Game/box/lambert6
+[2019.06.25-23.19.09:617][855]LogLinker: Warning: Can't find file '/Game/box/lambert5'
+[2019.06.25-23.19.09:617][855]LogLinker: Warning: Can't find file for asset '/Game/box/lambert5' while loading ../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/NickNa/NickNa/SM_MERGED_shadowmoseswhiteboxfinal_20.uasset.
+[2019.06.25-23.19.09:617][855]LogLinker: Warning: Can't find file '/Game/box/lambert6'
+[2019.06.25-23.19.09:617][855]LogLinker: Warning: Can't find file for asset '/Game/box/lambert6' while loading ../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/NickNa/NickNa/SM_MERGED_shadowmoseswhiteboxfinal_20.uasset.
+[2019.06.25-23.19.09:618][855]LogLinker: Warning: Can't find file '/Game/box/lambert5'
+[2019.06.25-23.19.09:618][855]LoadErrors: Failed to load /Game/box/lambert5.lambert5 Referenced by SM_MERGED_shadowmoseswhiteboxfinal_20
+[2019.06.25-23.19.09:618][855]LogLinker: Warning: Can't find file for asset '/Game/box/lambert5' while loading NULL.
+[2019.06.25-23.19.09:618][855]LogLinker: Warning: Can't find file '/Game/box/lambert6'
+[2019.06.25-23.19.09:618][855]LoadErrors: Failed to load /Game/box/lambert6.lambert6 Referenced by SM_MERGED_shadowmoseswhiteboxfinal_20
+[2019.06.25-23.19.09:618][855]LogLinker: Warning: Can't find file for asset '/Game/box/lambert6' while loading NULL.
+[2019.06.25-23.19.09:618][855]LogLinker: Warning: Can't find file '/Game/box/lambert5'
+[2019.06.25-23.19.09:618][855]LogLinker: Warning: Can't find file for asset '/Game/box/lambert5' while loading NULL.
+[2019.06.25-23.19.09:619][855]LogLinker: Warning: Can't find file '/Game/box/lambert6'
+[2019.06.25-23.19.09:619][855]LogLinker: Warning: Can't find file for asset '/Game/box/lambert6' while loading NULL.
+[2019.06.25-23.19.09:625][855]LogStaticMesh: Building static mesh SM_MERGED_shadowmoseswhiteboxfinal_20...
+[2019.06.25-23.19.09:775][855]LogStaticMesh: Built static mesh [0.15s] /Game/NickNa/NickNa/SM_MERGED_shadowmoseswhiteboxfinal_20.SM_MERGED_shadowmoseswhiteboxfinal_20
+[2019.06.25-23.19.09:795][855]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/NickNa/NickNa/SM_MERGED_shadowmoseswhiteboxfinal_20.SM_MERGED_shadowmoseswhiteboxfinal_20
+[2019.06.25-23.19.10:069][856]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
+[2019.06.25-23.19.22:509][309]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.25-23.19.31:119][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-23.19.48:473][932]LogTexture: Display: Building textures: Colors (BGRA8, 2821X1798)
+[2019.06.25-23.19.48:491][932]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Rebekah/Colors.Colors
+[2019.06.25-23.19.48:537][932]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.06.25-23.19.51:753][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-23.20.01:140][ 86]LogStaticMesh: Building static mesh Everthing...
+[2019.06.25-23.20.03:182][ 86]LogStaticMesh: Built static mesh [2.04s] /Game/Root_James/woodBlocksContent/Everthing.Everthing
+[2019.06.25-23.20.04:061][ 86]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Root_James/woodBlocksContent/Everthing.Everthing
+[2019.06.25-23.20.14:484][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-23.20.25:526][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase62)
+[2019.06.25-23.20.26:780][224]Cmd: DELETE
+[2019.06.25-23.20.26:780][224]Cmd: ACTOR DELETE
+[2019.06.25-23.20.26:884][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:886][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:888][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:889][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:891][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:893][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:895][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:897][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:899][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:901][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:903][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:904][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:906][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:908][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:910][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:911][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:913][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:915][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:916][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:918][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:920][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:922][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:923][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:925][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:927][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:929][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:931][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:933][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:935][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:936][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:938][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:940][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:941][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:943][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:945][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:946][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:948][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:950][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:951][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:953][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:954][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:956][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:957][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:959][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:961][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:962][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:963][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:965][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:967][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:968][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:969][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:971][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:972][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:974][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:975][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:977][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:978][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:979][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:981][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:982][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:984][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:985][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:986][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:988][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:989][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:991][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:992][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:993][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:995][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:996][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:997][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.26:999][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:000][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:002][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:003][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:004][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:006][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:007][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:008][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:010][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:011][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:012][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:014][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:015][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:016][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:017][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:018][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:019][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:021][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:022][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:023][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:024][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:026][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:027][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:028][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:029][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:030][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:031][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:033][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:034][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:035][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:036][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:037][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:038][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:039][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:040][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:041][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:042][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:043][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:044][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:045][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:046][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:047][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:048][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:049][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:050][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:051][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:052][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:053][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:054][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:055][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:056][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:057][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:058][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:059][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:059][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:060][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:061][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:062][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:063][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:064][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:065][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:066][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:066][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:067][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:068][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:069][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:070][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:070][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:071][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:072][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:073][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:073][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:074][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:075][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:075][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:076][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:077][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:078][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:078][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:079][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:079][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:080][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:081][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:081][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:082][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:083][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:083][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:084][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:085][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:085][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:086][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:086][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:087][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:087][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:088][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:088][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:089][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:089][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:090][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:090][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:091][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:092][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:092][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:092][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:093][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:093][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:094][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:094][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:094][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:095][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:095][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:095][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:096][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:096][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:096][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:097][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:097][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:098][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:098][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:098][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:099][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:099][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:099][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:099][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:100][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:100][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:100][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:100][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:101][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:101][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:101][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:101][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:102][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:102][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:102][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:102][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:102][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:102][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:103][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:103][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:103][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:103][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:103][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.25-23.20.27:148][224]LogEditorActor: Deleted 214 Actors (0.330 secs)
+[2019.06.25-23.20.29:228][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (merged)
+[2019.06.25-23.20.31:913][592]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.06.25-23.20.35:488][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-23.20.40:865][112]LogAssetEditorManager: Opening Asset editor for World /Game/Sheng_Hao/StreetSceneLarge3.StreetSceneLarge3
+[2019.06.25-23.20.43:356][112]LogSlate: Window 'Save Content' being destroyed
+[2019.06.25-23.20.43:580][112]LogSavePackage: Moving '../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/StreetSceneLarge311E91088411C2CF469A760B384846598.tmp' to '../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Sheng_Hao/StreetSceneLarge3.umap'
+[2019.06.25-23.20.43:619][112]LogFileHelpers: Saving map 'StreetSceneLarge3' took 0.253
+[2019.06.25-23.20.43:624][112]Cmd: MAP LOAD FILE="../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Sheng_Hao/StreetSceneLarge3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.25-23.20.43:624][112]LightingResults: New page: Lighting Build
+[2019.06.25-23.20.43:625][112]LoadErrors: New page: Loading map: StreetSceneLarge3.umap
+[2019.06.25-23.20.43:625][112]MapCheck: New page: Map Check
+[2019.06.25-23.20.43:625][112]LightingResults: New page: Lighting Build
+[2019.06.25-23.20.43:686][112]LogAIModule: Creating AISystem for world StreetSceneLarge3
+[2019.06.25-23.20.43:689][112]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.25-23.20.43:741][112]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.25-23.20.43:741][112]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.103ms to complete.
+[2019.06.25-23.20.43:742][112]LogFileHelpers: Loading map 'StreetSceneLarge3' took 0.120
+[2019.06.25-23.20.45:106][170]LogAssetEditorManager: Opening Asset editor for World /Game/Sheng_Hao/StreetSceneLarge3.StreetSceneLarge3
+[2019.06.25-23.20.45:133][170]Cmd: MAP LOAD FILE="../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Sheng_Hao/StreetSceneLarge3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.25-23.20.45:133][170]LightingResults: New page: Lighting Build
+[2019.06.25-23.20.45:134][170]LoadErrors: New page: Loading map: StreetSceneLarge3.umap
+[2019.06.25-23.20.45:135][170]MapCheck: New page: Map Check
+[2019.06.25-23.20.45:135][170]LightingResults: New page: Lighting Build
+[2019.06.25-23.20.45:171][170]LogAIModule: Creating AISystem for world StreetSceneLarge3
+[2019.06.25-23.20.45:174][170]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.25-23.20.45:222][170]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.25-23.20.45:223][170]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.094ms to complete.
+[2019.06.25-23.20.45:224][170]LogFileHelpers: Loading map 'StreetSceneLarge3' took 0.091
+[2019.06.25-23.21.02:508][297]LogStaticMesh: Building static mesh Victor_Block7...
+[2019.06.25-23.21.08:303][297]LogStaticMesh: Built static mesh [5.80s] /Game/Victor/Victor_Block7.Victor_Block7
+[2019.06.25-23.21.10:238][297]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Victor/Victor_Block7.Victor_Block7
+[2019.06.25-23.21.16:500][673]LogSlate: Window 'Victor_Block7' being destroyed
+[2019.06.25-23.21.16:505][673]LogSlate: Window 'Victor_Block7' being destroyed
+[2019.06.25-23.21.33:266][454]LogSavePackage: Moving '../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Saved/StreetSceneLarge351604722493CCAC53D11A28601C95106.tmp' to '../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Sheng_Hao/StreetSceneLarge3.umap'
+[2019.06.25-23.23.04:269][995]LogAssetEditorManager: Opening Asset editor for World /Game/Sheng_Hao/StreetSceneLarge3.StreetSceneLarge3
+[2019.06.25-23.23.04:296][995]Cmd: MAP LOAD FILE="../../../../../firefox/SummerAssetPipe/BaseBlock/BaseCityBlock/Content/Sheng_Hao/StreetSceneLarge3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.25-23.23.04:296][995]LightingResults: New page: Lighting Build
+[2019.06.25-23.23.04:296][995]LoadErrors: New page: Loading map: StreetSceneLarge3.umap
+[2019.06.25-23.23.04:296][995]MapCheck: New page: Map Check
+[2019.06.25-23.23.04:296][995]LightingResults: New page: Lighting Build
+[2019.06.25-23.23.04:333][995]LogAIModule: Creating AISystem for world StreetSceneLarge3
+[2019.06.25-23.23.04:336][995]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.25-23.23.04:384][995]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.25-23.23.04:384][995]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.088ms to complete.
+[2019.06.25-23.23.04:385][995]LogFileHelpers: Loading map 'StreetSceneLarge3' took 0.091
+[2019.06.25-23.23.08:214][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-23.23.15:124][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.25-23.23.40:882][395]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.26-04.47.37:716][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (merged)
+[2019.06.26-04.47.49:272][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.26-04.54.50:059][947]LogSlate: Window 'BaseCityBlock - Unreal Editor' being destroyed
+[2019.06.26-04.54.50:063][947]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft Pinyin).
+[2019.06.26-04.54.50:331][948]Cmd: QUIT_EDITOR
+[2019.06.26-04.54.50:397][948]LogExit: Preparing to exit.
+[2019.06.26-04.54.50:863][948]LogExit: Editor shut down
+[2019.06.26-04.54.50:865][948]LogExit: Transaction tracking system shut down
+[2019.06.26-04.54.53:192][948]LogExit: Object subsystem successfully closed.
+[2019.06.26-04.54.53:237][948]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.06.26-04.54.53:248][948]LogD3D11RHI: Shutdown
+[2019.06.26-04.54.53:248][948]LogD3D11RHI: CleanupD3DDevice
+[2019.06.26-04.54.53:284][948]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.06.26-04.54.53:300][948]LogModuleManager: Shutting down and abandoning module TextureEditor (638)
+[2019.06.26-04.54.53:301][948]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (636)
+[2019.06.26-04.54.53:301][948]LogModuleManager: Shutting down and abandoning module PinnedCommandList (634)
+[2019.06.26-04.54.53:301][948]LogModuleManager: Shutting down and abandoning module SkeletonEditor (632)
+[2019.06.26-04.54.53:301][948]LogModuleManager: Shutting down and abandoning module AnimationEditor (630)
+[2019.06.26-04.54.53:301][948]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (628)
+[2019.06.26-04.54.53:301][948]LogModuleManager: Shutting down and abandoning module MeshBuilder (626)
+[2019.06.26-04.54.53:301][948]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (624)
+[2019.06.26-04.54.53:301][948]LogModuleManager: Shutting down and abandoning module SceneOutliner (622)
+[2019.06.26-04.54.53:301][948]LogModuleManager: Shutting down and abandoning module AddContentDialog (620)
+[2019.06.26-04.54.53:316][948]LogModuleManager: Shutting down and abandoning module WidgetCarousel (619)
+[2019.06.26-04.54.53:316][948]LogModuleManager: Shutting down and abandoning module EditorWidgets (616)
+[2019.06.26-04.54.53:316][948]LogModuleManager: Shutting down and abandoning module CollectionManager (614)
+[2019.06.26-04.54.53:316][948]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (612)
+[2019.06.26-04.54.53:316][948]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.06.26-04.54.53:316][948]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.06.26-04.54.53:316][948]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.06.26-04.54.53:317][948]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.06.26-04.54.53:317][948]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.06.26-04.54.53:317][948]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.06.26-04.54.53:317][948]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.06.26-04.54.53:317][948]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.06.26-04.54.53:317][948]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.06.26-04.54.53:317][948]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.06.26-04.54.53:317][948]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.06.26-04.54.53:317][948]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.06.26-04.54.53:317][948]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.06.26-04.54.53:317][948]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.06.26-04.54.53:317][948]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.06.26-04.54.53:317][948]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.06.26-04.54.53:317][948]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.06.26-04.54.53:317][948]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.06.26-04.54.53:317][948]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.06.26-04.54.53:317][948]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.06.26-04.54.53:317][948]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.06.26-04.54.53:317][948]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.06.26-04.54.53:317][948]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.06.26-04.54.53:317][948]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.06.26-04.54.53:317][948]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.06.26-04.54.53:317][948]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.06.26-04.54.53:317][948]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.06.26-04.54.53:317][948]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.06.26-04.54.53:317][948]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.06.26-04.54.53:317][948]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.06.26-04.54.53:317][948]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.06.26-04.54.53:318][948]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.06.26-04.54.53:318][948]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.06.26-04.54.53:318][948]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.06.26-04.54.53:318][948]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.06.26-04.54.53:318][948]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.06.26-04.54.53:318][948]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.06.26-04.54.53:318][948]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.06.26-04.54.53:318][948]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.06.26-04.54.53:318][948]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.06.26-04.54.53:318][948]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.06.26-04.54.53:318][948]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.06.26-04.54.53:318][948]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.06.26-04.54.53:318][948]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.06.26-04.54.53:318][948]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.06.26-04.54.53:318][948]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.06.26-04.54.53:318][948]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.06.26-04.54.53:318][948]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.06.26-04.54.53:318][948]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.06.26-04.54.53:318][948]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.06.26-04.54.53:669][948]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.06.26-04.54.53:669][948]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.06.26-04.54.53:669][948]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.06.26-04.54.53:669][948]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.06.26-04.54.53:669][948]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.06.26-04.54.53:669][948]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.06.26-04.54.53:669][948]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.06.26-04.54.53:669][948]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.06.26-04.54.53:670][948]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.06.26-04.54.53:670][948]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.06.26-04.54.53:670][948]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.06.26-04.54.53:670][948]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.06.26-04.54.53:670][948]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.06.26-04.54.53:670][948]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.06.26-04.54.53:670][948]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.06.26-04.54.53:670][948]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.06.26-04.54.53:670][948]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.06.26-04.54.53:670][948]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.06.26-04.54.53:670][948]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.06.26-04.54.53:670][948]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.06.26-04.54.53:670][948]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.06.26-04.54.53:670][948]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.06.26-04.54.53:671][948]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.06.26-04.54.53:739][948]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.06.26-04.54.53:739][948]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.06.26-04.54.53:739][948]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.06.26-04.54.53:739][948]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.06.26-04.54.53:739][948]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.06.26-04.54.53:739][948]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.06.26-04.54.53:741][948]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.06.26-04.54.53:741][948]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.06.26-04.54.53:741][948]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.06.26-04.54.53:741][948]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.06.26-04.54.53:742][948]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.06.26-04.54.53:743][948]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.06.26-04.54.53:743][948]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.06.26-04.54.53:743][948]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.06.26-04.54.53:743][948]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.06.26-04.54.53:743][948]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.06.26-04.54.53:743][948]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.06.26-04.54.53:743][948]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.06.26-04.54.53:743][948]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.06.26-04.54.53:743][948]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.06.26-04.54.53:743][948]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.06.26-04.54.53:743][948]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.06.26-04.54.53:743][948]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.06.26-04.54.53:743][948]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.06.26-04.54.53:743][948]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.06.26-04.54.53:743][948]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.06.26-04.54.53:743][948]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.06.26-04.54.53:743][948]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.06.26-04.54.53:743][948]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.06.26-04.54.53:743][948]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.06.26-04.54.53:743][948]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.06.26-04.54.53:743][948]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.06.26-04.54.53:747][948]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.06.26-04.54.54:059][948]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.06.26-04.54.54:059][948]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.06.26-04.54.54:059][948]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.06.26-04.54.54:059][948]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.06.26-04.54.54:059][948]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.06.26-04.54.54:059][948]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.06.26-04.54.54:059][948]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.06.26-04.54.54:059][948]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.06.26-04.54.54:059][948]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.06.26-04.54.54:059][948]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.06.26-04.54.54:059][948]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.06.26-04.54.54:059][948]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.06.26-04.54.54:059][948]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.06.26-04.54.54:059][948]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.06.26-04.54.54:059][948]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.06.26-04.54.54:059][948]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.06.26-04.54.54:059][948]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.06.26-04.54.54:066][948]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.06.26-04.54.54:066][948]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.06.26-04.54.54:066][948]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.06.26-04.54.54:066][948]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.06.26-04.54.54:066][948]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.06.26-04.54.54:066][948]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.06.26-04.54.54:066][948]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.06.26-04.54.54:066][948]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.06.26-04.54.54:066][948]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.06.26-04.54.54:067][948]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.06.26-04.54.54:067][948]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.06.26-04.54.54:067][948]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.06.26-04.54.54:067][948]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.06.26-04.54.54:067][948]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.06.26-04.54.54:067][948]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.06.26-04.54.54:067][948]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.06.26-04.54.54:067][948]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.06.26-04.54.54:067][948]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.06.26-04.54.54:067][948]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.06.26-04.54.54:067][948]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.06.26-04.54.54:067][948]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.06.26-04.54.54:067][948]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.06.26-04.54.54:067][948]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.06.26-04.54.54:067][948]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.06.26-04.54.54:067][948]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.06.26-04.54.54:070][948]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.06.26-04.54.54:070][948]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.06.26-04.54.54:070][948]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.06.26-04.54.54:071][948]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.06.26-04.54.54:071][948]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.06.26-04.54.54:071][948]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.06.26-04.54.54:071][948]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.06.26-04.54.54:071][948]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.06.26-04.54.54:071][948]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.06.26-04.54.54:071][948]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.06.26-04.54.54:071][948]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.06.26-04.54.54:071][948]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.06.26-04.54.54:071][948]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.06.26-04.54.54:071][948]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.06.26-04.54.54:071][948]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.06.26-04.54.54:071][948]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.06.26-04.54.54:071][948]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.06.26-04.54.54:173][948]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.06.26-04.54.54:277][948]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.06.26-04.54.54:277][948]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.06.26-04.54.54:277][948]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.06.26-04.54.54:277][948]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.06.26-04.54.54:277][948]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.06.26-04.54.54:277][948]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.06.26-04.54.54:277][948]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.06.26-04.54.54:292][948]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.06.26-04.54.54:292][948]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.06.26-04.54.54:292][948]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.06.26-04.54.54:292][948]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.06.26-04.54.54:296][948]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.06.26-04.54.54:436][948]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.06.26-04.54.54:523][948]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.06.26-04.54.54:523][948]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.06.26-04.54.54:523][948]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.06.26-04.54.54:523][948]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.06.26-04.54.54:523][948]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.06.26-04.54.54:523][948]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.06.26-04.54.54:525][948]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.06.26-04.54.54:563][948]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.06.26-04.54.54:563][948]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.06.26-04.54.54:564][948]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.06.26-04.54.54:564][948]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.06.26-04.54.54:564][948]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.06.26-04.54.54:564][948]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.06.26-04.54.54:564][948]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.06.26-04.54.54:564][948]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.06.26-04.54.54:564][948]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.06.26-04.54.54:564][948]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.06.26-04.54.54:564][948]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.06.26-04.54.54:564][948]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.06.26-04.54.54:564][948]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.06.26-04.54.54:564][948]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.06.26-04.54.54:564][948]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.06.26-04.54.54:564][948]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.06.26-04.54.54:574][948]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.06.26-04.54.54:574][948]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.06.26-04.54.54:574][948]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.06.26-04.54.54:574][948]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.06.26-04.54.54:586][948]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.06.26-04.54.54:586][948]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.06.26-04.54.54:586][948]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.06.26-04.54.54:586][948]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.06.26-04.54.54:586][948]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.06.26-04.54.54:586][948]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.06.26-04.54.54:587][948]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.06.26-04.54.54:587][948]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.06.26-04.54.54:587][948]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.06.26-04.54.54:587][948]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.06.26-04.54.54:587][948]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.06.26-04.54.54:587][948]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.06.26-04.54.54:587][948]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.06.26-04.54.54:587][948]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.06.26-04.54.54:587][948]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.06.26-04.54.54:587][948]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.06.26-04.54.54:587][948]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.06.26-04.54.54:587][948]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.06.26-04.54.54:637][948]LogDerivedDataCache: Shutdown
+[2019.06.26-04.54.54:637][948]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.06.26-04.54.54:637][948]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.06.26-04.54.54:637][948]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.06.26-04.54.54:637][948]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.06.26-04.54.54:637][948]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.06.26-04.54.54:637][948]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.06.26-04.54.54:637][948]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.06.26-04.54.54:637][948]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.06.26-04.54.54:637][948]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.06.26-04.54.54:637][948]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.06.26-04.54.54:637][948]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.06.26-04.54.54:637][948]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.06.26-04.54.54:637][948]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.06.26-04.54.54:637][948]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.06.26-04.54.54:637][948]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.06.26-04.54.54:637][948]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.06.26-04.54.54:638][948]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.06.26-04.54.54:638][948]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.06.26-04.54.54:649][948]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.06.26-04.54.54:649][948]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.06.26-04.54.54:649][948]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.06.26-04.54.54:649][948]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.06.26-04.54.54:649][948]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.06.26-04.54.54:654][948]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.06.26-04.54.54:654][948]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.06.26-04.54.54:661][948]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.06.26-04.54.54:661][948]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.06.26-04.54.54:718][948]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.06.26-04.54.54:718][948]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.06.26-04.54.54:718][948]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.06.26-04.54.54:718][948]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.06.26-04.54.54:718][948]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.06.26-04.54.54:718][948]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.06.26-04.54.54:718][948]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.06.26-04.54.54:718][948]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.06.26-04.54.54:718][948]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.06.26-04.54.54:718][948]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.06.26-04.54.54:718][948]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.06.26-04.54.54:719][948]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.06.26-04.54.54:719][948]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.06.26-04.54.54:719][948]LogHMD: Freeing OpenVRDLLHandle.
+[2019.06.26-04.54.54:719][948]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.06.26-04.54.54:719][948]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.06.26-04.54.54:719][948]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.06.26-04.54.54:719][948]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.06.26-04.54.54:719][948]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.06.26-04.54.54:720][948]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.06.26-04.54.54:720][948]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.06.26-04.54.54:736][948]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.06.26-04.54.54:736][948]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.06.26-04.54.54:736][948]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B49D51946-48B7-778E-529B-F88A95AF7294%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=6c7a65354d8678432193339d6d38376e%7Ce59dd9739eac44cfaade75293f338941%7C490a3211-edf3-435e-9658-999c512775ad&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.06.26-04.54.54:765][948]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.06.26-04.54.54:767][948]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.06.26-04.54.54:767][948]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.06.26-04.54.54:767][948]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.06.26-04.54.54:767][948]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.06.26-04.54.54:767][948]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.06.26-04.54.54:768][948]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.06.26-04.54.54:768][948]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.06.26-04.54.54:768][948]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.06.26-04.54.54:768][948]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.06.26-04.54.54:768][948]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.06.26-04.54.54:770][948]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.06.26-04.54.54:785][948]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.06.26-04.54.54:785][948]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.06.26-04.54.54:785][948]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.06.26-04.54.54:785][948]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.06.26-04.54.54:785][948]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.06.26-04.54.54:785][948]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.06.26-04.54.54:788][948]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.06.26-04.54.54:788][948]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.06.26-04.54.54:788][948]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.06.26-04.54.54:788][948]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.06.26-04.54.54:788][948]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.06.26-04.54.54:788][948]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.06.26-04.54.54:788][948]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.06.26-04.54.54:788][948]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.06.26-04.54.54:788][948]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.06.26-04.54.54:788][948]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.06.26-04.54.54:788][948]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.06.26-04.54.54:793][948]LogExit: Exiting.
+[2019.06.26-04.54.54:823][948]Log file closed, 06/25/19 22:54:54
